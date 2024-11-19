@@ -1,0 +1,824 @@
+Time: 05/06/2024 10:54:45:610 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'Siti_Muntama','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:54:45:618 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:54:45:720 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxAgentAux '9','Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:54:45:734 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','Siti_Muntama','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:54:45:734 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='Siti_Muntama' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:54:45:736 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 157
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 05/06/2024 10:54:47:346 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Siti_Muntama', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:54:47:858 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:54:48:304 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:54:49:913 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Siti_Muntama', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:54:50:320 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Siti_Muntama','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:54:50:830 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Siti_Muntama','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:00:462 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','Siti_Muntama','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:00:473 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Siti_Muntama','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:00:482 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','Siti_Muntama','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:00:509 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:00:558 AM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '201010','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:00:592 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:00:654 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:00:667 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Siti_Muntama','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:00:676 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Siti_Muntama','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:00:973 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Siti_Muntama','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:01:706 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','Siti_Muntama','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:01:944 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Siti_Muntama','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:02:440 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Siti_Muntama','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:02:940 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Siti_Muntama','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:05:418 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'sam','UideskIndonesia','Siti_Muntama','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:05:512 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'sams','UideskIndonesia','Siti_Muntama','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:05:672 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'samsu','UideskIndonesia','Siti_Muntama','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:07:540 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240222155832','UideskIndonesia','Siti_Muntama','GETDATABRAND'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:07:655 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240222155832','UideskIndonesia','Siti_Muntama','UIDESK313'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:20:754 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Siti_Muntama','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:42:881 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00002','UideskIndonesia','Siti_Muntama','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:43:387 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00002','UideskIndonesia','Siti_Muntama','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:44:396 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '31','UideskIndonesia','Siti_Muntama','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:50:025 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00007','BRA-00002','Siti_Muntama','UIDESK332'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:52:171 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT3-00058','UideskIndonesia','Siti_Muntama','UIDESK314'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:55:52:182 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '1073','UideskIndonesia','Siti_Muntama','UIDESK311'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:01:196 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00002','UideskIndonesia','Siti_Muntama','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:01:205 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT3-00058','UideskIndonesia','Siti_Muntama','UIDESK314'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:01:212 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT2-00054','UideskIndonesia','Siti_Muntama','UIDESK310'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:01:480 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240222155832','UideskIndonesia','Siti_Muntama','UIDESK321'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:01:590 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '1073','UideskIndonesia','Siti_Muntama','UIDESK311'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:01:693 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00002','UideskIndonesia','Siti_Muntama','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:01:716 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT1-00044','UideskIndonesia','Siti_Muntama','UIDESK309'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:02:206 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '31','UideskIndonesia','Siti_Muntama','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:02:238 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00007','BRA-00002','Siti_Muntama','UIDESK332'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:06:227 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Insert_Transaction '240222155832','20240605105605645','Call','BRA-00002','CAT-00007','CT1-00044','CT2-00054','CT3-00058','<p>240505HJ2YN2Q2</p>
+','<p>240505HJ2YN2Q2</p>
+','1','Open','Siti_Muntama','202406051056056457575217','SAMSU%20RIZAL','rizalsamsurizal708@gmail.com','6285782431208','[object Object]','-','240505HJ2YN2Q2','Tiktok Shop','Case Follow Up','CT3-00058','Call','2024-06-05T10:54:57','31','1','Siti_Muntama','1073','3','202406051056056457575217', '20240605105605645757521858', '-','0','-','Coach'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:06:445 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_ListDataTransactionticket '240222155832','Siti_Muntama','null'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:11:157 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_PublishTransaction '240222155832','Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:13:508 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Siti_Muntama', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:13:973 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Siti_Muntama','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:14:491 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:14:935 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Siti_Muntama','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:15:508 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:17:146 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Siti_Muntama', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:34:049 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','Siti_Muntama','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:34:059 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Siti_Muntama','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:34:069 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','Siti_Muntama','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:34:078 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:34:144 AM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '201010','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:34:198 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:34:247 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:34:260 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Siti_Muntama','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:34:269 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Siti_Muntama','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:34:559 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Siti_Muntama','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:35:072 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','Siti_Muntama','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:35:584 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Siti_Muntama','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:36:094 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Siti_Muntama','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:36:551 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Siti_Muntama','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:39:370 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Siti_Muntama','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:39:482 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Siti_Muntama','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:39:494 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Siti_Muntama','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:39:585 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Siti_Muntama','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:39:597 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Siti_Muntama','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:39:688 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Siti_Muntama','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:39:700 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Siti_Muntama','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:39:788 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Siti_Muntama','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:39:798 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Siti_Muntama','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:39:982 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Siti_Muntama','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:39:991 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Siti_Muntama','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:40:096 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Siti_Muntama','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:40:107 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Siti_Muntama','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:40:201 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Siti_Muntama','eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudF9pZCI6NDA1MSwidXNlcl9pZCI6MjA3MywiYWNjb3VudF9pZCI6Mzg3MCwibmFtZSI6IlVJRGVzayIsImVtYWlsIjoic2EtMjA3My1GWUdUSi4xNzE2NzgxNDYyQGlhbS5iYW50dWRhZ2FuZy5jb20iLCJhZ2VudF90eXBlIjoic2VydmljZV9hY2NvdW50Iiwic3RvcmVfcmVzdHJpY3RlZCI6MCwic3RvcmVzIjpbIlRLUEQtNjg1NzY0MyIsIlRLUEQtNzk4NTA2MiIsIlNIUEUtNjQ4NzQ5OTIiLCJTSFBFLTYxNTE2MjA3IiwiTFpEQS0yNTE4OSIsIlRLUEQtODEwMjU0MSIsIlNIUEUtMjgyMDQ5NjIxIiwiVEtQRC0xMTU2MDcwMyIsIlRLUEQtOTk1Nzc5MCIsIlRLUEQtOTI4Njk2NSIsIlRLUEQtNjA5MDk2MiIsIlRLUEQtOTE3MzgwOSIsIlRLUEQtMTMzMTkxMDMiLCJUS1BELTEyMDk1MDY2IiwiVEtQRC0xMzgyNDM3MSIsIlRLUEQtODMyODkzMSIsIlNIUEUtODU0NzM5NjAiLCJUS1BELTEzMTQ3NDE0IiwiU0hQRS05NzI5MTE0NSIsIlRLUEQtODkyMzc4MyIsIlNIUEUtMTE3OTI1Njk0IiwiVEtQRC0zODU5NjAxIiwiU0hQRS0yMjU3MTA2MTYiLCJTSFBFLTIyMTYwMjYxOSIsIlRLUEQtNzE2NjgwMSIsIlNIUEUtMzI1MjQwNTU2IiwiVEtQRC05NzMxNjAzIiwiVEtQRC0xNDQzNjAwNiIsIlNIUEUtMjQyNTg2MDg3IiwiU0hQRS0yNDAyMjk3NjIiLCJUS1BELTExMTM5MDg1IiwiU0hQRS0zMjgyODQ3NDIiLCJTSFBFLTI4MTk0MjU2MyIsIlNIUEUtMzczNTQwNjg3IiwiU0hQRS0yOTQ5MzQyNDAiLCJTSFBFLTQ3NDU1OTQ1NCIsIlNIUEUtMzc0OTI3OTQzIiwiVEtQRC0xNTUwOTM4OCIsIlNIUEUtNDIxNjUzODc1IiwiVEtQRC0xNTY1NTYyMCIsIlNIUEUtNzE5MTg4NDc4IiwiVEtQRC0xNTYwNzgyOCIsIlNIUEUtNzc4MDYzOTA3IiwiU0hQRS05OTYyNTMxNDQiLCJTSFBFLTk3MDEzNTY4MSIsIlNIUEUtODg2MTkyNzA5IiwiTFpEQS00MDExOTU5MjAxOTEiLCJMWkRBLTQwMTE5NTU1Mjg4MiIsIkxaREEtNDAxMTk2MDQ4Mzc2IiwiTFpEQS00MDExOTU5Njg0NzEiLCJMWkRBLTQwMTE5NTYzMjk4NSIsIkxaREEtNDAwNjExNjA2MjA2IiwiVEtQRC0xNjI2NDEwOCIsIlNIUEUtMzIyNjIwNzM3IiwiTFpEQS00MDE3ODA1MjgzNjciLCJMWkRBLTQwMTYyNzAwODc1NyIsIlRLUEQtNDkyNjYxMSIsIlRLUEQtMTEwMjc5MTgiLCJUS1BELTgxNzQ2MTQiLCJTSFBFLTQxOTI1NzE0MSIsIlNIUEUtMTA1ODc0NTAwNiIsIlNIUEUtOTgwMDg4MTUzIiwiTFpEQS00MDE0NTMyNDgwMTAiLCJMWkRBLTQwMDcwNzAzOTY5NiIsIkxaREEtNDAxNjEwMTkyMzgzIiwiTFpEQS00MDE1OTIwMTYwMTQiLCJMWkRBLTQwMTE5NjU0NDI3MSIsIkxaREEtNDAxMTk2NTYwMTYxIiwiTFpEQS00MDA1OTA1MTY0MjAiLCJUS1RLLTc0OTQ3NTM1MDMwMzg1MDc3MzQiLCJUS1BELTE3Mjk5ODEwIiwiU0hQRS0xMjAyMDg2MTk4IiwiTFpEQS00MDE5MDEwODg2MjciLCJUS1RLLTc0OTQ2MDMzNDAzMDM5Mjc0OTEiLCJTSFBFLTExOTczNjYxMzgiXSwicHJpdmlsZWdlIjpbXSwibWVtYmVyc2hpcCI6eyJwYWNrYWdlX25hbWUiOiJQUk8iLCJtZW1iZXJzaGlwX2VuZCI6IjIwMjQtMDYtMzBUMTc6MDA6MDAuMDAwWiIsImFjdGl2ZSI6MSwibWF4X3N0b3JlIjo3NiwibWF4X2VtcGxveWVlIjoxNywibWF4X29yZGVyIjotMSwib3JkZXJfbXRkIjowfSwiYWdlbnRfYWxpYXMiOiIiLCJzZXNzaW9uX2VuZCI6IjIwMjQtMDgtMDQgMDM6NTY6NDAiLCJpYXQiOjE3MTc1NTk4MDAsImV4cCI6MTcxNzU2MzQwMH0.8JXe_a68GQvGUJ-_eebApeMULc3OAK-49aKh48PYuJ8','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:40:215 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Siti_Muntama','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:48:010 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'sam','UideskIndonesia','Siti_Muntama','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:48:106 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'sams','UideskIndonesia','Siti_Muntama','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:48:300 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'samsu','UideskIndonesia','Siti_Muntama','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:49:719 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240222155832','UideskIndonesia','Siti_Muntama','GETDATABRAND'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:49:821 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240222155832','UideskIndonesia','Siti_Muntama','UIDESK313'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:54:239 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Siti_Muntama','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:54:753 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Siti_Muntama','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:55:351 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '45','UideskIndonesia','Siti_Muntama','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:56:59:045 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00000','BRA-00001','Siti_Muntama','UIDESK332'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:00:466 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT3-00176','UideskIndonesia','Siti_Muntama','UIDESK314'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:00:480 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '1099','UideskIndonesia','Siti_Muntama','UIDESK311'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:16:750 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Siti_Muntama','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:16:857 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00000','BRA-00001','Siti_Muntama','UIDESK332'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:17:000 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240222155832','UideskIndonesia','Siti_Muntama','UIDESK321'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:17:266 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Siti_Muntama','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:17:277 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT1-00054','UideskIndonesia','Siti_Muntama','UIDESK309'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:17:774 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT3-00176','UideskIndonesia','Siti_Muntama','UIDESK314'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:17:786 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '1099','UideskIndonesia','Siti_Muntama','UIDESK311'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:18:283 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '45','UideskIndonesia','Siti_Muntama','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:18:296 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT2-00077','UideskIndonesia','Siti_Muntama','UIDESK310'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:18:794 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Insert_Transaction '240222155832','20240605105718469','Call','BRA-00001','CAT-00000','CT1-00054','CT2-00077','CT3-00176','<p>240505HJ2YN2Q2 A</p>
+','<p>240505HJ2YN2Q2 B</p>
+','3','Open','Siti_Muntama','202406051057184691764836','SAMSU%20RIZAL','rizalsamsurizal708@gmail.com','6285782431208','[object Object]','-','240505HJ2YN2Q2','Website','Case Follow Up','CT3-00176','Call','2024-06-05T10:56:32','45','1','Siti_Muntama','1099','3','202406051057184691764836', '20240605105718469176483707', '-','0','-','Others'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:18:932 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_ListDataTransactionticket '240222155832','Siti_Muntama','null'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:21:714 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_PublishTransaction '240222155832','Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:24:670 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Siti_Muntama', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:26:086 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Siti_Muntama', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:26:269 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:26:784 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:27:232 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Siti_Muntama','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:27:732 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Siti_Muntama','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:29:282 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:29:747 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:30:260 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Siti_Muntama','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:30:719 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Siti_Muntama','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:36:661 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxFilterDate '2024-06-05','2024-06-05','Siti_Muntama','CheckDay'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:36:823 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxHistoryTicket '2024-06-05','2024-06-05','Siti_Muntama',''
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:40:818 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '1','Siti_Muntama','UIDESK57'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:40:842 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '6','Siti_Muntama','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:40:851 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','Siti_Muntama','UIDESK116'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:40:908 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','Siti_Muntama','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:40:928 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Siti_Muntama','UIDESK115'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:41:117 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailCounting 'Siti_Muntama','layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:41:133 AM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '201010','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:41:166 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:41:216 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:41:227 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Siti_Muntama','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:41:235 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Siti_Muntama','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:41:425 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240605105605645','Siti_Muntama','UIDESK56'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:42:040 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240605105605645','Siti_Muntama','UIDESK54'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:42:706 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmMasterDropdown 'UideskIndonesia','InboxTable','Siti_Muntama','UIDESK100'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:42:798 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxFilterDate '0','0','Siti_Muntama','FilterDate'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:43:380 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240605105605645','Siti_Muntama','UIDESK55'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:43:472 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240605105605645','Siti_Muntama','UIDESK59'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:43:981 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '240222155832','Siti_Muntama','UIDESK53'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:57:44:498 AM
+---------------------------Failed-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240605105605645','Siti_Muntama','UIDESK60'
+Message: Arithmetic overflow error converting expression to data type bigint.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TrySetMetaData(_SqlMetaDataSet metaData, Boolean moreInfo)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at ICC.WebServiceGetDataMaster.UIDESK_TrmMasterCombo(String TrxID, String TrxUserName, String TrxAction) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\WebServiceGetDataMaster.asmx.vb:line 5429
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 05/06/2024 10:57:44:503 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240605105605645','Siti_Muntama','UIDESK60'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:58:17:921 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','Siti_Muntama','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:58:17:931 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Siti_Muntama','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:58:17:991 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','Siti_Muntama','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:58:18:001 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:58:18:010 AM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '201010','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:58:18:079 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:58:18:118 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:58:18:126 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Siti_Muntama','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:58:18:139 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Siti_Muntama','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:58:18:438 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Siti_Muntama','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:58:18:939 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','Siti_Muntama','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:58:19:439 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Siti_Muntama','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:58:19:938 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Siti_Muntama','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 10:58:20:455 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Siti_Muntama','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 05/06/2024 11:02:30:494 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','Siti_Muntama','Insert'
+Message: Invalid object name 'INV_TRX_LIC'.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.TrmAux.InsertLogoutActivity(String TrxLoginID, String TrxLoginUserName, String TrxAction) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\asmx\TrmAux.asmx.vb:line 256
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 05/06/2024 11:02:30:496 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','Siti_Muntama','Insert'
+---------------------------Success-------------------------------------------------------
+

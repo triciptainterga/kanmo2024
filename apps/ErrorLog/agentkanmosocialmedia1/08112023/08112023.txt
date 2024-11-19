@@ -1,0 +1,529 @@
+Time: 08/11/2023 05.01.36.179 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentkanmosocialmedia1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.01.39.613 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentkanmosocialmedia1', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.01.39.616 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.01.40.127 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentkanmosocialmedia1', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.01.40.628 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.01.46.546 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.01.47.047 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.01.49.656 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.01.50.157 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.07.47.863 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.07.48.363 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.07.54.359 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.07.54.861 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.08.28.555 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.08.29.057 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.08.31.891 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.08.32.393 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.16.53.162 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.16.53.662 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.17.07.120 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','agentkanmosocialmedia1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.17.10.720 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentkanmosocialmedia1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.17.11.269 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentkanmosocialmedia1', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.17.11.294 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentkanmosocialmedia1', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.17.11.790 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.17.12.290 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.17.15.565 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.17.16.066 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.17.17.293 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.17.17.794 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.18.55.574 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','agentkanmosocialmedia1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.19.51.251 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentkanmosocialmedia1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.19.53.573 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentkanmosocialmedia1', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.19.53.608 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentkanmosocialmedia1', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.19.53.613 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.19.54.115 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.19.58.263 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.19.58.766 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.20.01.657 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.20.02.159 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 05.20.21.612 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','agentkanmosocialmedia1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.46.32.036 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'agentkanmosocialmedia1','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.46.32.038 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.46.32.044 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentkanmosocialmedia1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.46.32.045 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentkanmosocialmedia1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.46.32.047 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 159
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 08/11/2023 10.46.32.772 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.46.33.284 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentkanmosocialmedia1', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.46.33.803 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentkanmosocialmedia1', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.46.34.275 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.46.38.011 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.46.38.501 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.46.40.074 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.46.40.085 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.47.18.526 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.47.19.027 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.17.816 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.18.316 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.36.813 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','agentkanmosocialmedia1','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.36.851 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.36.856 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.36.866 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.37.005 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.37.353 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.37.365 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK306'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.37.506 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.37.863 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.37.880 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','agentkanmosocialmedia1','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.38.365 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','agentkanmosocialmedia1','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.38.865 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.46.421 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentkanmosocialmedia1', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.46.453 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.46.946 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentkanmosocialmedia1', 'null', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.46.970 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.50.461 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentkanmosocialmedia1', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.50.478 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentkanmosocialmedia1', 'Open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.50.483 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.50.494 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.58.345 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.49.58.847 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.50.03.188 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.50.03.682 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.50.34.189 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.50.34.204 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.50.37.240 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.50.37.741 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.52.10.288 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.52.10.791 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.59.34.925 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','agentkanmosocialmedia1','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.59.34.941 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.59.34.960 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.59.35.126 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.59.35.427 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.59.35.443 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','agentkanmosocialmedia1','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.59.35.458 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','agentkanmosocialmedia1','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.59.35.629 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.59.35.943 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.59.35.958 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.59.36.457 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK306'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.59.36.958 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.59.54.900 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec TR_DataThread 'Layer 1', 'agentkanmosocialmedia1'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.59.55.407 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_TempKotakThread 'agentkanmosocialmedia1','1','layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.59.55.415 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 10.59.55.917 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 08/11/2023 11.00.11.213 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','agentkanmosocialmedia1','Insert'
+---------------------------Success-------------------------------------------------------
+

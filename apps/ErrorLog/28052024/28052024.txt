@@ -1,0 +1,151 @@
+Time: 28/05/2024 10:16:25:365 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 10:16:26:631 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 10:17:30:624 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 10:17:30:624 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 10:17:42:025 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 10:17:42:026 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 10:18:00:633 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 10:18:00:637 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 10:18:00:649 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 10:18:00:652 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 11:12:19:330 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 11:12:19:460 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 11:12:20:197 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 11:12:23:645 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 11:12:23:646 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 11:12:32:848 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 11:25:10:649 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 11:25:10:720 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 11:25:10:920 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 11:39:25:847 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 04:33:19:311 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist '', '', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 04:33:19:361 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 04:33:19:426 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 04:33:19:469 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 04:33:19:748 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 04:33:20:342 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open '', 'open', '',''
+---------------------------Success-------------------------------------------------------
+
+Time: 28/05/2024 07:37:10:097 PM
+---------------------------Failed-------------------------------------------------------
+Message: 
+Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+StackTrace:    at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 47
+Source: .Net SqlClient Data Provider
+TargetSite: Void .ctor(System.Data.ProviderBase.DbConnectionPoolIdentity, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SqlCredential, System.Object, System.String, System.Security.SecureString, Boolean, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SessionData, System.Data.ProviderBase.DbConnectionPool, System.String, Boolean, System.Data.SqlClient.SqlAuthenticationProviderManager)
+---------------------------Failed-------------------------------------------------------
+

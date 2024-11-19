@@ -1,0 +1,224 @@
+Time: 27/01/2024 11:35:57:208 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','Wiji_Nurul','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:35:57:682 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Wiji_Nurul', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:35:58:163 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Wiji_Nurul', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:35:58:616 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Wiji_Nurul','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:35:59:126 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Wiji_Nurul','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:03:716 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','Wiji_Nurul','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:03:730 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Wiji_Nurul','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:03:746 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','Wiji_Nurul','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:03:759 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:03:792 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Wiji_Nurul','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:03:817 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Wiji_Nurul','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:04:432 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Wiji_Nurul','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:04:734 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','Wiji_Nurul','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:05:246 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Wiji_Nurul','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:05:837 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Wiji_Nurul','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:06:743 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Wiji_Nurul','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:08:068 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'sams','UideskIndonesia','Wiji_Nurul','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:09:209 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Wiji_Nurul','GETDATABRAND'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:09:228 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Wiji_Nurul','UIDESK313'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:14:860 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Wiji_Nurul','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:15:366 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Wiji_Nurul','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:16:179 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '43','UideskIndonesia','Wiji_Nurul','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:19:843 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00000','BRA-00001','Wiji_Nurul','UIDESK332'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:21:301 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT3-00161','UideskIndonesia','Wiji_Nurul','UIDESK314'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:21:330 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '1076','UideskIndonesia','Wiji_Nurul','UIDESK311'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:30:093 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Wiji_Nurul','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:30:105 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT2-00090','UideskIndonesia','Wiji_Nurul','UIDESK310'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:30:266 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Wiji_Nurul','UIDESK321'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:31:030 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00000','BRA-00001','Wiji_Nurul','UIDESK332'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:31:100 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '43','UideskIndonesia','Wiji_Nurul','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:32:831 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Insert_Transaction '240124080933','20240127113631265','Email','BRA-00001','CAT-00000','CT1-00060','CT2-00090','CT3-00161','','<p>addafaw</p>
+','2','Open','Wiji_Nurul','202401271136312656628365','SAMSU%20RIZAL','rizalsamsurizal708@gmail.com','','','-','','Tiktok Shop','Case Follow Up','CT3-00161','Email','2024-01-27T11:36','43','1','Wiji_Nurul','1076','1','202401271136312656628365', '20240127113631265662836613', '-','0','-','Nespresso'
+Message: An explicit value for the identity column in table 'TR_THREAD_ARCHIVE' can only be specified when a column list is used and IDENTITY_INSERT is ON.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.WebServiceTransaction.Insert_TransactionTicket(String TrxUsername, String TrxCustomerID, String TxtThreadID, String TxtAccount, String TrxPelapor, String TrxPelaporEmail, String TrxPelaporPhone, String TrxPelaporAddress, String TrxKejadian, String TrxPenyebab, String TrxPenerimaPengaduan, String TrxStatusPelapor, String TrxSkalaPrioritas, String TrxJenisNasabah, String TrxNomorRekening, String TrxSumberInformasi, String TrxBrand, String TrxCategory, String TrxLevel1, String TrxLevel2, String TrxLevel3, String TrxComplaint, String TrxResponse, String TrxChannel, String TrxStatus, String TrxEskalasi, String TrxSLA, String TrxExtendCategory, String TrxLayer, String TrxThreadID, String TrxGenesysID, String TxtContactID, String TrxIDchannel, String TrxProductName) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\WebServiceTransaction.asmx.vb:line 490
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 27/01/2024 11:36:32:969 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Insert_Transaction '240124080933','20240127113631265','Email','BRA-00001','CAT-00000','CT1-00060','CT2-00090','CT3-00161','','<p>addafaw</p>
+','2','Open','Wiji_Nurul','202401271136312656628365','SAMSU%20RIZAL','rizalsamsurizal708@gmail.com','','','-','','Tiktok Shop','Case Follow Up','CT3-00161','Email','2024-01-27T11:36','43','1','Wiji_Nurul','1076','1','202401271136312656628365', '20240127113631265662836613', '-','0','-','Nespresso'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:32:991 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_ListDataTransactionticket '240124080933','Wiji_Nurul','null'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:33:146 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT3-00161','UideskIndonesia','Wiji_Nurul','UIDESK314'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:33:164 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '1076','UideskIndonesia','Wiji_Nurul','UIDESK311'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:33:664 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT1-00060','UideskIndonesia','Wiji_Nurul','UIDESK309'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:34:165 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Wiji_Nurul','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:35:825 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_PublishTransaction '240124080933','Wiji_Nurul'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:36:413 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Wiji_Nurul', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:36:783 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Wiji_Nurul', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:37:280 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Wiji_Nurul','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:36:37:794 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Wiji_Nurul','UIDESK66'
+---------------------------Success-------------------------------------------------------
+

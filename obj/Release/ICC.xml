@@ -1,0 +1,2991 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ICC
+</name>
+</assembly>
+<members>
+<member name="T:ICC.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:ICC.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:ICC.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:ICC.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:ICC.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:ICC.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="T:ICC.My.ResourcesRepair.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ICC.My.ResourcesRepair.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ICC.My.ResourcesRepair.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="F:ICC.Dashboard_L1._hd_leveluser">
+<summary>
+hd_leveluser control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Dashboard_L1._hd_Org">
+<summary>
+hd_Org control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Dashboard_L1._hd_Unitkerja">
+<summary>
+hd_Unitkerja control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_Form._QM_HeaderID">
+<summary>
+QM_HeaderID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_Form._QM_AcraID">
+<summary>
+QM_AcraID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_Form._QM_ResultPenilaianID">
+<summary>
+QM_ResultPenilaianID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_Form._QM_AudioName">
+<summary>
+QM_AudioName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_Form._QM_Persen">
+<summary>
+QM_Persen control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_Mst_Upload_1._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_Mst_Upload_1._TrxNamaFile">
+<summary>
+TrxNamaFile control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_Mst_Upload_1._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_Mst_Upload_1._XtraReportMingguan">
+<summary>
+XtraReportMingguan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_Mst_Upload_2._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_Mst_Upload_2._TrxNamaFile">
+<summary>
+TrxNamaFile control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_Mst_Upload_2._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_Mst_Upload_2._XtraReportMingguan">
+<summary>
+XtraReportMingguan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_Mst_Upload_3._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_Mst_Upload_3._TrxNamaFile">
+<summary>
+TrxNamaFile control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_Mst_Upload_3._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_Mst_Upload_3._XtraReportMingguan">
+<summary>
+XtraReportMingguan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrmAlatTest._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrmChannel._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrmGrupPertanyaan._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrmItemNilai._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrmItemPertanyaan._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrmJPermasahan._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrmMasterForm._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrmPeriodeSLA._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrmRunningText._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrmSkill._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrmSLA._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrmTeamLayanan._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrxACRAHistory._dt_strdate">
+<summary>
+dt_strdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrxACRAHistory._dt_endate">
+<summary>
+dt_endate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrxACRAHistory._btn_Submit">
+<summary>
+btn_Submit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrxACRAHistory._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrxACRAHistory._ASPxGridViewExporter1">
+<summary>
+ASPxGridViewExporter1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrxACRAHistory._XtraHistoryRecording">
+<summary>
+XtraHistoryRecording control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrxACRAQA._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrxAgentACRA._TrxAgentId">
+<summary>
+TrxAgentId control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrxAgentACRA._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrxAgentACRA._HDAgent_Checkbox">
+<summary>
+HDAgent_Checkbox control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrxAgentProductCampaign._TrxAgentId">
+<summary>
+TrxAgentId control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrxAgentProductCampaign._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrxAgentProductCampaign._HDAgent_Checkbox">
+<summary>
+HDAgent_Checkbox control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrxAgentSisa._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrxBucketShare._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrxBucketShare._AcraID">
+<summary>
+AcraID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrxHistoryForm._dt_strdate">
+<summary>
+dt_strdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrxHistoryForm._dt_endate">
+<summary>
+dt_endate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrxHistoryForm._btn_Submit">
+<summary>
+btn_Submit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrxHistoryForm._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrxHistoryForm._XtraHistoryTransaksi">
+<summary>
+XtraHistoryTransaksi control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrxItemIndikator._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.QA_TrxMailNotification._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmA1._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmA1._Div1">
+<summary>
+Div1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmA2._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmA2._Div1">
+<summary>
+Div1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmA3._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmA3._Div1">
+<summary>
+Div1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmChannel._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmHolidays1._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmKnowledgebase._fileManager">
+<summary>
+fileManager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmMakerGR._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmMaxhandle._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmMonitoring._TrxTicketID">
+<summary>
+TrxTicketID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmNotification._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmNotification._TrxDepartmentID">
+<summary>
+TrxDepartmentID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmNotification._TrxVendorID">
+<summary>
+TrxVendorID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmNotification._HdTicketCreate">
+<summary>
+HdTicketCreate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmNotification._HdTicketOverSLA">
+<summary>
+HdTicketOverSLA control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmNotification._HdTicketClosed">
+<summary>
+HdTicketClosed control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmNotification._HdTicketEscalation">
+<summary>
+HdTicketEscalation control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmNotificationTemplate._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmStatusQm._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmUserAdd._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmUserAdd._Hd_TipeUser">
+<summary>
+Hd_TipeUser control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmUserAdd._Hd_GroupChannel">
+<summary>
+Hd_GroupChannel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmUserAdd._Hd_GroupLayanan">
+<summary>
+Hd_GroupLayanan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmUserAdd._Hd_TeamLayanan">
+<summary>
+Hd_TeamLayanan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmUserExport._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmUserExport._ddList">
+<summary>
+ddList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmUserExport._btn_Export">
+<summary>
+btn_Export control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmUserExport._ASPxGridViewExporter1">
+<summary>
+ASPxGridViewExporter1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmUserExport._XtraUser">
+<summary>
+XtraUser control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmUserManagement._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrxAgentProductCampaign._TrxAgentId">
+<summary>
+TrxAgentId control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrxAgentProductCampaign._TrxID">
+<summary>
+TrxID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrxAgentProductCampaign._HDAgent_Checkbox">
+<summary>
+HDAgent_Checkbox control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._head">
+<summary>
+head control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._ImageFoto">
+<summary>
+ImageFoto control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._UserName_TextName">
+<summary>
+UserName_TextName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._UserName_EmailAdress">
+<summary>
+UserName_EmailAdress control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._RedirectSignout">
+<summary>
+RedirectSignout control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._aspxLiteral">
+<summary>
+aspxLiteral control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._hd_TicketNumber">
+<summary>
+hd_TicketNumber control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._hd_EscalationIdentity">
+<summary>
+hd_EscalationIdentity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._hd_EscalationTo">
+<summary>
+hd_EscalationTo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._hd_sessionLogin">
+<summary>
+hd_sessionLogin control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._TrxLoginTypeAngka">
+<summary>
+TrxLoginTypeAngka control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._TrxLayerUser">
+<summary>
+TrxLayerUser control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._TrxDivisi">
+<summary>
+TrxDivisi control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._hd_customerID">
+<summary>
+hd_customerID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._hd_OtherSystem">
+<summary>
+hd_OtherSystem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._hd_ThreadSystem">
+<summary>
+hd_ThreadSystem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._hd_AccountChannelUser">
+<summary>
+hd_AccountChannelUser control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._hd_AccountContactUser">
+<summary>
+hd_AccountContactUser control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._hd_SLA">
+<summary>
+hd_SLA control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._hd_Journey_EscalationType">
+<summary>
+hd_Journey_EscalationType control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._hd_Journey_EscalationValue">
+<summary>
+hd_Journey_EscalationValue control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._HiddenField3">
+<summary>
+HiddenField3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._HiddenField4">
+<summary>
+HiddenField4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._hd_NameKaryawan">
+<summary>
+hd_NameKaryawan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._HD_UserType">
+<summary>
+HD_UserType control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._QM_LevelUser">
+<summary>
+QM_LevelUser control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._QM_GroupQA">
+<summary>
+QM_GroupQA control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._QM_GroupAgent">
+<summary>
+QM_GroupAgent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._QM_TypeCall">
+<summary>
+QM_TypeCall control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._QM_GroupLayanan">
+<summary>
+QM_GroupLayanan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._QM_TeamLayanan">
+<summary>
+QM_TeamLayanan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._SM_AccountToken">
+<summary>
+SM_AccountToken control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._SM_AccountID">
+<summary>
+SM_AccountID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._SM_AccountName">
+<summary>
+SM_AccountName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._SM_AccountURL">
+<summary>
+SM_AccountURL control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._SM_Webhook">
+<summary>
+SM_Webhook control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._ContentPlaceHolder1">
+<summary>
+ContentPlaceHolder1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Uidesk._ProfilLogout">
+<summary>
+ProfilLogout control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_AgentBulananCall._ComboPeriodeFrom">
+<summary>
+ComboPeriodeFrom control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_AgentBulananCall._ComboPeriodeTo">
+<summary>
+ComboPeriodeTo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_AgentBulananCall._ComboGroupLayanan">
+<summary>
+ComboGroupLayanan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_AgentBulananCall._ComboTeamLayanan">
+<summary>
+ComboTeamLayanan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_AgentBulananCall._ComboBulan">
+<summary>
+ComboBulan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_AgentBulananCall._ComboTahunan">
+<summary>
+ComboTahunan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_AgentBulananCall._btn_Submit">
+<summary>
+btn_Submit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_AgentBulananCall._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_AgentBulananCall._ddList">
+<summary>
+ddList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_AgentBulananCall._btn_Export">
+<summary>
+btn_Export control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_AgentBulananCall._ASPxGridViewExporter1">
+<summary>
+ASPxGridViewExporter1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_AgentBulananCall._XtraPerformanceAgent">
+<summary>
+XtraPerformanceAgent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_AgentBulananCall._DataSourceGroupLayanan">
+<summary>
+DataSourceGroupLayanan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_AgentBulananCall._DataSourceTeamLayanan">
+<summary>
+DataSourceTeamLayanan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_AgentBulananCall._DataSourceTahunan">
+<summary>
+DataSourceTahunan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_AgentBulananCall._DataSourceBulan">
+<summary>
+DataSourceBulan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_AgentBulananCall._DataSourcePeriodeFrom">
+<summary>
+DataSourcePeriodeFrom control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_AgentBulananCall._DataSourcePeriodeTo">
+<summary>
+DataSourcePeriodeTo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_BRIGate._dt_strdate">
+<summary>
+dt_strdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_BRIGate._dt_endate">
+<summary>
+dt_endate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_BRIGate._btn_Submit">
+<summary>
+btn_Submit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_BRIGate._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_BRIGate._ddList">
+<summary>
+ddList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_BRIGate._btn_Export">
+<summary>
+btn_Export control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_BRIGate._ASPxGridViewExporter1">
+<summary>
+ASPxGridViewExporter1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_BRIGate._XtraTransaksi">
+<summary>
+XtraTransaksi control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Interaction._dt_strdate">
+<summary>
+dt_strdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Interaction._dt_endate">
+<summary>
+dt_endate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Interaction._btn_Submit">
+<summary>
+btn_Submit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Interaction._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Interaction._ddList">
+<summary>
+ddList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Interaction._btn_Export">
+<summary>
+btn_Export control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Interaction._ASPxGridViewExporter1">
+<summary>
+ASPxGridViewExporter1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Interaction._XtraInteraction">
+<summary>
+XtraInteraction control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Agent._GroupLayananID">
+<summary>
+GroupLayananID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Agent._ComboGroupLayanan">
+<summary>
+ComboGroupLayanan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Agent._ComboTeamLayanan">
+<summary>
+ComboTeamLayanan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Agent._ComboPeriodeFrom">
+<summary>
+ComboPeriodeFrom control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Agent._ComboPeriodeTo">
+<summary>
+ComboPeriodeTo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Agent._ComboBulan">
+<summary>
+ComboBulan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Agent._ComboTahunan">
+<summary>
+ComboTahunan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Agent._btn_Refresh">
+<summary>
+btn_Refresh control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Agent._btn_Submit">
+<summary>
+btn_Submit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Agent._ASPxGridView2">
+<summary>
+ASPxGridView2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Agent._ddList">
+<summary>
+ddList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Agent._btn_Export">
+<summary>
+btn_Export control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Agent._ASPxGridViewExporter1">
+<summary>
+ASPxGridViewExporter1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Agent._XtraPerformanceAgent">
+<summary>
+XtraPerformanceAgent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Agent._DataSourceGroupLayanan">
+<summary>
+DataSourceGroupLayanan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Agent._DataSourceTeamLayanan">
+<summary>
+DataSourceTeamLayanan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Agent._DataSourceTahunan">
+<summary>
+DataSourceTahunan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Agent._DataSourceBulan">
+<summary>
+DataSourceBulan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Agent._DataSourcePeriodeFrom">
+<summary>
+DataSourcePeriodeFrom control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Agent._DataSourcePeriodeTo">
+<summary>
+DataSourcePeriodeTo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Team._dt_strdate">
+<summary>
+dt_strdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Team._dt_endate">
+<summary>
+dt_endate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Team._btn_Submit">
+<summary>
+btn_Submit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Team._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Team._ddList">
+<summary>
+ddList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Team._btn_Export">
+<summary>
+btn_Export control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Team._ASPxGridViewExporter1">
+<summary>
+ASPxGridViewExporter1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Performance_Team._XtraPerformanceTeam">
+<summary>
+XtraPerformanceTeam control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Petugas_QA._ComboTypeQA">
+<summary>
+ComboTypeQA control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Petugas_QA._dt_strdate">
+<summary>
+dt_strdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Petugas_QA._dt_endate">
+<summary>
+dt_endate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Petugas_QA._btn_Submit">
+<summary>
+btn_Submit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Petugas_QA._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Petugas_QA._ddList">
+<summary>
+ddList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Petugas_QA._btn_Export">
+<summary>
+btn_Export control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Petugas_QA._ASPxGridViewExporter1">
+<summary>
+ASPxGridViewExporter1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Petugas_QA._XtraPetugasQA">
+<summary>
+XtraPetugasQA control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Petugas_QA._DataSourceTypeQA">
+<summary>
+DataSourceTypeQA control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Profile_Agent._btn_Submit">
+<summary>
+btn_Submit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Profile_Agent._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Profile_Agent._ddList">
+<summary>
+ddList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Profile_Agent._btn_Export">
+<summary>
+btn_Export control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Profile_Agent._ASPxGridViewExporter1">
+<summary>
+ASPxGridViewExporter1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Profile_Agent._XtraReportProfiling">
+<summary>
+XtraReportProfiling control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Call._ComboGroupLayanan">
+<summary>
+ComboGroupLayanan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Call._ComboBulan">
+<summary>
+ComboBulan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Call._ComboTahunan">
+<summary>
+ComboTahunan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Call._btn_Submit">
+<summary>
+btn_Submit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Call._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Call._ddList">
+<summary>
+ddList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Call._btn_Export">
+<summary>
+btn_Export control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Call._ASPxGridViewExporter1">
+<summary>
+ASPxGridViewExporter1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Call._XtraInteraction">
+<summary>
+XtraInteraction control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Call._DataSourceTahunan">
+<summary>
+DataSourceTahunan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Call._DataSourceBulan">
+<summary>
+DataSourceBulan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Call._DataSourceGroupLayanan">
+<summary>
+DataSourceGroupLayanan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Merchant._ComboBulan">
+<summary>
+ComboBulan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Merchant._ComboTahunan">
+<summary>
+ComboTahunan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Merchant._btn_Submit">
+<summary>
+btn_Submit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Merchant._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Merchant._ddList">
+<summary>
+ddList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Merchant._btn_Export">
+<summary>
+btn_Export control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Merchant._ASPxGridViewExporter1">
+<summary>
+ASPxGridViewExporter1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Merchant._XtraInteraction">
+<summary>
+XtraInteraction control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Merchant._DataSourceTahunan">
+<summary>
+DataSourceTahunan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Merchant._DataSourceBulan">
+<summary>
+DataSourceBulan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_SM._ComboBulan">
+<summary>
+ComboBulan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_SM._ComboTahunan">
+<summary>
+ComboTahunan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_SM._btn_Submit">
+<summary>
+btn_Submit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_SM._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_SM._ddList">
+<summary>
+ddList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_SM._btn_Export">
+<summary>
+btn_Export control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_SM._ASPxGridViewExporter1">
+<summary>
+ASPxGridViewExporter1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_SM._XtraInteraction">
+<summary>
+XtraInteraction control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_SM._DataSourceTahunan">
+<summary>
+DataSourceTahunan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_SM._DataSourceBulan">
+<summary>
+DataSourceBulan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Telesales._ComboBulan">
+<summary>
+ComboBulan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Telesales._ComboTahunan">
+<summary>
+ComboTahunan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Telesales._btn_Submit">
+<summary>
+btn_Submit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Telesales._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Telesales._ddList">
+<summary>
+ddList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Telesales._btn_Export">
+<summary>
+btn_Export control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Telesales._ASPxGridViewExporter1">
+<summary>
+ASPxGridViewExporter1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Telesales._XtraInteraction">
+<summary>
+XtraInteraction control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Telesales._DataSourceTahunan">
+<summary>
+DataSourceTahunan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_Telesales._DataSourceBulan">
+<summary>
+DataSourceBulan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_VBA._ComboBulan">
+<summary>
+ComboBulan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_VBA._ComboTahunan">
+<summary>
+ComboTahunan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_VBA._btn_Submit">
+<summary>
+btn_Submit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_VBA._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_VBA._ddList">
+<summary>
+ddList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_VBA._btn_Export">
+<summary>
+btn_Export control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_VBA._ASPxGridViewExporter1">
+<summary>
+ASPxGridViewExporter1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_VBA._XtraInteraction">
+<summary>
+XtraInteraction control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_VBA._DataSourceTahunan">
+<summary>
+DataSourceTahunan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA1_Agent_VBA._DataSourceBulan">
+<summary>
+DataSourceBulan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA2_Agent._ComboBulan">
+<summary>
+ComboBulan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA2_Agent._ComboTahunan">
+<summary>
+ComboTahunan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA2_Agent._btn_Submit">
+<summary>
+btn_Submit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA2_Agent._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA2_Agent._ddList">
+<summary>
+ddList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA2_Agent._btn_Export">
+<summary>
+btn_Export control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA2_Agent._ASPxGridViewExporter1">
+<summary>
+ASPxGridViewExporter1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA2_Agent._XtraInteraction">
+<summary>
+XtraInteraction control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA2_Agent._DataSourceTahunan">
+<summary>
+DataSourceTahunan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_QA2_Agent._DataSourceBulan">
+<summary>
+DataSourceBulan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Sanggah._dt_strdate">
+<summary>
+dt_strdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Sanggah._dt_endate">
+<summary>
+dt_endate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Sanggah._btn_Submit">
+<summary>
+btn_Submit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Sanggah._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Sanggah._ddList">
+<summary>
+ddList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Sanggah._btn_Export">
+<summary>
+btn_Export control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Sanggah._ASPxGridViewExporter1">
+<summary>
+ASPxGridViewExporter1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Sanggah._XtraSanggah">
+<summary>
+XtraSanggah control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_SLA_Penilaian._dt_strdate">
+<summary>
+dt_strdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_SLA_Penilaian._dt_endate">
+<summary>
+dt_endate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_SLA_Penilaian._btn_Submit">
+<summary>
+btn_Submit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_SLA_Penilaian._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_SLA_Penilaian._ddList">
+<summary>
+ddList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_SLA_Penilaian._btn_Export">
+<summary>
+btn_Export control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_SLA_Penilaian._ASPxGridViewExporter1">
+<summary>
+ASPxGridViewExporter1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_SLA_Penilaian._XtraSLAPenilaian">
+<summary>
+XtraSLAPenilaian control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Total_Penilaian._dt_strdate">
+<summary>
+dt_strdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Total_Penilaian._dt_endate">
+<summary>
+dt_endate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Total_Penilaian._btn_Submit">
+<summary>
+btn_Submit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Total_Penilaian._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Total_Penilaian._ddList">
+<summary>
+ddList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Total_Penilaian._btn_Export">
+<summary>
+btn_Export control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Total_Penilaian._ASPxGridViewExporter1">
+<summary>
+ASPxGridViewExporter1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Total_Penilaian._XtraPerformanceTeam">
+<summary>
+XtraPerformanceTeam control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Transaksi._dt_strdate">
+<summary>
+dt_strdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Transaksi._dt_endate">
+<summary>
+dt_endate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Transaksi._btn_Submit">
+<summary>
+btn_Submit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Transaksi._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Transaksi._ddList">
+<summary>
+ddList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Transaksi._btn_Export">
+<summary>
+btn_Export control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Transaksi._ASPxGridViewExporter1">
+<summary>
+ASPxGridViewExporter1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.XtraReport_Transaksi._XtraTransaksi">
+<summary>
+XtraTransaksi control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Xtra_QA_TrxAgentSisa._btn_Submit">
+<summary>
+btn_Submit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Xtra_QA_TrxAgentSisa._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Xtra_QA_TrxAgentSisa._ddList">
+<summary>
+ddList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Xtra_QA_TrxAgentSisa._btn_Export">
+<summary>
+btn_Export control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Xtra_QA_TrxAgentSisa._ASPxGridViewExporter1">
+<summary>
+ASPxGridViewExporter1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.Xtra_QA_TrxAgentSisa._XtraTransaksi">
+<summary>
+XtraTransaksi control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.ICC.auth_auto._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.ICC.auth_auto._Login_Username">
+<summary>
+Login_Username control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.ICC.auth_auto._Login_Password">
+<summary>
+Login_Password control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.ICC.auth_auto._Login_ButtonSubmit">
+<summary>
+Login_ButtonSubmit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.ICC.auth_auto._Login_NotifErr">
+<summary>
+Login_NotifErr control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.auth_local._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.auth_local._Login_Username">
+<summary>
+Login_Username control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.auth_local._Login_Password">
+<summary>
+Login_Password control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.auth_local._Login_ButtonSubmit">
+<summary>
+Login_ButtonSubmit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.auth_local._Login_NotifErr">
+<summary>
+Login_NotifErr control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.auth_login._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.auth_login._Login_Username">
+<summary>
+Login_Username control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.auth_login._Login_Password">
+<summary>
+Login_Password control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.auth_login._Login_ButtonSubmit">
+<summary>
+Login_ButtonSubmit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.auth_login._LoginBRIGate1">
+<summary>
+LoginBRIGate1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.auth_login._Login_NotifErr">
+<summary>
+Login_NotifErr control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmForgot._Forgot_Password">
+<summary>
+Forgot_Password control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmForgot._Forgot_ConfirmPassword">
+<summary>
+Forgot_ConfirmPassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ICC.TrmForgot._DIV_Failed">
+<summary>
+DIV_Failed control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

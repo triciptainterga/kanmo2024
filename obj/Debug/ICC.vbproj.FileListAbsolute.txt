@@ -1,0 +1,2194 @@
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ICC.dll.config
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ICC.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ICC.pdb
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ICC.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Charts.v20.1.Core.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Data.Desktop.v20.1.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Data.v20.1.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Office.v20.1.Core.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Core.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Printing.v20.1.Core.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Core.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Export.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.SpellChecker.v20.1.Core.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Utils.v20.1.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Web.ASPxHtmlEditor.v20.1.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Web.ASPxSpellChecker.v20.1.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Web.ASPxThemes.v20.1.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Web.Resources.v20.1.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Web.v20.1.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Extensions.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.UI.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Web.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Wizard.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraEditors.v20.1.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraPrinting.v20.1.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\JWT.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\Newtonsoft.Json.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\Twilio.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Drawing.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.UI.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraBars.v20.1.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Utils.v20.1.UI.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraVerticalGrid.v20.1.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraGrid.v20.1.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraTreeList.v20.1.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraNavBar.v20.1.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraLayout.v20.1.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Sparkline.v20.1.Core.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraRichEdit.v20.1.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Xpo.v20.1.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraDiagram.v20.1.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Diagram.v20.1.Core.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.CodeParser.v20.1.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Images.v20.1.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Data.v20.1.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Office.v20.1.Core.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Core.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Printing.v20.1.Core.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Core.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.SpellChecker.v20.1.Core.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Data.Desktop.v20.1.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Utils.v20.1.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Web.ASPxHtmlEditor.v20.1.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Web.ASPxSpellChecker.v20.1.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Web.v20.1.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.UI.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Web.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Wizard.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraEditors.v20.1.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraPrinting.v20.1.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\Newtonsoft.Json.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\Twilio.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Drawing.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.UI.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraBars.v20.1.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Utils.v20.1.UI.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraVerticalGrid.v20.1.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraGrid.v20.1.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraTreeList.v20.1.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraNavBar.v20.1.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraLayout.v20.1.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Sparkline.v20.1.Core.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraRichEdit.v20.1.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Xpo.v20.1.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.XtraDiagram.v20.1.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\DevExpress.Diagram.v20.1.Core.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.Data.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.Data.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.Data.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.Data.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.Office.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.Office.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.Office.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.Office.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.Printing.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.Printing.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.Printing.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.Printing.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.Utils.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.Utils.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.Utils.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.Utils.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.Web.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.Web.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.Web.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.Web.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.XtraCharts.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.XtraCharts.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.XtraCharts.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.XtraCharts.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.Web.Resources.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.Web.Resources.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.Web.Resources.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.Web.Resources.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.XtraEditors.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.XtraEditors.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.XtraEditors.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.XtraEditors.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.XtraBars.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.XtraBars.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.XtraBars.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.XtraBars.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.Utils.v20.1.UI.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.Utils.v20.1.UI.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.Utils.v20.1.UI.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.Utils.v20.1.UI.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.XtraGrid.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.XtraGrid.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.XtraGrid.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.XtraGrid.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.XtraNavBar.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.XtraNavBar.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.XtraLayout.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.XtraLayout.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.XtraLayout.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.XtraLayout.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.DataAccess.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.DataAccess.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.DataAccess.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.DataAccess.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.Xpo.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.Xpo.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.Xpo.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.Xpo.v20.1.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\de\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\es\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\bin\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\obj\Debug\ICC.Resources.resources
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\obj\Debug\ICC.vbproj.GenerateResource.cache
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\obj\Debug\ICC.dll.licenses
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\obj\Debug\ICC.vbproj.CoreCompileInputs.cache
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\obj\Debug\ICC.vbproj.CopyComplete
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\obj\Debug\ICC.dll
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\obj\Debug\ICC.xml
+E:\#i7\New\UIDESK\UIDESK\helpdesk_agent\obj\Debug\ICC.pdb
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\obj\Debug\ICC.Resources.resources
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\obj\Debug\ICC.vbproj.GenerateResource.cache
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\obj\Debug\ICC.dll.licenses
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ICC.dll.config
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ICC.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ICC.pdb
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ICC.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Charts.v20.1.Core.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Data.v20.1.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Office.v20.1.Core.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Printing.v20.1.Core.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Export.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.SpellChecker.v20.1.Core.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Utils.v20.1.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Web.ASPxHtmlEditor.v20.1.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Web.ASPxSpellChecker.v20.1.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Web.ASPxThemes.v20.1.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Web.Resources.v20.1.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Web.v20.1.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Extensions.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.UI.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Web.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Wizard.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraEditors.v20.1.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\JWT.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\Newtonsoft.Json.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\Twilio.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.UI.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraBars.v20.1.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Utils.v20.1.UI.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraGrid.v20.1.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraLayout.v20.1.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Xpo.v20.1.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraDiagram.v20.1.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Diagram.v20.1.Core.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.CodeParser.v20.1.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Images.v20.1.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Data.v20.1.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Office.v20.1.Core.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Printing.v20.1.Core.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.SpellChecker.v20.1.Core.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Utils.v20.1.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Web.ASPxHtmlEditor.v20.1.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Web.ASPxSpellChecker.v20.1.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Web.v20.1.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.UI.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Web.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Wizard.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraEditors.v20.1.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\Newtonsoft.Json.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\Twilio.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.UI.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraBars.v20.1.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Utils.v20.1.UI.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraGrid.v20.1.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraLayout.v20.1.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Xpo.v20.1.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraDiagram.v20.1.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\DevExpress.Diagram.v20.1.Core.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Web.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Web.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Web.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Web.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Web.Resources.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Web.Resources.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Web.Resources.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Web.Resources.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\obj\Debug\ICC.vbproj.CopyComplete
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\obj\Debug\ICC.dll
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\obj\Debug\ICC.xml
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\obj\Debug\ICC.pdb
+C:\Users\lenovo\Source\Repos\resturamadhika\helpdesk_agent\obj\Debug\ICC.vbprojAssemblyReference.cache
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\obj\Debug\ICC.Resources.resources
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\obj\Debug\ICC.vbproj.GenerateResource.cache
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\obj\Debug\ICC.dll.licenses
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\obj\Debug\ICC.vbproj.CoreCompileInputs.cache
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ICC.dll.config
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ICC.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ICC.pdb
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ICC.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Charts.v20.1.Core.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Data.v20.1.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Office.v20.1.Core.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Export.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.SpellChecker.v20.1.Core.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Utils.v20.1.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Web.ASPxHtmlEditor.v20.1.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Web.ASPxSpellChecker.v20.1.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Web.ASPxThemes.v20.1.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Web.Resources.v20.1.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Web.v20.1.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Extensions.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.UI.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Web.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Wizard.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\JWT.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\Newtonsoft.Json.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\Twilio.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.UI.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraBars.v20.1.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Utils.v20.1.UI.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraGrid.v20.1.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraLayout.v20.1.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Xpo.v20.1.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraDiagram.v20.1.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Diagram.v20.1.Core.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.CodeParser.v20.1.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Images.v20.1.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Data.v20.1.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Office.v20.1.Core.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.SpellChecker.v20.1.Core.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Utils.v20.1.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Web.ASPxHtmlEditor.v20.1.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Web.ASPxSpellChecker.v20.1.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Web.v20.1.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.UI.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Web.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Wizard.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\Newtonsoft.Json.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\Twilio.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.UI.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraBars.v20.1.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Utils.v20.1.UI.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraGrid.v20.1.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraLayout.v20.1.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Xpo.v20.1.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.XtraDiagram.v20.1.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\DevExpress.Diagram.v20.1.Core.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Web.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Web.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Web.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Web.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Web.Resources.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Web.Resources.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Web.Resources.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Web.Resources.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\de\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\es\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\bin\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\obj\Debug\ICC.dll
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\obj\Debug\ICC.xml
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\obj\Debug\ICC.pdb
+C:\Users\Rizal\source\repos\resturamadhika\helpdesk_agent\obj\Debug\ICC.vbproj.CopyComplete
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ICC.dll.config
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ICC.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ICC.pdb
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ICC.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Charts.v20.1.Core.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Data.Desktop.v20.1.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Data.v20.1.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Office.v20.1.Core.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Core.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Printing.v20.1.Core.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Core.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Export.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.SpellChecker.v20.1.Core.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Utils.v20.1.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Web.ASPxHtmlEditor.v20.1.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Web.ASPxSpellChecker.v20.1.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Web.ASPxThemes.v20.1.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Web.Resources.v20.1.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Web.v20.1.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.UI.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Web.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraEditors.v20.1.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraPrinting.v20.1.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\JWT.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\Newtonsoft.Json.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\Twilio.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Drawing.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.UI.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraBars.v20.1.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Utils.v20.1.UI.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraGrid.v20.1.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraTreeList.v20.1.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraNavBar.v20.1.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraLayout.v20.1.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Sparkline.v20.1.Core.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraRichEdit.v20.1.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Xpo.v20.1.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraDiagram.v20.1.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Diagram.v20.1.Core.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.CodeParser.v20.1.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Images.v20.1.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Data.v20.1.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Office.v20.1.Core.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Core.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Printing.v20.1.Core.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Core.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.SpellChecker.v20.1.Core.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Data.Desktop.v20.1.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Utils.v20.1.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Web.ASPxHtmlEditor.v20.1.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Web.ASPxSpellChecker.v20.1.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Web.v20.1.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.UI.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Web.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraEditors.v20.1.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraPrinting.v20.1.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\Newtonsoft.Json.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\Twilio.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Drawing.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.UI.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraBars.v20.1.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Utils.v20.1.UI.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraGrid.v20.1.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraTreeList.v20.1.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraNavBar.v20.1.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraLayout.v20.1.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Sparkline.v20.1.Core.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraRichEdit.v20.1.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Xpo.v20.1.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.XtraDiagram.v20.1.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\DevExpress.Diagram.v20.1.Core.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.Data.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.Data.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.Data.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.Data.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.Utils.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.Utils.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.Utils.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.Utils.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.Web.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.Web.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.Web.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.Web.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.Web.Resources.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.Web.Resources.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.Web.Resources.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.Web.Resources.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.Xpo.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.Xpo.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\obj\Debug\ICC.Resources.resources
+D:\BRI Life OmniChannel\Application\helpdesk_agent\obj\Debug\ICC.vbproj.GenerateResource.cache
+D:\BRI Life OmniChannel\Application\helpdesk_agent\obj\Debug\ICC.dll.licenses
+D:\BRI Life OmniChannel\Application\helpdesk_agent\obj\Debug\ICC.vbproj.CoreCompileInputs.cache
+D:\BRI Life OmniChannel\Application\helpdesk_agent\obj\Debug\ICC.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\obj\Debug\ICC.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\obj\Debug\ICC.pdb
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\AntiXssLibrary.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\HtmlSanitizationLibrary.dll
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\AntiXssLibrary.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\bin\HtmlSanitizationLibrary.xml
+D:\BRI Life OmniChannel\Application\helpdesk_agent\obj\Debug\ICC.vbproj.CopyComplete
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ICC.dll.config
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ICC.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ICC.pdb
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ICC.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\AntiXssLibrary.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Charts.v20.1.Core.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Data.Desktop.v20.1.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Data.v20.1.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Office.v20.1.Core.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Core.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Printing.v20.1.Core.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Core.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Export.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.SpellChecker.v20.1.Core.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Utils.v20.1.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Web.ASPxHtmlEditor.v20.1.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Web.ASPxSpellChecker.v20.1.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Web.ASPxThemes.v20.1.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Web.Resources.v20.1.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Web.v20.1.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.UI.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Web.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraEditors.v20.1.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraPrinting.v20.1.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\HtmlSanitizationLibrary.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\JWT.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\Newtonsoft.Json.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\Twilio.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Drawing.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.UI.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraBars.v20.1.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Utils.v20.1.UI.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraGrid.v20.1.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraTreeList.v20.1.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraNavBar.v20.1.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraLayout.v20.1.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Sparkline.v20.1.Core.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraRichEdit.v20.1.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Xpo.v20.1.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraDiagram.v20.1.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Diagram.v20.1.Core.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.CodeParser.v20.1.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Images.v20.1.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\AntiXssLibrary.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Data.v20.1.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Office.v20.1.Core.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Core.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Printing.v20.1.Core.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Core.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.SpellChecker.v20.1.Core.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Data.Desktop.v20.1.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Utils.v20.1.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Web.ASPxHtmlEditor.v20.1.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Web.ASPxSpellChecker.v20.1.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Web.v20.1.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.UI.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Web.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraEditors.v20.1.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraPrinting.v20.1.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\HtmlSanitizationLibrary.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\Newtonsoft.Json.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\Twilio.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Drawing.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.UI.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraBars.v20.1.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Utils.v20.1.UI.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraGrid.v20.1.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraTreeList.v20.1.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraNavBar.v20.1.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraLayout.v20.1.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Sparkline.v20.1.Core.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraRichEdit.v20.1.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Xpo.v20.1.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.XtraDiagram.v20.1.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\DevExpress.Diagram.v20.1.Core.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.Data.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.Data.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.Data.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.Data.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.Utils.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.Utils.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.Utils.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.Utils.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.Web.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.Web.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.Web.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.Web.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.Web.Resources.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.Web.Resources.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.Web.Resources.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.Web.Resources.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.Xpo.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.Xpo.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\bin\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\obj\Debug\ICC.Resources.resources
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\obj\Debug\ICC.vbproj.GenerateResource.cache
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\obj\Debug\ICC.dll.licenses
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\obj\Debug\ICC.vbproj.CoreCompileInputs.cache
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\obj\Debug\ICC.dll
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\obj\Debug\ICC.xml
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\obj\Debug\ICC.pdb
+D:\BRI Life OmniChannel\Application Migrasi\helpdesk_agent\obj\Debug\ICC.vbproj.CopyComplete
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ICC.dll.config
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ICC.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ICC.pdb
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ICC.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\AntiXssLibrary.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Charts.v20.1.Core.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Data.Desktop.v20.1.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Data.v20.1.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Office.v20.1.Core.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Core.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Printing.v20.1.Core.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Core.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Export.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.SpellChecker.v20.1.Core.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Utils.v20.1.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Web.ASPxHtmlEditor.v20.1.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Web.ASPxSpellChecker.v20.1.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Web.ASPxThemes.v20.1.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Web.Resources.v20.1.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Web.v20.1.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.UI.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Web.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraEditors.v20.1.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraPrinting.v20.1.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\HtmlSanitizationLibrary.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\JWT.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\Newtonsoft.Json.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\Twilio.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Drawing.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.UI.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraBars.v20.1.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Utils.v20.1.UI.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraGrid.v20.1.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraTreeList.v20.1.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraNavBar.v20.1.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraLayout.v20.1.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Sparkline.v20.1.Core.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraRichEdit.v20.1.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Xpo.v20.1.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraDiagram.v20.1.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Diagram.v20.1.Core.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.CodeParser.v20.1.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Images.v20.1.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\AntiXssLibrary.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Data.v20.1.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Office.v20.1.Core.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Core.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Printing.v20.1.Core.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Core.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.SpellChecker.v20.1.Core.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Data.Desktop.v20.1.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Utils.v20.1.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Web.ASPxHtmlEditor.v20.1.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Web.ASPxSpellChecker.v20.1.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Web.v20.1.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.UI.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Web.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraEditors.v20.1.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraPrinting.v20.1.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\HtmlSanitizationLibrary.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\Newtonsoft.Json.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\Twilio.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Drawing.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.UI.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraBars.v20.1.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Utils.v20.1.UI.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraGrid.v20.1.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraTreeList.v20.1.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraNavBar.v20.1.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraLayout.v20.1.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Sparkline.v20.1.Core.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraRichEdit.v20.1.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Xpo.v20.1.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.XtraDiagram.v20.1.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\DevExpress.Diagram.v20.1.Core.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.Data.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.Data.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.Data.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.Data.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.Utils.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.Utils.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.Utils.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.Utils.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.Web.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.Web.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.Web.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.Web.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.Web.Resources.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.Web.Resources.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.Web.Resources.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.Web.Resources.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.Xpo.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.Xpo.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\bin\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\obj\Debug\ICC.Resources.resources
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\obj\Debug\ICC.vbproj.GenerateResource.cache
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\obj\Debug\ICC.dll.licenses
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\obj\Debug\ICC.vbproj.CoreCompileInputs.cache
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\obj\Debug\ICC.dll
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\obj\Debug\ICC.xml
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\obj\Debug\ICC.pdb
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\obj\Debug\ICC.vbproj.CopyComplete
+D:\BRI Life OmniChannel\BRI Life Fhase 2\APPS\helpdesk_agent\obj\Debug\ICC.vbproj.AssemblyReference.cache
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ICC.dll.config
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ICC.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ICC.pdb
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ICC.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\AntiXssLibrary.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Charts.v20.1.Core.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Data.Desktop.v20.1.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Data.v20.1.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Office.v20.1.Core.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Core.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Printing.v20.1.Core.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Core.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Export.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.SpellChecker.v20.1.Core.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Utils.v20.1.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Web.ASPxHtmlEditor.v20.1.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Web.ASPxSpellChecker.v20.1.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Web.ASPxThemes.v20.1.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Web.Resources.v20.1.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Web.v20.1.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.UI.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Web.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraEditors.v20.1.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraPrinting.v20.1.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\HtmlSanitizationLibrary.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\JWT.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\Newtonsoft.Json.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\Twilio.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Drawing.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.UI.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraBars.v20.1.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Utils.v20.1.UI.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraGrid.v20.1.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraTreeList.v20.1.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraNavBar.v20.1.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraLayout.v20.1.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Sparkline.v20.1.Core.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraRichEdit.v20.1.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Xpo.v20.1.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraDiagram.v20.1.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Diagram.v20.1.Core.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.CodeParser.v20.1.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Images.v20.1.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\AntiXssLibrary.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Data.v20.1.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Office.v20.1.Core.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Core.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Printing.v20.1.Core.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Core.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.SpellChecker.v20.1.Core.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Data.Desktop.v20.1.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Utils.v20.1.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Web.ASPxHtmlEditor.v20.1.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Web.ASPxSpellChecker.v20.1.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Web.v20.1.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.UI.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Web.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraEditors.v20.1.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraPrinting.v20.1.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\HtmlSanitizationLibrary.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\Newtonsoft.Json.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\Twilio.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Drawing.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.UI.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraBars.v20.1.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Utils.v20.1.UI.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraGrid.v20.1.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraTreeList.v20.1.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraNavBar.v20.1.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraLayout.v20.1.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Sparkline.v20.1.Core.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraRichEdit.v20.1.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Xpo.v20.1.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.XtraDiagram.v20.1.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\DevExpress.Diagram.v20.1.Core.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.Data.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.Data.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.Data.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.Data.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.Utils.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.Utils.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.Utils.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.Utils.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.Web.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.Web.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.Web.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.Web.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.Web.Resources.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.Web.Resources.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.Web.Resources.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.Web.Resources.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.Xpo.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.Xpo.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\bin\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\obj\Debug\ICC.Resources.resources
+D:\BRI QM\Production BRIQIS\helpdesk_agent\obj\Debug\ICC.vbproj.GenerateResource.cache
+D:\BRI QM\Production BRIQIS\helpdesk_agent\obj\Debug\ICC.dll.licenses
+D:\BRI QM\Production BRIQIS\helpdesk_agent\obj\Debug\ICC.vbproj.CoreCompileInputs.cache
+D:\BRI QM\Production BRIQIS\helpdesk_agent\obj\Debug\ICC.vbproj.CopyComplete
+D:\BRI QM\Production BRIQIS\helpdesk_agent\obj\Debug\ICC.dll
+D:\BRI QM\Production BRIQIS\helpdesk_agent\obj\Debug\ICC.xml
+D:\BRI QM\Production BRIQIS\helpdesk_agent\obj\Debug\ICC.pdb
+D:\BRI QM\Production BRIQIS\helpdesk_agent\obj\Debug\ICC.vbproj.AssemblyReference.cache
+D:\V2_UIDESK\helpdesk_agent\bin\ICC.dll
+D:\V2_UIDESK\helpdesk_agent\bin\AntiXssLibrary.dll
+D:\V2_UIDESK\helpdesk_agent\bin\HtmlSanitizationLibrary.dll
+D:\V2_UIDESK\helpdesk_agent\bin\JWT.dll
+D:\V2_UIDESK\helpdesk_agent\bin\Newtonsoft.Json.dll
+D:\V2_UIDESK\helpdesk_agent\bin\Twilio.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ICC.dll.config
+D:\V2_UIDESK\helpdesk_agent\bin\ICC.pdb
+D:\V2_UIDESK\helpdesk_agent\bin\ICC.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Charts.v20.1.Core.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Data.Desktop.v20.1.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Data.v20.1.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Office.v20.1.Core.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Core.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Printing.v20.1.Core.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Core.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Export.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.SpellChecker.v20.1.Core.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Utils.v20.1.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Web.ASPxHtmlEditor.v20.1.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Web.ASPxSpellChecker.v20.1.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Web.ASPxThemes.v20.1.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Web.Resources.v20.1.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Web.v20.1.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.UI.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Web.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraEditors.v20.1.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraPrinting.v20.1.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Drawing.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.UI.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraBars.v20.1.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Utils.v20.1.UI.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraGrid.v20.1.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraTreeList.v20.1.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraNavBar.v20.1.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraLayout.v20.1.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Sparkline.v20.1.Core.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraRichEdit.v20.1.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Xpo.v20.1.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraDiagram.v20.1.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Diagram.v20.1.Core.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.CodeParser.v20.1.dll
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Images.v20.1.dll
+D:\V2_UIDESK\helpdesk_agent\bin\AntiXssLibrary.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Data.v20.1.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Office.v20.1.Core.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Core.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Printing.v20.1.Core.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Core.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.SpellChecker.v20.1.Core.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Data.Desktop.v20.1.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Utils.v20.1.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Web.ASPxHtmlEditor.v20.1.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Web.ASPxSpellChecker.v20.1.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Web.v20.1.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.UI.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Web.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraEditors.v20.1.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraPrinting.v20.1.xml
+D:\V2_UIDESK\helpdesk_agent\bin\HtmlSanitizationLibrary.xml
+D:\V2_UIDESK\helpdesk_agent\bin\Newtonsoft.Json.xml
+D:\V2_UIDESK\helpdesk_agent\bin\Twilio.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Drawing.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.UI.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraBars.v20.1.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Utils.v20.1.UI.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraGrid.v20.1.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraTreeList.v20.1.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraNavBar.v20.1.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraLayout.v20.1.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Sparkline.v20.1.Core.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraRichEdit.v20.1.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Xpo.v20.1.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.XtraDiagram.v20.1.xml
+D:\V2_UIDESK\helpdesk_agent\bin\DevExpress.Diagram.v20.1.Core.xml
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.Data.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.Data.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.Data.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.Data.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.Utils.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.Utils.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.Utils.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.Utils.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.Web.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.Web.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.Web.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.Web.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.Web.Resources.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.Web.Resources.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.Web.Resources.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.Web.Resources.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.Xpo.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.Xpo.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\bin\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\V2_UIDESK\helpdesk_agent\obj\Debug\ICC.vbproj.AssemblyReference.cache
+D:\V2_UIDESK\helpdesk_agent\obj\Debug\ICC.Resources.resources
+D:\V2_UIDESK\helpdesk_agent\obj\Debug\ICC.vbproj.GenerateResource.cache
+D:\V2_UIDESK\helpdesk_agent\obj\Debug\ICC.dll.licenses
+D:\V2_UIDESK\helpdesk_agent\obj\Debug\ICC.vbproj.CoreCompileInputs.cache
+D:\V2_UIDESK\helpdesk_agent\obj\Debug\ICC.vbproj.CopyComplete
+D:\V2_UIDESK\helpdesk_agent\obj\Debug\ICC.dll
+D:\V2_UIDESK\helpdesk_agent\obj\Debug\ICC.xml
+D:\V2_UIDESK\helpdesk_agent\obj\Debug\ICC.pdb
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ICC.dll.config
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ICC.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ICC.pdb
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ICC.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\AntiXssLibrary.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Charts.v20.1.Core.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Data.Desktop.v20.1.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Data.v20.1.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Office.v20.1.Core.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Core.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Printing.v20.1.Core.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Core.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Export.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.SpellChecker.v20.1.Core.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Utils.v20.1.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Web.ASPxHtmlEditor.v20.1.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Web.ASPxSpellChecker.v20.1.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Web.ASPxThemes.v20.1.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Web.Resources.v20.1.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Web.v20.1.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.UI.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Web.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraEditors.v20.1.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraPrinting.v20.1.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\HtmlSanitizationLibrary.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\JWT.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\Newtonsoft.Json.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\Twilio.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Drawing.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.UI.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraBars.v20.1.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Utils.v20.1.UI.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraGrid.v20.1.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraTreeList.v20.1.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraNavBar.v20.1.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraLayout.v20.1.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Sparkline.v20.1.Core.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraRichEdit.v20.1.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Xpo.v20.1.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraDiagram.v20.1.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Diagram.v20.1.Core.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.CodeParser.v20.1.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Images.v20.1.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\AntiXssLibrary.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Data.v20.1.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Office.v20.1.Core.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Core.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Printing.v20.1.Core.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Core.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.SpellChecker.v20.1.Core.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Data.Desktop.v20.1.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Utils.v20.1.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Web.ASPxHtmlEditor.v20.1.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Web.ASPxSpellChecker.v20.1.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Web.v20.1.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.UI.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Web.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraEditors.v20.1.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraPrinting.v20.1.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\HtmlSanitizationLibrary.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\Newtonsoft.Json.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\Twilio.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Drawing.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.UI.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraBars.v20.1.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Utils.v20.1.UI.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraGrid.v20.1.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraTreeList.v20.1.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraNavBar.v20.1.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraLayout.v20.1.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Sparkline.v20.1.Core.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraRichEdit.v20.1.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Xpo.v20.1.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.XtraDiagram.v20.1.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\DevExpress.Diagram.v20.1.Core.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.Data.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.Data.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.Data.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.Data.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.Utils.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.Utils.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.Utils.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.Utils.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.Web.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.Web.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.Web.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.Web.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.Web.Resources.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.Web.Resources.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.Web.Resources.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.Web.Resources.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.Xpo.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.Xpo.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\bin\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\obj\Debug\ICC.Resources.resources
+D:\RESELLER\Aplikasi\helpdesk_agent\obj\Debug\ICC.vbproj.GenerateResource.cache
+D:\RESELLER\Aplikasi\helpdesk_agent\obj\Debug\ICC.dll.licenses
+D:\RESELLER\Aplikasi\helpdesk_agent\obj\Debug\ICC.vbproj.CoreCompileInputs.cache
+D:\RESELLER\Aplikasi\helpdesk_agent\obj\Debug\ICC.vbproj.CopyComplete
+D:\RESELLER\Aplikasi\helpdesk_agent\obj\Debug\ICC.dll
+D:\RESELLER\Aplikasi\helpdesk_agent\obj\Debug\ICC.xml
+D:\RESELLER\Aplikasi\helpdesk_agent\obj\Debug\ICC.pdb
+D:\RESELLER\Aplikasi\helpdesk_agent\obj\Debug\ICC.vbproj.AssemblyReference.cache
+D:\helpdesk_agent\bin\ICC.dll.config
+D:\helpdesk_agent\bin\ICC.dll
+D:\helpdesk_agent\bin\ICC.pdb
+D:\helpdesk_agent\bin\ICC.xml
+D:\helpdesk_agent\bin\AntiXssLibrary.dll
+D:\helpdesk_agent\bin\DevExpress.Charts.v20.1.Core.dll
+D:\helpdesk_agent\bin\DevExpress.Data.Desktop.v20.1.dll
+D:\helpdesk_agent\bin\DevExpress.Data.v20.1.dll
+D:\helpdesk_agent\bin\DevExpress.Office.v20.1.Core.dll
+D:\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Core.dll
+D:\helpdesk_agent\bin\DevExpress.Printing.v20.1.Core.dll
+D:\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Core.dll
+D:\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Export.dll
+D:\helpdesk_agent\bin\DevExpress.SpellChecker.v20.1.Core.dll
+D:\helpdesk_agent\bin\DevExpress.Utils.v20.1.dll
+D:\helpdesk_agent\bin\DevExpress.Web.ASPxHtmlEditor.v20.1.dll
+D:\helpdesk_agent\bin\DevExpress.Web.ASPxSpellChecker.v20.1.dll
+D:\helpdesk_agent\bin\DevExpress.Web.ASPxThemes.v20.1.dll
+D:\helpdesk_agent\bin\DevExpress.Web.Resources.v20.1.dll
+D:\helpdesk_agent\bin\DevExpress.Web.v20.1.dll
+D:\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.dll
+D:\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.UI.dll
+D:\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Web.dll
+D:\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\helpdesk_agent\bin\DevExpress.XtraEditors.v20.1.dll
+D:\helpdesk_agent\bin\DevExpress.XtraPrinting.v20.1.dll
+D:\helpdesk_agent\bin\HtmlSanitizationLibrary.dll
+D:\helpdesk_agent\bin\JWT.dll
+D:\helpdesk_agent\bin\Newtonsoft.Json.dll
+D:\helpdesk_agent\bin\Twilio.dll
+D:\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Drawing.dll
+D:\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.UI.dll
+D:\helpdesk_agent\bin\DevExpress.XtraBars.v20.1.dll
+D:\helpdesk_agent\bin\DevExpress.Utils.v20.1.UI.dll
+D:\helpdesk_agent\bin\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\helpdesk_agent\bin\DevExpress.XtraGrid.v20.1.dll
+D:\helpdesk_agent\bin\DevExpress.XtraTreeList.v20.1.dll
+D:\helpdesk_agent\bin\DevExpress.XtraNavBar.v20.1.dll
+D:\helpdesk_agent\bin\DevExpress.XtraLayout.v20.1.dll
+D:\helpdesk_agent\bin\DevExpress.Sparkline.v20.1.Core.dll
+D:\helpdesk_agent\bin\DevExpress.XtraRichEdit.v20.1.dll
+D:\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.dll
+D:\helpdesk_agent\bin\DevExpress.Xpo.v20.1.dll
+D:\helpdesk_agent\bin\DevExpress.XtraDiagram.v20.1.dll
+D:\helpdesk_agent\bin\DevExpress.Diagram.v20.1.Core.dll
+D:\helpdesk_agent\bin\DevExpress.CodeParser.v20.1.dll
+D:\helpdesk_agent\bin\DevExpress.Images.v20.1.dll
+D:\helpdesk_agent\bin\AntiXssLibrary.xml
+D:\helpdesk_agent\bin\DevExpress.Data.v20.1.xml
+D:\helpdesk_agent\bin\DevExpress.Office.v20.1.Core.xml
+D:\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Core.xml
+D:\helpdesk_agent\bin\DevExpress.Printing.v20.1.Core.xml
+D:\helpdesk_agent\bin\DevExpress.RichEdit.v20.1.Core.xml
+D:\helpdesk_agent\bin\DevExpress.SpellChecker.v20.1.Core.xml
+D:\helpdesk_agent\bin\DevExpress.Data.Desktop.v20.1.xml
+D:\helpdesk_agent\bin\DevExpress.Utils.v20.1.xml
+D:\helpdesk_agent\bin\DevExpress.Web.ASPxHtmlEditor.v20.1.xml
+D:\helpdesk_agent\bin\DevExpress.Web.ASPxSpellChecker.v20.1.xml
+D:\helpdesk_agent\bin\DevExpress.Web.v20.1.xml
+D:\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.xml
+D:\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.UI.xml
+D:\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Web.xml
+D:\helpdesk_agent\bin\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\helpdesk_agent\bin\DevExpress.XtraEditors.v20.1.xml
+D:\helpdesk_agent\bin\DevExpress.XtraPrinting.v20.1.xml
+D:\helpdesk_agent\bin\HtmlSanitizationLibrary.xml
+D:\helpdesk_agent\bin\Newtonsoft.Json.xml
+D:\helpdesk_agent\bin\Twilio.xml
+D:\helpdesk_agent\bin\DevExpress.Pdf.v20.1.Drawing.xml
+D:\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.UI.xml
+D:\helpdesk_agent\bin\DevExpress.XtraBars.v20.1.xml
+D:\helpdesk_agent\bin\DevExpress.Utils.v20.1.UI.xml
+D:\helpdesk_agent\bin\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\helpdesk_agent\bin\DevExpress.XtraGrid.v20.1.xml
+D:\helpdesk_agent\bin\DevExpress.XtraTreeList.v20.1.xml
+D:\helpdesk_agent\bin\DevExpress.XtraNavBar.v20.1.xml
+D:\helpdesk_agent\bin\DevExpress.XtraLayout.v20.1.xml
+D:\helpdesk_agent\bin\DevExpress.Sparkline.v20.1.Core.xml
+D:\helpdesk_agent\bin\DevExpress.XtraRichEdit.v20.1.xml
+D:\helpdesk_agent\bin\DevExpress.DataAccess.v20.1.xml
+D:\helpdesk_agent\bin\DevExpress.Xpo.v20.1.xml
+D:\helpdesk_agent\bin\DevExpress.XtraDiagram.v20.1.xml
+D:\helpdesk_agent\bin\DevExpress.Diagram.v20.1.Core.xml
+D:\helpdesk_agent\bin\de\DevExpress.Data.v20.1.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.Data.v20.1.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.Data.v20.1.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.Data.v20.1.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.Utils.v20.1.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.Utils.v20.1.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.Utils.v20.1.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.Utils.v20.1.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.Web.v20.1.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.Web.v20.1.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.Web.v20.1.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.Web.v20.1.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.Web.Resources.v20.1.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.Web.Resources.v20.1.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.Web.Resources.v20.1.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.Web.Resources.v20.1.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.Xpo.v20.1.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.Xpo.v20.1.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\helpdesk_agent\bin\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\helpdesk_agent\bin\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\helpdesk_agent\bin\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\helpdesk_agent\bin\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\helpdesk_agent\obj\Debug\ICC.vbproj.AssemblyReference.cache
+D:\helpdesk_agent\obj\Debug\ICC.Resources.resources
+D:\helpdesk_agent\obj\Debug\ICC.vbproj.GenerateResource.cache
+D:\helpdesk_agent\obj\Debug\ICC.dll.licenses
+D:\helpdesk_agent\obj\Debug\ICC.vbproj.CoreCompileInputs.cache
+D:\helpdesk_agent\obj\Debug\ICC.vbproj.CopyComplete
+D:\helpdesk_agent\obj\Debug\ICC.dll
+D:\helpdesk_agent\obj\Debug\ICC.xml
+D:\helpdesk_agent\obj\Debug\ICC.pdb
+C:\Kanmo\konmoNew\bin\ICC.dll.config
+C:\Kanmo\konmoNew\bin\ICC.dll
+C:\Kanmo\konmoNew\bin\ICC.pdb
+C:\Kanmo\konmoNew\bin\ICC.xml
+C:\Kanmo\konmoNew\bin\AntiXssLibrary.dll
+C:\Kanmo\konmoNew\bin\DevExpress.Charts.v20.1.Core.dll
+C:\Kanmo\konmoNew\bin\DevExpress.Data.Desktop.v20.1.dll
+C:\Kanmo\konmoNew\bin\DevExpress.Data.v20.1.dll
+C:\Kanmo\konmoNew\bin\DevExpress.Office.v20.1.Core.dll
+C:\Kanmo\konmoNew\bin\DevExpress.Pdf.v20.1.Core.dll
+C:\Kanmo\konmoNew\bin\DevExpress.Printing.v20.1.Core.dll
+C:\Kanmo\konmoNew\bin\DevExpress.RichEdit.v20.1.Core.dll
+C:\Kanmo\konmoNew\bin\DevExpress.RichEdit.v20.1.Export.dll
+C:\Kanmo\konmoNew\bin\DevExpress.SpellChecker.v20.1.Core.dll
+C:\Kanmo\konmoNew\bin\DevExpress.Utils.v20.1.dll
+C:\Kanmo\konmoNew\bin\DevExpress.Web.ASPxHtmlEditor.v20.1.dll
+C:\Kanmo\konmoNew\bin\DevExpress.Web.ASPxSpellChecker.v20.1.dll
+C:\Kanmo\konmoNew\bin\DevExpress.Web.ASPxThemes.v20.1.dll
+C:\Kanmo\konmoNew\bin\DevExpress.Web.Resources.v20.1.dll
+C:\Kanmo\konmoNew\bin\DevExpress.Web.v20.1.dll
+C:\Kanmo\konmoNew\bin\DevExpress.XtraCharts.v20.1.dll
+C:\Kanmo\konmoNew\bin\DevExpress.XtraCharts.v20.1.Extensions.dll
+C:\Kanmo\konmoNew\bin\DevExpress.XtraCharts.v20.1.UI.dll
+C:\Kanmo\konmoNew\bin\DevExpress.XtraCharts.v20.1.Web.dll
+C:\Kanmo\konmoNew\bin\DevExpress.XtraCharts.v20.1.Wizard.dll
+C:\Kanmo\konmoNew\bin\DevExpress.XtraEditors.v20.1.dll
+C:\Kanmo\konmoNew\bin\DevExpress.XtraPrinting.v20.1.dll
+C:\Kanmo\konmoNew\bin\HtmlSanitizationLibrary.dll
+C:\Kanmo\konmoNew\bin\JWT.dll
+C:\Kanmo\konmoNew\bin\Newtonsoft.Json.dll
+C:\Kanmo\konmoNew\bin\Twilio.dll
+C:\Kanmo\konmoNew\bin\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Kanmo\konmoNew\bin\DevExpress.DataAccess.v20.1.UI.dll
+C:\Kanmo\konmoNew\bin\DevExpress.XtraBars.v20.1.dll
+C:\Kanmo\konmoNew\bin\DevExpress.Utils.v20.1.UI.dll
+C:\Kanmo\konmoNew\bin\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Kanmo\konmoNew\bin\DevExpress.XtraGrid.v20.1.dll
+C:\Kanmo\konmoNew\bin\DevExpress.XtraTreeList.v20.1.dll
+C:\Kanmo\konmoNew\bin\DevExpress.XtraNavBar.v20.1.dll
+C:\Kanmo\konmoNew\bin\DevExpress.XtraLayout.v20.1.dll
+C:\Kanmo\konmoNew\bin\DevExpress.Sparkline.v20.1.Core.dll
+C:\Kanmo\konmoNew\bin\DevExpress.XtraRichEdit.v20.1.dll
+C:\Kanmo\konmoNew\bin\DevExpress.DataAccess.v20.1.dll
+C:\Kanmo\konmoNew\bin\DevExpress.Xpo.v20.1.dll
+C:\Kanmo\konmoNew\bin\DevExpress.XtraDiagram.v20.1.dll
+C:\Kanmo\konmoNew\bin\DevExpress.Diagram.v20.1.Core.dll
+C:\Kanmo\konmoNew\bin\DevExpress.CodeParser.v20.1.dll
+C:\Kanmo\konmoNew\bin\DevExpress.Images.v20.1.dll
+C:\Kanmo\konmoNew\bin\AntiXssLibrary.xml
+C:\Kanmo\konmoNew\bin\DevExpress.Data.v20.1.xml
+C:\Kanmo\konmoNew\bin\DevExpress.Office.v20.1.Core.xml
+C:\Kanmo\konmoNew\bin\DevExpress.Pdf.v20.1.Core.xml
+C:\Kanmo\konmoNew\bin\DevExpress.Printing.v20.1.Core.xml
+C:\Kanmo\konmoNew\bin\DevExpress.RichEdit.v20.1.Core.xml
+C:\Kanmo\konmoNew\bin\DevExpress.SpellChecker.v20.1.Core.xml
+C:\Kanmo\konmoNew\bin\DevExpress.Data.Desktop.v20.1.xml
+C:\Kanmo\konmoNew\bin\DevExpress.Utils.v20.1.xml
+C:\Kanmo\konmoNew\bin\DevExpress.Web.ASPxHtmlEditor.v20.1.xml
+C:\Kanmo\konmoNew\bin\DevExpress.Web.ASPxSpellChecker.v20.1.xml
+C:\Kanmo\konmoNew\bin\DevExpress.Web.v20.1.xml
+C:\Kanmo\konmoNew\bin\DevExpress.XtraCharts.v20.1.xml
+C:\Kanmo\konmoNew\bin\DevExpress.XtraCharts.v20.1.UI.xml
+C:\Kanmo\konmoNew\bin\DevExpress.XtraCharts.v20.1.Web.xml
+C:\Kanmo\konmoNew\bin\DevExpress.XtraCharts.v20.1.Wizard.xml
+C:\Kanmo\konmoNew\bin\DevExpress.XtraEditors.v20.1.xml
+C:\Kanmo\konmoNew\bin\DevExpress.XtraPrinting.v20.1.xml
+C:\Kanmo\konmoNew\bin\HtmlSanitizationLibrary.xml
+C:\Kanmo\konmoNew\bin\Newtonsoft.Json.xml
+C:\Kanmo\konmoNew\bin\Twilio.xml
+C:\Kanmo\konmoNew\bin\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Kanmo\konmoNew\bin\DevExpress.DataAccess.v20.1.UI.xml
+C:\Kanmo\konmoNew\bin\DevExpress.XtraBars.v20.1.xml
+C:\Kanmo\konmoNew\bin\DevExpress.Utils.v20.1.UI.xml
+C:\Kanmo\konmoNew\bin\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Kanmo\konmoNew\bin\DevExpress.XtraGrid.v20.1.xml
+C:\Kanmo\konmoNew\bin\DevExpress.XtraTreeList.v20.1.xml
+C:\Kanmo\konmoNew\bin\DevExpress.XtraNavBar.v20.1.xml
+C:\Kanmo\konmoNew\bin\DevExpress.XtraLayout.v20.1.xml
+C:\Kanmo\konmoNew\bin\DevExpress.Sparkline.v20.1.Core.xml
+C:\Kanmo\konmoNew\bin\DevExpress.XtraRichEdit.v20.1.xml
+C:\Kanmo\konmoNew\bin\DevExpress.DataAccess.v20.1.xml
+C:\Kanmo\konmoNew\bin\DevExpress.Xpo.v20.1.xml
+C:\Kanmo\konmoNew\bin\DevExpress.XtraDiagram.v20.1.xml
+C:\Kanmo\konmoNew\bin\DevExpress.Diagram.v20.1.Core.xml
+C:\Kanmo\konmoNew\bin\de\DevExpress.Data.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.Data.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.Data.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.Data.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.Utils.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.Utils.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.Web.ASPxHtmlEditor.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.Web.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.Web.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.Web.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.Web.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.Web.Resources.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.Web.Resources.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.Web.Resources.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.Web.Resources.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Kanmo\konmoNew\bin\de\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\bin\es\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\bin\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\bin\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Kanmo\konmoNew\obj\Debug\ICC.vbproj.AssemblyReference.cache
+C:\Kanmo\konmoNew\obj\Debug\ICC.Resources.resources
+C:\Kanmo\konmoNew\obj\Debug\ICC.vbproj.GenerateResource.cache
+C:\Kanmo\konmoNew\obj\Debug\ICC.dll.licenses
+C:\Kanmo\konmoNew\obj\Debug\ICC.vbproj.CoreCompileInputs.cache
+C:\Kanmo\konmoNew\obj\Debug\ICC.vbproj.CopyComplete
+C:\Kanmo\konmoNew\obj\Debug\ICC.dll
+C:\Kanmo\konmoNew\obj\Debug\ICC.xml
+C:\Kanmo\konmoNew\obj\Debug\ICC.pdb

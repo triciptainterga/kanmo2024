@@ -1,0 +1,94 @@
+Time: 26/02/2024 10:09:43:211 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'Siti_Muntama','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 26/02/2024 10:09:43:232 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 26/02/2024 10:09:43:490 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxAgentAux '9','Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 26/02/2024 10:09:43:683 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','Siti_Muntama','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 26/02/2024 10:09:43:684 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='Siti_Muntama' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 26/02/2024 10:09:43:690 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 157
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 26/02/2024 10:09:46:792 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Siti_Muntama', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 26/02/2024 10:09:47:281 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 26/02/2024 10:09:47:970 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Siti_Muntama', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 26/02/2024 10:09:48:299 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 26/02/2024 10:09:48:322 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Siti_Muntama','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 26/02/2024 10:09:48:855 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Siti_Muntama','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 26/02/2024 10:18:29:628 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '0','Siti_Muntama','UIDESK124'
+---------------------------Success-------------------------------------------------------
+
+Time: 26/02/2024 10:18:30:013 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 26/02/2024 10:18:30:030 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Siti_Muntama','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 26/02/2024 10:18:30:501 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Siti_Muntama'
+---------------------------Success-------------------------------------------------------
+
+Time: 26/02/2024 10:18:30:567 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Siti_Muntama','UIDESK66'
+---------------------------Success-------------------------------------------------------
+

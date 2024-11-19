@@ -1,0 +1,58 @@
+Return-path: <kanmodemo@uidesk.id>
+Received: from srv128.niagahoster.com ([109.106.252.101])
+	by mx294.antispamcloud.com with esmtpsa (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <kanmodemo@uidesk.id>)
+	id 1qqUmc-000IgP-Ct
+	for resturamahika@gmail.com; Wed, 11 Oct 2023 10:41:39 +0200
+Received: from [103.149.177.124] (port=51012 helo=win-n6v5eb6m77e.domain)
+	by srv128.niagahoster.com with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <kanmodemo@uidesk.id>)
+	id 1qqUmQ-000AZu-22;
+	Wed, 11 Oct 2023 15:41:25 +0700
+Message-ID: <11bd8e199b26768bd84df947046cd2f3@uidesk.id>
+From: Kanmo Demo <kanmodemo@uidesk.id>
+To: <resturamahika@gmail.com>
+Cc: <restu@uidesk.id>
+Subject: Test Compose
+Date: Wed, 11 Oct 2023 15:41:22 +0700
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - srv128.niagahoster.com
+X-AntiAbuse: Original Domain - gmail.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - uidesk.id
+X-Get-Message-Sender-Via: srv128.niagahoster.com: authenticated_id: kanmodemo@uidesk.id
+X-Authenticated-Sender: srv128.niagahoster.com: kanmodemo@uidesk.id
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Originating-IP: 109.106.252.101
+X-Spampanel-Domain: out.niagahoster.com
+X-Spampanel-Username: niaga
+Authentication-Results: antispamcloud.com; auth=pass (login) smtp.auth=niaga@out.niagahoster.com
+X-Spampanel-Outgoing-Class: unsure
+X-Spampanel-Outgoing-Evidence: Combined (0.50)
+X-Recommended-Action: accept
+X-Filter-ID: Pt3MvcO5N4iKaDQ5O6lkdGlMVN6RH8bjRMzItlySaT+jVOJ7IWgdz6lomHBAJgn6PUtbdvnXkggZ
+ 3YnVId/Y5jcf0yeVQAvfjHznO7+bT5yVEO29vF7pB5B34SIMM2AWInU+hTKH+GmJXsuCUGFqrefH
+ zJ6mVE7ewsipSVIfs4bQcdPiSyJKDjNG9KfK5io5ABHVTw1lV42ob3hDgXVUNVaCQd0AHgfAWdj+
+ hzsPTJjg7SFKzVjiodqjWxxQEmpb6kXdhD7ggPim9l+wyqVv5Qm1hH87gw3aKIv6t/r7s3hLwcm7
+ 4UI1Eg178tO1xynpmdySlZou9qHIGOZDEEo7O3PuJfOIAQpYEteY7zmkHA+rMIibkpY46HKySyiI
+ 2P6orDjoetqgHmMVL+PhHqGmLuIxSIjWh7/iXAsotc+LErAACfRtBjLzEjgIZNLWhI/Mcyy3SbbW
+ reml/dnuCBPeN92BGPrKtAC7FsU49Klio9+YsXTCpNwQX5GuA33x6QVq1J78OW0vNx6XpuZ2qqWD
+ eDLs7Lqs9YHmW5zoOANkVElaRPFtJNQvPR1YCRwsoF2UJLFZV2VsWrEXxYzPJvIeyCEnVSsgPP/M
+ gqSGMx92qX+/Ib/3gD1xdv4OjYexFN7iUGXEM6Lukg7SqrliW37D9+ZeB4s9iAEQNgGyIwQJE5Ul
+ kRCBitsk0Qkggr/IqK1hNHf90EpYWpOexCm0l+tpk8PcZ8rsm2VGBHoXRErlHUuxX4OQOI/UQ6jn
+ FfMBgzwOvTDlicHFvtZS6HuPUQW7jocvHfGdOiB+IBa7lUpawIWC1AI9a3irbifzymzQYX+PYwsY
+ Ln9kViDt3aLVaR4UDy54yjD94pm3qkDeCprsbODP/UN3mrBKrmbOY/zwQXBBo2igtFbew7QAUNq5
+ s6A2GPUf9oDBqtClgM5jH/om1Q5RXkd2ZROs/zpQJVuzJfaJx8Ru3eSjs9toe8bylmNDuOCf6RKb
+ ch43rE0pU6z6zJn/asDO0V6SUvEY03codo+QgAHGMdQRtAWrhIjqeKCCBipOyfoADbN2TYagqdX5
+ B3URY/Z6A+/F/gdFa1EGZPhWMS+4ayUpOtEhdxekWDmK9g==
+X-Report-Abuse-To: spam@quarantine15.antispamcloud.com
+
+

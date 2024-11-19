@@ -1,0 +1,102 @@
+Time: 28/10/2023 07.53.52.524 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmMasterDropdown '39','InboxSelected','agentkanmoemail1','UIDESK100'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/10/2023 07.53.52.663 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmMasterDropdown '202310280717135964363','ReplyAttachmentInboxEmail','agentkanmoemail1','UIDESK100'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/10/2023 07.59.56.332 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM UIDESK_TrxEmailDetail WHERE USERCREATE='agentkanmoemail1' AND DIRECTION='OUT' AND FLAG='N' AND FLAG_EVENT='0'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/10/2023 07.59.56.335 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxDeleteEmailAttachment '','agentkanmoemail1'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/10/2023 07.59.57.159 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxFilterDate '0','0','','FilterDate'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/10/2023 07.59.57.180 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmMasterDropdown 'UideskIndonesia','InboxTable','','UIDESK100'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/10/2023 07.59.57.182 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '6','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/10/2023 07.59.57.189 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK115'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/10/2023 07.59.57.189 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','','UIDESK116'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/10/2023 07.59.57.191 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/10/2023 07.59.57.193 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailCounting '',''
+---------------------------Success-------------------------------------------------------
+
+Time: 28/10/2023 07.59.57.196 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/10/2023 07.59.57.197 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/10/2023 09.31.02.078 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','','Insert'
+Message: Procedure or function 'UIDESK_SP_TrxLogoutActivity' expects parameter '@TrxLoginUserName', which was not supplied.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.TrmAux.InsertLogoutActivity(String TrxLoginID, String TrxLoginUserName, String TrxAction) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\TrmAux.asmx.vb:line 254
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 28/10/2023 09.31.02.090 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/10/2023 07.27.02.637 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmMasterDropdown '44','InboxSelected','agentkanmoemail1','UIDESK100'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/10/2023 07.27.02.793 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmMasterDropdown '202310281855087441606','ReplyAttachmentInboxEmail','agentkanmoemail1','UIDESK100'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/10/2023 07.27.05.735 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec AHU_Uidesk_TrxFormatResponseEmail '1','0','0','0','agentkanmoemail1','SELECT'
+---------------------------Success-------------------------------------------------------
+

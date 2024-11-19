@@ -1,0 +1,1535 @@
+Time: 31/05/2024 10:16:49:160 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'Admin','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:16:49:734 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:16:50:133 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxAgentAux '9','admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:16:50:404 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','admin','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:16:50:404 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='admin' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:16:50:408 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 157
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 31/05/2024 10:17:36:407 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:17:36:489 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:17:37:071 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'admin', 'open', '5',''
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:17:37:447 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'admin', '5', 'Admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:17:37:843 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:17:39:001 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:17:56:855 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'admin', '5', 'Admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:17:57:361 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:17:58:181 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'admin', 'open', '5',''
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:17:58:372 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:17:58:848 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:17:59:368 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:18:06:475 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:18:07:080 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:18:07:917 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:18:08:002 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:19:32:133 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:19:32:152 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:19:32:894 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:19:33:743 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:27:58:745 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','admin','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:27:58:844 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:27:58:950 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','admin','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:27:59:073 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:27:59:139 AM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:27:59:260 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:27:59:897 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:27:59:966 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:28:00:022 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:28:00:201 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:28:00:720 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','admin','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:28:01:229 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:28:01:746 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:28:02:251 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:38:13:697 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'Admin','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:38:13:714 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:38:13:909 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxAgentAux '9','admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:38:13:970 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','admin','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:38:13:970 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='admin' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:38:13:974 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 157
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 31/05/2024 10:38:46:377 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:38:46:774 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:38:47:093 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:38:47:401 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'admin', '5', 'Admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:38:48:131 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'admin', 'open', '5',''
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:38:48:383 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:39:27:086 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','admin','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:39:27:141 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:39:27:195 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','admin','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:39:27:305 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:39:27:396 AM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:39:27:441 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:39:28:164 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:39:28:244 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:39:28:286 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:39:28:612 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:39:29:118 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:39:29:648 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:39:30:167 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:39:30:943 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','admin','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:42:57:457 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'Admin','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:42:57:536 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:42:57:614 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxAgentAux '9','admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:42:57:704 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','admin','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:42:57:705 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='admin' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:42:57:706 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 157
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 31/05/2024 10:43:03:177 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'admin', '5', 'Admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:04:042 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'admin', 'open', '5',''
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:04:437 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:04:715 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:05:229 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:05:747 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:13:579 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','admin','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:13:592 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:13:632 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','admin','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:13:670 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:13:736 AM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:13:781 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:14:060 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:14:160 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:14:222 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:14:625 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:15:103 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','admin','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:15:614 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:16:129 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:16:655 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:27:041 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:27:378 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:27:460 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:27:754 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:27:779 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:27:893 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudF9pZCI6NDA1MSwidXNlcl9pZCI6MjA3MywiYWNjb3VudF9pZCI6Mzg3MCwibmFtZSI6IlVJRGVzayIsImVtYWlsIjoic2EtMjA3My1GWUdUSi4xNzE2NzgxNDYyQGlhbS5iYW50dWRhZ2FuZy5jb20iLCJhZ2VudF90eXBlIjoic2VydmljZV9hY2NvdW50Iiwic3RvcmVfcmVzdHJpY3RlZCI6MCwic3RvcmVzIjpbIlRLUEQtNjg1NzY0MyIsIlRLUEQtNzk4NTA2MiIsIlNIUEUtNjQ4NzQ5OTIiLCJTSFBFLTYxNTE2MjA3IiwiTFpEQS0yNTE4OSIsIlRLUEQtODEwMjU0MSIsIlNIUEUtMjgyMDQ5NjIxIiwiVEtQRC0xMTU2MDcwMyIsIlRLUEQtOTk1Nzc5MCIsIlRLUEQtOTI4Njk2NSIsIlRLUEQtNjA5MDk2MiIsIlRLUEQtOTE3MzgwOSIsIlRLUEQtMTMzMTkxMDMiLCJUS1BELTEyMDk1MDY2IiwiVEtQRC0xMzgyNDM3MSIsIlRLUEQtODMyODkzMSIsIlNIUEUtODU0NzM5NjAiLCJUS1BELTEzMTQ3NDE0IiwiU0hQRS05NzI5MTE0NSIsIlRLUEQtODkyMzc4MyIsIlNIUEUtMTE3OTI1Njk0IiwiVEtQRC0zODU5NjAxIiwiU0hQRS0yMjU3MTA2MTYiLCJTSFBFLTIyMTYwMjYxOSIsIlRLUEQtNzE2NjgwMSIsIlNIUEUtMzI1MjQwNTU2IiwiVEtQRC05NzMxNjAzIiwiVEtQRC0xNDQzNjAwNiIsIlNIUEUtMjQyNTg2MDg3IiwiU0hQRS0yNDAyMjk3NjIiLCJUS1BELTExMTM5MDg1IiwiU0hQRS0zMjgyODQ3NDIiLCJTSFBFLTI4MTk0MjU2MyIsIlNIUEUtMzczNTQwNjg3IiwiU0hQRS0yOTQ5MzQyNDAiLCJTSFBFLTQ3NDU1OTQ1NCIsIlNIUEUtMzc0OTI3OTQzIiwiVEtQRC0xNTUwOTM4OCIsIlNIUEUtNDIxNjUzODc1IiwiVEtQRC0xNTY1NTYyMCIsIlNIUEUtNzE5MTg4NDc4IiwiVEtQRC0xNTYwNzgyOCIsIlNIUEUtNzc4MDYzOTA3IiwiU0hQRS05OTYyNTMxNDQiLCJTSFBFLTk3MDEzNTY4MSIsIlNIUEUtODg2MTkyNzA5IiwiTFpEQS00MDExOTU5MjAxOTEiLCJMWkRBLTQwMTE5NTU1Mjg4MiIsIkxaREEtNDAxMTk2MDQ4Mzc2IiwiTFpEQS00MDExOTU5Njg0NzEiLCJMWkRBLTQwMTE5NTYzMjk4NSIsIkxaREEtNDAwNjExNjA2MjA2IiwiVEtQRC0xNjI2NDEwOCIsIlNIUEUtMzIyNjIwNzM3IiwiTFpEQS00MDE3ODA1MjgzNjciLCJMWkRBLTQwMTYyNzAwODc1NyIsIlRLUEQtNDkyNjYxMSIsIlRLUEQtMTEwMjc5MTgiLCJUS1BELTgxNzQ2MTQiLCJTSFBFLTQxOTI1NzE0MSIsIlNIUEUtMTA1ODc0NTAwNiIsIlNIUEUtOTgwMDg4MTUzIiwiTFpEQS00MDE0NTMyNDgwMTAiLCJMWkRBLTQwMDcwNzAzOTY5NiIsIkxaREEtNDAxNjEwMTkyMzgzIiwiTFpEQS00MDE1OTIwMTYwMTQiLCJMWkRBLTQwMTE5NjU0NDI3MSIsIkxaREEtNDAxMTk2NTYwMTYxIiwiTFpEQS00MDA1OTA1MTY0MjAiLCJUS1RLLTc0OTQ3NTM1MDMwMzg1MDc3MzQiLCJUS1BELTE3Mjk5ODEwIiwiU0hQRS0xMjAyMDg2MTk4IiwiTFpEQS00MDE5MDEwODg2MjciLCJUS1RLLTc0OTQ2MDMzNDAzMDM5Mjc0OTEiXSwicHJpdmlsZWdlIjpbXSwibWVtYmVyc2hpcCI6eyJwYWNrYWdlX25hbWUiOiJQUk8iLCJtZW1iZXJzaGlwX2VuZCI6IjIwMjQtMDYtMzBUMTc6MDA6MDAuMDAwWiIsImFjdGl2ZSI6MSwibWF4X3N0b3JlIjo3NiwibWF4X2VtcGxveWVlIjoxNywibWF4X29yZGVyIjotMSwib3JkZXJfbXRkIjowfSwiYWdlbnRfYWxpYXMiOiIiLCJzZXNzaW9uX2VuZCI6IjIwMjQtMDctMzAgMDM6NDM6MzAiLCJpYXQiOjE3MTcxMjcwMTAsImV4cCI6MTcxNzEzMDYxMH0.rIkjZ_AaHmzca5zeYrNmi878HHPJSniD1Lpo6CeITXk','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:27:928 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:43:50:350 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:44:28:167 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','admin','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:44:28:209 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:44:28:255 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','admin','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:44:28:289 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:44:28:314 AM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:44:28:356 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:44:28:684 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:44:28:740 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:44:28:787 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:44:29:157 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:44:30:443 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','admin','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:44:30:772 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:44:31:197 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:44:31:710 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:44:33:163 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:46:10:091 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','admin','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:46:10:106 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:46:10:138 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','admin','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:46:10:149 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:46:10:193 AM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:46:10:259 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:46:10:425 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:46:10:556 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:46:10:584 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:46:11:509 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:46:11:602 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','admin','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:46:12:511 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:46:12:628 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:46:13:119 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:48:00:926 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','admin','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:48:00:963 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:48:00:975 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','admin','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:48:01:009 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:48:01:021 AM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:48:01:109 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:48:01:358 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:48:01:427 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:48:01:441 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:48:01:836 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:48:02:335 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:48:02:844 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:48:03:371 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:48:03:886 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','admin','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:48:18:374 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:25:158 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','admin','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:25:205 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:25:245 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','admin','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:25:266 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:25:312 AM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:25:356 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:25:618 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:25:678 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:25:721 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:26:148 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:26:667 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:27:467 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:27:679 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','admin','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:28:258 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:34:663 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'Admin','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:34:714 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:34:830 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxAgentAux '9','admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:34:911 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','admin','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:34:912 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='admin' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:34:914 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 157
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 31/05/2024 10:49:43:705 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'admin', '5', 'Admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:44:102 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:44:948 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'admin', 'open', '5',''
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:45:382 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:45:669 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:49:46:152 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:50:08:578 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','admin','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:50:09:184 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:50:09:691 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','admin','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:50:09:775 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:50:09:812 AM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:50:09:863 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:50:10:945 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:50:11:130 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:50:11:229 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:50:11:338 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','admin','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:50:11:842 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:50:12:688 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:50:12:847 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:50:13:396 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:50:18:437 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:51:11:536 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxAgentAux '9','admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:51:11:608 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','admin','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:51:16:822 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'admin', '5', 'Admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:51:17:602 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:51:18:238 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'admin', 'open', '5',''
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:51:25:267 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:51:35:607 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:51:36:127 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:51:36:182 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','admin','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:51:36:239 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:51:36:335 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','admin','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:51:36:380 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:51:36:423 AM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:51:36:515 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:51:38:439 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:51:38:534 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:51:38:600 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:51:38:740 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','admin','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:51:39:231 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:51:39:734 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:51:40:249 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:51:41:289 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:51:52:517 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:52:14:919 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','admin','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:52:14:938 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:52:14:976 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','admin','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:52:14:988 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:52:15:100 AM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:52:15:167 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:52:15:337 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:52:15:412 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:52:15:461 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:52:15:927 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:52:16:455 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:52:16:976 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','admin','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:52:17:686 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:52:18:473 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:18:089 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'Admin','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:18:142 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:18:799 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxAgentAux '9','admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:18:853 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','admin','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:18:854 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='admin' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:18:855 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 157
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 31/05/2024 10:54:23:971 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'admin', '5', 'Admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:24:763 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'admin', 'open', '5',''
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:26:244 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:26:504 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:27:007 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:27:575 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:40:210 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','admin','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:40:230 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:40:289 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','admin','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:40:345 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:40:379 AM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:40:424 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:41:437 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:41:510 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:41:521 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:41:733 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:43:405 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:43:759 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','admin','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:44:277 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:44:770 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:51:655 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:54:58:038 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:55:07:643 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:55:20:434 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:55:46:437 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:56:02:537 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:57:21:837 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','admin','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:57:21:851 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:57:21:868 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','admin','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:57:21:915 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:57:21:962 AM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:57:22:032 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:57:22:447 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:57:23:163 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:57:23:202 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:57:23:364 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:57:23:853 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','admin','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:57:24:365 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:57:24:880 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:57:25:412 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:57:29:028 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:57:35:801 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:57:41:398 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:58:00:546 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:58:06:053 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:58:11:006 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:58:24:539 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 10:58:29:816 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 11:00:12:054 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 11:00:16:742 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 11:00:28:722 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 11:00:33:948 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 11:00:45:959 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 11:00:56:453 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 11:01:04:815 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 11:02:07:622 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','admin','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 11:02:07:664 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 11:02:07:689 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','admin','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 11:02:07:738 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 11:02:07:778 AM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 11:02:07:873 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 11:02:08:305 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 11:02:08:394 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 11:02:08:410 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','admin','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 11:02:08:718 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','admin','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 11:02:09:132 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 11:02:09:150 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 11:02:09:716 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 11:02:10:177 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','admin','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/05/2024 11:02:15:722 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'admin','0','SELECT'
+---------------------------Success-------------------------------------------------------
+

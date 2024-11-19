@@ -1,0 +1,1047 @@
+Time: 29/02/2024 10:53:27:568 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK55'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:27:630 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '','','UIDESK57'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:27:650 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmMasterDropdown 'UideskIndonesia','InboxTable','','UIDESK100'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:27:653 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK56'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:27:703 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:27:703 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '6','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:27:718 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','','UIDESK116'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:27:718 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK115'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:27:735 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailCounting '',''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:27:736 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxFilterDate '0','0','','FilterDate'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:27:749 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:27:750 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:27:751 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:27:804 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK59'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:27:809 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '240226185626','','UIDESK53'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:27:813 PM
+---------------------------Failed-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK60'
+Message: Arithmetic overflow error converting expression to data type bigint.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TrySetMetaData(_SqlMetaDataSet metaData, Boolean moreInfo)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at ICC.WebServiceGetDataMaster.UIDESK_TrmMasterCombo(String TrxID, String TrxUserName, String TrxAction) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\WebServiceGetDataMaster.asmx.vb:line 5429
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 29/02/2024 10:53:27:814 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK60'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:27:859 PM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:44:764 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '','','UIDESK57'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:44:765 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK56'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:44:783 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmMasterDropdown 'UideskIndonesia','InboxTable','','UIDESK100'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:44:783 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:44:784 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '6','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:44:787 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','','UIDESK116'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:44:801 PM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:44:802 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:44:820 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:44:822 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:44:823 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:53:44:840 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxFilterDate '0','0','','FilterDate'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:02:450 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK54'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:02:451 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK55'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:02:451 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK56'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:02:456 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxFilterDate '0','0','','FilterDate'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:02:468 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','','UIDESK116'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:02:468 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '6','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:02:472 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:02:478 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailCounting '',''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:02:491 PM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:02:501 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:02:523 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:02:770 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmMasterDropdown 'UideskIndonesia','InboxTable','','UIDESK100'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:02:773 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '240226185626','','UIDESK53'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:02:773 PM
+---------------------------Failed-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK60'
+Message: Arithmetic overflow error converting expression to data type bigint.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TrySetMetaData(_SqlMetaDataSet metaData, Boolean moreInfo)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at ICC.WebServiceGetDataMaster.UIDESK_TrmMasterCombo(String TrxID, String TrxUserName, String TrxAction) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\WebServiceGetDataMaster.asmx.vb:line 5429
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 29/02/2024 10:54:02:773 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK60'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:39:593 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '','','UIDESK57'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:39:650 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmMasterDropdown 'UideskIndonesia','InboxTable','','UIDESK100'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:40:138 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK54'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:40:140 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','','UIDESK116'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:40:156 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK55'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:40:157 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK115'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:40:157 PM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:40:157 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '6','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:40:160 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailCounting '',''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:40:177 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:40:177 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:40:181 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:40:181 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK59'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:40:192 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '240226185626','','UIDESK53'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:40:194 PM
+---------------------------Failed-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK60'
+Message: Arithmetic overflow error converting expression to data type bigint.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TrySetMetaData(_SqlMetaDataSet metaData, Boolean moreInfo)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at ICC.WebServiceGetDataMaster.UIDESK_TrmMasterCombo(String TrxID, String TrxUserName, String TrxAction) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\WebServiceGetDataMaster.asmx.vb:line 5429
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 29/02/2024 10:54:40:195 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK60'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:40:807 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK56'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:59:707 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '','','UIDESK57'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:59:708 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxFilterDate '0','0','','FilterDate'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:59:709 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK55'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:59:712 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK54'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:59:713 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmMasterDropdown 'UideskIndonesia','InboxTable','','UIDESK100'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:59:714 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK56'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:59:722 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','','UIDESK116'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:59:722 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '6','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:59:724 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:59:728 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK115'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:59:729 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailCounting '',''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:59:771 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:59:771 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:59:772 PM
+---------------------------Failed-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK60'
+Message: Arithmetic overflow error converting expression to data type bigint.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TrySetMetaData(_SqlMetaDataSet metaData, Boolean moreInfo)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at ICC.WebServiceGetDataMaster.UIDESK_TrmMasterCombo(String TrxID, String TrxUserName, String TrxAction) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\WebServiceGetDataMaster.asmx.vb:line 5429
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 29/02/2024 10:54:59:773 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK60'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:54:59:815 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '240226185626','','UIDESK53'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:56:59:882 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxFilterDate '0','0','','FilterDate'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:56:59:919 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmMasterDropdown 'UideskIndonesia','InboxTable','','UIDESK100'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:57:00:355 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '','','UIDESK57'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:57:00:355 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','','UIDESK116'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:57:00:356 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '6','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:57:00:359 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK56'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:57:00:374 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:57:00:388 PM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:57:00:424 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:57:00:656 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:57:00:657 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:58:23:524 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxFilterDate '0','0','','FilterDate'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:58:23:526 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmMasterDropdown 'UideskIndonesia','InboxTable','','UIDESK100'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:58:24:120 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '','','UIDESK57'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:58:24:123 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK54'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:58:24:124 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','','UIDESK116'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:58:24:124 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '6','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:58:24:160 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK56'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:58:24:184 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:58:24:194 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK115'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:58:24:195 PM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:58:24:196 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailCounting '',''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:58:24:201 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:58:24:209 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:58:24:223 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:59:06:379 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxFilterDate '0','0','','FilterDate'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:59:06:382 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmMasterDropdown 'UideskIndonesia','InboxTable','','UIDESK100'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:59:06:732 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '','','UIDESK57'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:59:06:733 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK55'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:59:06:736 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','','UIDESK116'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:59:06:736 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '6','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:59:06:740 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK56'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:59:06:766 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:59:06:769 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:59:06:770 PM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:59:06:772 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailCounting '',''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:59:06:791 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:59:06:795 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK54'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:59:06:796 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:59:06:802 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK59'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:59:06:807 PM
+---------------------------Failed-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK60'
+Message: Arithmetic overflow error converting expression to data type bigint.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TrySetMetaData(_SqlMetaDataSet metaData, Boolean moreInfo)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at ICC.WebServiceGetDataMaster.UIDESK_TrmMasterCombo(String TrxID, String TrxUserName, String TrxAction) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\WebServiceGetDataMaster.asmx.vb:line 5429
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 29/02/2024 10:59:06:809 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK60'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 10:59:06:810 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '240226185626','','UIDESK53'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:01:21:772 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '','','UIDESK57'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:01:21:774 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK54'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:01:21:782 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK56'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:01:21:785 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK55'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:01:21:789 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxFilterDate '0','0','','FilterDate'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:01:21:795 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','','UIDESK116'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:01:21:796 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:01:21:802 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK115'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:01:21:807 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailCounting '',''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:01:21:814 PM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:01:21:841 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK59'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:01:21:843 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '240226185626','','UIDESK53'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:01:21:844 PM
+---------------------------Failed-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK60'
+Message: Arithmetic overflow error converting expression to data type bigint.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TrySetMetaData(_SqlMetaDataSet metaData, Boolean moreInfo)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at ICC.WebServiceGetDataMaster.UIDESK_TrmMasterCombo(String TrxID, String TrxUserName, String TrxAction) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\WebServiceGetDataMaster.asmx.vb:line 5429
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 29/02/2024 11:01:21:845 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240226070359550','','UIDESK60'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:01:21:892 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:01:21:892 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:08:35:273 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240229113637310','','UIDESK55'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:08:35:285 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240229113637310','','UIDESK54'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:08:35:298 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '','','UIDESK57'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:08:35:307 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxFilterDate '0','0','','FilterDate'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:08:35:314 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240229113637310','','UIDESK56'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:08:35:318 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '6','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:08:35:329 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','','UIDESK116'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:08:35:329 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:08:35:343 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK115'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:08:35:343 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailCounting '',''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:08:35:360 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:08:35:361 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:08:35:380 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:08:35:394 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '240229113039','','UIDESK53'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:08:35:394 PM
+---------------------------Failed-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240229113637310','','UIDESK60'
+Message: Arithmetic overflow error converting expression to data type bigint.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TrySetMetaData(_SqlMetaDataSet metaData, Boolean moreInfo)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at ICC.WebServiceGetDataMaster.UIDESK_TrmMasterCombo(String TrxID, String TrxUserName, String TrxAction) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\WebServiceGetDataMaster.asmx.vb:line 5429
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 29/02/2024 11:08:35:395 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240229113637310','','UIDESK60'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:08:35:429 PM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:08:59:613 PM
+---------------------------Success-------------------------------------------------------
+Message: D:\RESELLER\Aplikasi\helpdesk_agent\FileEmail\INBOX\202402291855062682308 202402291855062682308 File Not Found
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:15:26:297 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '','','UIDESK57'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:15:26:383 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240229113637310','','UIDESK56'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:15:26:384 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '6','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:15:26:400 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','','UIDESK116'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:15:26:429 PM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:15:26:429 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailCounting '',''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:15:26:429 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:15:26:448 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxFilterDate '0','0','','FilterDate'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:15:26:448 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:15:26:551 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:15:32:246 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '','','UIDESK57'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:15:32:247 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240229113637310','','UIDESK55'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:15:32:250 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmMasterDropdown 'UideskIndonesia','InboxTable','','UIDESK100'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:15:32:276 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240229113637310','','UIDESK56'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:15:32:276 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:15:32:277 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK115'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:15:32:290 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailCounting '',''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:15:32:304 PM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:15:32:310 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:15:32:311 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:15:32:318 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:15:32:323 PM
+---------------------------Failed-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240229113637310','','UIDESK60'
+Message: Arithmetic overflow error converting expression to data type bigint.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TrySetMetaData(_SqlMetaDataSet metaData, Boolean moreInfo)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at ICC.WebServiceGetDataMaster.UIDESK_TrmMasterCombo(String TrxID, String TrxUserName, String TrxAction) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\WebServiceGetDataMaster.asmx.vb:line 5429
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 29/02/2024 11:15:32:323 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240229113637310','','UIDESK60'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/02/2024 11:15:32:330 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '240229113039','','UIDESK53'
+---------------------------Success-------------------------------------------------------
+

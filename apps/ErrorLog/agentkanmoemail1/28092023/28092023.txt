@@ -1,0 +1,114 @@
+Time: 28/09/2023 09.41.17.580 PM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'agentkanmoemail1 ','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/09/2023 09.41.17.583 PM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 28/09/2023 09.41.17.596 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentkanmoemail1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/09/2023 09.41.17.598 PM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentkanmoemail1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 28/09/2023 09.41.17.600 PM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 159
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 28/09/2023 09.41.17.642 PM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentkanmoemail1' And Url='2_taskboard.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/09/2023 09.41.18.076 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentkanmoemail1', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/09/2023 09.41.18.095 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentkanmoemail1', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 28/09/2023 09.41.18.099 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmoemail1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/09/2023 09.41.18.598 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmoemail1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/09/2023 09.41.28.590 PM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentkanmoemail1' And Url='TrmMailSystem.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/09/2023 09.41.29.133 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxFilterDate '0','0','agentkanmoemail1','FilterDate'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/09/2023 09.41.29.145 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmMasterDropdown 'UideskIndonesia','InboxTable','agentkanmoemail1','UIDESK100'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/09/2023 09.41.29.158 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','agentkanmoemail1','UIDESK116'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/09/2023 09.41.29.160 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmoemail1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/09/2023 09.41.29.645 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '6','agentkanmoemail1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/09/2023 09.41.29.663 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailCounting 'agentkanmoemail1','layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/09/2023 09.41.29.672 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmoemail1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/09/2023 09.41.30.173 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','agentkanmoemail1','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/09/2023 09.41.30.674 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmoemail1','UIDESK115'
+---------------------------Success-------------------------------------------------------
+
+Time: 28/09/2023 09.41.31.583 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','agentkanmoemail1','Insert'
+---------------------------Success-------------------------------------------------------
+

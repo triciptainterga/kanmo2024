@@ -1,0 +1,402 @@
+Time: 30/09/2023 08.21.05.129 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'agentoutbound2','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.21.05.132 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.21.05.144 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentoutbound2','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.21.05.146 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentoutbound2' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.21.05.148 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 159
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 30/09/2023 08.21.05.207 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentoutbound2' And Url='2_taskboard.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.21.05.993 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentoutbound2', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.21.06.032 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentoutbound2', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.21.06.045 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.21.06.547 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.21.11.803 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentoutbound2' And Url='Tele_TrxTaskboard.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.21.12.382 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TrxTaskboardCountingCall 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.21.12.422 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '0', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.21.12.437 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.21.12.940 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.21.41.276 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentoutbound2' And Url='Tele_TrxTaskboard.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.21.41.619 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TrxTaskboardCountingCall 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.21.41.664 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '0', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.21.41.677 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.21.42.170 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.35.42.765 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'agentoutbound2','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.35.42.766 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.35.42.771 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentoutbound2','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.35.42.772 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentoutbound2' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.35.42.775 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 159
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 30/09/2023 08.35.42.828 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentoutbound2' And Url='2_taskboard.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.35.43.231 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentoutbound2', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.35.43.251 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentoutbound2', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.35.43.755 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.35.44.256 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.36.01.188 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentoutbound2' And Url='Tele_TrxTaskboard.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.36.01.792 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '0', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.36.01.866 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.36.02.293 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TrxTaskboardCountingCall 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.36.02.369 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.36.04.255 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentoutbound2' And Url='Tele_TrxTransaksi.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.36.04.261 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM TrmMenuPreviledge Where USERID='Layer 1' And (UrlUser1='Tele_TrxTransaksi.aspx' OR UrlUser2='Tele_TrxTransaksi.aspx' OR UrlUser3='Tele_TrxTransaksi.aspx')
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.36.46.196 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentoutbound2','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.36.46.239 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentoutbound2' And Url='2_taskboard.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.36.46.512 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentoutbound2', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.36.46.544 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentoutbound2', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.36.47.051 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.36.47.551 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.37.57.063 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentoutbound2' And Url='Tele_TrxTaskboard.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.37.57.270 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TrxTaskboardCountingCall 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.37.57.297 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '0', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.37.57.303 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.37.57.805 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.40.08.173 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentoutbound2' And Url='Tele_TrxTransaksi.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.40.08.179 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM TrmMenuPreviledge Where USERID='Layer 1' And (UrlUser1='Tele_TrxTransaksi.aspx' OR UrlUser2='Tele_TrxTransaksi.aspx' OR UrlUser3='Tele_TrxTransaksi.aspx')
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.40.21.935 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'agentoutbound2','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.40.21.937 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.40.21.949 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentoutbound2','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.40.21.950 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentoutbound2' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.40.21.952 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 159
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 30/09/2023 08.40.21.989 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentoutbound2' And Url='2_taskboard.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.40.22.365 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentoutbound2', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.40.22.395 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentoutbound2', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.40.22.894 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.40.22.911 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.40.26.569 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentoutbound2' And Url='Tele_TrxTaskboard.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.40.26.842 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TrxTaskboardCountingCall 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.40.26.865 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '0', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.40.26.870 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.40.27.369 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.40.31.837 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentoutbound2' And Url='Tele_TrxTransaksi.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.40.31.843 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM TrmMenuPreviledge Where USERID='Layer 1' And (UrlUser1='Tele_TrxTransaksi.aspx' OR UrlUser2='Tele_TrxTransaksi.aspx' OR UrlUser3='Tele_TrxTransaksi.aspx')
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.42.01.240 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentoutbound2','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.42.01.279 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentoutbound2' And Url='2_taskboard.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.42.01.626 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentoutbound2', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.42.01.656 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentoutbound2', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.42.01.660 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.42.02.163 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.42.06.289 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentoutbound2' And Url='Tele_TrxTransaksi.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 30/09/2023 08.42.06.295 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM TrmMenuPreviledge Where USERID='Layer 1' And (UrlUser1='Tele_TrxTransaksi.aspx' OR UrlUser2='Tele_TrxTransaksi.aspx' OR UrlUser3='Tele_TrxTransaksi.aspx')
+---------------------------Success-------------------------------------------------------
+

@@ -1,0 +1,267 @@
+Received: from SI4PR06MB7707.apcprd06.prod.outlook.com (2603:1096:4:25e::10)
+ by TYZPR06MB5508.apcprd06.prod.outlook.com with HTTPS; Fri, 1 Mar 2024
+ 06:41:17 +0000
+Authentication-Results: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=kanmogroup.com;
+Received: from SEZPR06MB5878.apcprd06.prod.outlook.com (2603:1096:101:e0::12)
+ by SI4PR06MB7707.apcprd06.prod.outlook.com (2603:1096:4:25e::10) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7316.41; Fri, 1 Mar
+ 2024 06:41:13 +0000
+Received: from SEZPR06MB5878.apcprd06.prod.outlook.com
+ ([fe80::3df9:63ea:4b12:f3b]) by SEZPR06MB5878.apcprd06.prod.outlook.com
+ ([fe80::3df9:63ea:4b12:f3b%5]) with mapi id 15.20.7316.037; Fri, 1 Mar 2024
+ 06:41:13 +0000
+Message-ID: <bd83fac2144acd39ccdf74950198cb17@kanmogroup.com>
+From: Kanmo <support@kanmogroup.com>
+To: <irfan.maulana@kanmogroup.com>
+Cc: <crckanmo@kanmoretail2.onmicrosoft.com>,
+	<cxoperations@kanmoretail2.onmicrosoft.com>
+Subject: =?utf-8?B?W1RpY2tldE51bWJlcjoyMDI0MDIyNzA2MzEwNDQxMF0gUHJv?=
+	=?utf-8?B?ZHVjdCByZWNlaXZlZCBpbmNvcnJlY3Q=?=
+Date: Fri, 01 Mar 2024 13:41:11 +0700
+Content-Type: multipart/alternative;
+	boundary="ab583746acb0a055883ec89200037f00"
+X-MS-Exchange-Organization-ExpirationStartTime: 01 Mar 2024 06:41:13.2358
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id:
+ b2bd897f-9d3c-46aa-065a-08dc39ba968e
+X-MS-Exchange-Organization-AuthSource: SEZPR06MB5878.apcprd06.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 14
+X-ClientProxiedBy: SI2PR02CA0018.apcprd02.prod.outlook.com
+ (2603:1096:4:194::18) To SEZPR06MB5878.apcprd06.prod.outlook.com
+ (2603:1096:101:e0::12)
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+Return-Path: support@kanmogroup.com
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic:
+ SEZPR06MB5878:EE_|SI4PR06MB7707:EE_|TYZPR06MB5508:EE_
+X-MS-Office365-Filtering-Correlation-Id: b2bd897f-9d3c-46aa-065a-08dc39ba968e
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam: BCL:0;
+X-Forefront-Antispam-Report:
+ CIP:255.255.255.255;CTRY:;LANG:id;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SEZPR06MB5878.apcprd06.prod.outlook.com;PTR:;CAT:NONE;SFS:;DIR:INT;
+X-MS-Exchange-UnifiedGroup-DisplayName: CRC Kanmo
+X-MS-Exchange-UnifiedGroup-Address: crckanmo@kanmoretail2.onmicrosoft.com
+X-MS-Exchange-UnifiedGroup-MailboxGuid: 5db73807-9629-46d6-b7cc-a9645ac87fc4
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-CrossTenant-Network-Message-Id: b2bd897f-9d3c-46aa-065a-08dc39ba968e
+X-MS-Exchange-CrossTenant-AuthSource: SEZPR06MB5878.apcprd06.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 01 Mar 2024 06:41:13.4508
+ (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-Id: 4145aceb-678e-45d4-b9b5-d8c4790ec29f
+X-MS-Exchange-CrossTenant-MailboxType: HOSTED
+X-MS-Exchange-CrossTenant-UserPrincipalName: H+2uCAk/E9kzSi+GITx9JAYN0nlwmDaa85JzlxXQK1r78CrLRSpZJ9q8DLvrAairfSsNITQB7gWECAeLgY3DoQ==
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SI4PR06MB7707
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:04.3118798
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.7316.034
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(425001)(930097)(140003)(1420198);
+X-Microsoft-Antispam-Message-Info:
+	ALjMHRiy9IL9pTDUBMseF7aQaQgNi8G8M/lIWhP64zxQkYnOQG4uS0InN7VjVgoFlnIzgFowrI/RqkcFpRZZgEWT/gXxKh1jnLjiTxZrp8lJR4MfKF52GJ9oKvPAjQIF1vfdMAWow5008OtY7Hv//y4/ZYLwQf+Wu+nSJ4/IJrmI05QvHibo/BKYU+PudYJyMqn8qkun58068ZvEr1iSuygpfmmTxoGAH9G4grObkZj7VpFescmF6g7ZrRGzp2SpSz9BrvpXc4vNUDWudPWzSvN9agaC8VTfuWPcpBcnLYMJRaNRxM28Oi8kvZkTaQHRzqI+6vpMKrrf6aDVh0cmidg+YjdCmXilDBS1N8W1LJ2W/xO0N/LoSH/1NZhC14EvbgwVP2kBRPRmOc+1F01Ow2WsZVWfzHWBbwS3BbT82Dy2XELdTaIZFZFD6CEUlSbDVWVhKUs53YSoFHia8be/jECzU50Mypkd8rv193EHSdO3jxDHsnijSOhuFSHJ485yKOqP2Lozw2UPHQD0qfplZ55R5Q4fZEBOgUYrVtBGdyugdpfsxhIT899vd56VWzhM82qvO/yCE3V1QprvMe2tcgv2VqyvsCgtXJQ5hkdQp+uN+9q4yeURwlHj0V3UtTa138sBbubskthZsoG+lUHMC7fk2Yfh/o+LfBuy2fDFROU3u3ldepJfUuPmyFKeZzC55uP7Nhthfy6TJbxCwuJEsYM5XsyGcrVjPlQHT1myuCNU0PRE3ZC0Nzb1zmcpKJ8NCJOA6S6tDjCcwKOCGwYuVNYO/CYEYus3F68BO+4bJZg=
+MIME-Version: 1.0
+
+--ab583746acb0a055883ec89200037f00
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+[logo]
+[TicketNumber:20240227063104410]Product received incorrect
+
+Dear mas irfan
+
+mohon dibantu penarikan paket order 001-WEB-000190526-1 dari alamat custome=
+r ke alamat Mothercare gaia pontianak. produk yang customer terima tidak se=
+suai katalog di web dan stok di toko sudah kosong. customer request refund =
+dana
+
+Dear Team Mothercare Gaia
+
+jika paketnya sudah diterima mohon infokan di email ini
+
+
+
+Customer Relationship Center
+
+No Telepon : 021-29181155
+
+Email : support.@kanmogroup.com
+
+WhatsApp : https://wa.me/622129181155
+
+
+
+Copyright =C2=A9 2023 Kanmo Group. All rights reserved.
+
+
+[Kanmo Group]
+
+
+This message contains confidential information and is intended only for the=
+ individual(s) addressed in the message. If you are not the named addressee=
+, you should not disseminate, distribute, or copy this e-mail. If you are n=
+ot the intended recipient, you are notified that disclosing, distributing, =
+or copying this e-mail is strictly prohibited.
+
+--ab583746acb0a055883ec89200037f00
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<title></title>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+>
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<style type=3D"text/css"> /* FONTS */ @import url('https://fonts.googleapis=
+.com/css?family=3DPoppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,=
+600i,700,700i,800,800i,900,900i'); /* CLIENT-SPECIFIC STYLES */ body, table=
+, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; } tab=
+le, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; } img { -ms-interpol=
+ation-mode: bicubic; } /* RESET STYLES */ img { border: 0; height: auto; li=
+ne-height: 100%; outline: none; text-decoration: none; } table { border-col=
+lapse: collapse !important; } body { height: 100% !important; margin: 0 !im=
+portant; padding: 0 !important; width: 100% !important; } /* iOS BLUE LINKS=
+ */ a[x-apple-data-detectors] { color: inherit !important; text-decoration:=
+ none !important; font-size: inherit !important; font-family: inherit !impo=
+rtant; font-weight: inherit !important; line-height: inherit !important; } =
+/* MOBILE STYLES */ @media screen and (max-width:600px) { h1 { font-size: 3=
+2px !important; line-height: 32px !important; } } /* ANDROID CENTER FIX */ =
+div[style*=3D"margin: 16px 0;"] { margin: 0 !important; } </style>
+</head>
+<body style=3D"background-color: #f3f5f7; margin: 0 !important; padding: 0 =
+!important;">
+<!-- HIDDEN PREHEADER TEXT -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<!-- LOGO -->
+<tbody>
+<tr>
+<td align=3D"center"><!--[if (gte mso 9)|(IE)]><table align=3D"center" bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"600"><tr><td align=3D=
+"center" valign=3D"top" width=3D"600"><![endif]-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"max-width: 600px;">
+<tbody>
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"padding: 40px 10px 10px 10px;"=
+><a href=3D"#" target=3D"_blank" style=3D"text-decoration: none;"><img src=
+=3D"https://kanmo.uidesk.id/crm/apps/Signature/kanmogroup.png" alt=3D"logo"=
+ width=3D"160px">
+</a></td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+</tr>
+<!-- HERO -->
+<tr>
+<td align=3D"center" style=3D"padding: 0px 10px 0px 10px;"><!--[if (gte mso=
+ 9)|(IE)]><table align=3D"center" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" width=3D"600"><tr><td align=3D"center" valign=3D"top" width=3D"600"=
+><![endif]-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"max-width: 600px;">
+<tbody>
+<tr>
+<td bgcolor=3D"#ffffff" align=3D"left" valign=3D"top" style=3D"padding: 40p=
+x 20px 20px 20px; border-radius: 4px 4px 0px 0px;">
+<h1 style=3D"font-size: 16px; font-weight: 600; margin: 0; font-family: 'Po=
+ppins', sans-serif;">
+[TicketNumber:20240227063104410]Product received incorrect</h1>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+</tr>
+<!-- COPY BLOCK -->
+<tr>
+<td align=3D"center" style=3D"padding: 0px 10px 0px 10px;"><!--[if (gte mso=
+ 9)|(IE)]><table align=3D"center" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" width=3D"600"><tr><td align=3D"center" valign=3D"top" width=3D"600"=
+><![endif]-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"max-width: 600px;">
+<!-- COPY -->
+<tbody>
+<tr>
+<td bgcolor=3D"#ffffff" align=3D"left" style=3D"padding: 20px 30px 20px 30p=
+x; color: #666666; font-family: 'Poppins', sans-serif; font-size: 16px; fon=
+t-weight: 400; line-height: 25px;">
+<p>Dear mas irfan<br>
+<br>
+mohon dibantu penarikan paket order&nbsp;001-WEB-000190526-1 dari alamat cu=
+stomer ke alamat Mothercare gaia pontianak. produk yang customer terima tid=
+ak sesuai katalog di web dan stok di toko sudah kosong. customer request re=
+fund dana&nbsp;</p>
+<p>Dear Team Mothercare Gaia</p>
+<p>jika paketnya sudah diterima mohon infokan di email ini&nbsp;</p>
+</td>
+</tr>
+<!-- BULLETPROOF BUTTON --><!-- COPY -->
+<tr>
+<td bgcolor=3D"#ffffff" align=3D"left" style=3D"padding: 0px 30px 40px 30px=
+; border-radius: 0px 0px 0px 0px; color: #666666; font-family: 'Poppins', s=
+ans-serif; font-size: 14px; font-weight: 400; line-height: 25px;">
+<p>&nbsp;</p>
+<p><strong>Customer Relationship Center </strong></p>
+<p>No Telepon : 021-29181155</p>
+<p>Email : support.@kanmogroup.com</p>
+<p>WhatsApp : https://wa.me/622129181155</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+</tr>
+<!-- FOOTER -->
+<tr>
+<td align=3D"center" style=3D"padding: 10px 10px 50px 10px;"><!--[if (gte m=
+so 9)|(IE)]><table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" width=3D"600"><tr><td align=3D"center" valign=3D"top" width=3D"60=
+0"><![endif]-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"max-width: 600px;">
+<tbody>
+<tr>
+<td align=3D"center" style=3D"padding: 30px 30px 30px 30px; color: #333333;=
+ font-family: 'Poppins', sans-serif; font-size: 12px; font-weight: 400; lin=
+e-height: 18px;">
+<p style=3D"margin: 0;">Copyright =C2=A9 2023 Kanmo Group. All rights reser=
+ved.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+<br>
+<p><img src=3D"https://cloudfile.kanmogroup.com/LogoHR.png" alt=3D"Kanmo Gr=
+oup"> </p>
+<br>
+<p style=3D"font-size:8pt; line-height:10pt; font-family: 'Cambria','times =
+roman',serif;">
+This message contains confidential information and is intended only for the=
+ individual(s) addressed in the message. If you are not the named addressee=
+, you should not disseminate, distribute, or copy this e-mail. If you are n=
+ot the intended recipient, you are
+ notified that disclosing, distributing, or copying this e-mail is strictly=
+ prohibited.
+</p>
+<span style=3D"padding-top:10px; font-weight:bold; color:#CC0000; font-size=
+:10pt; font-family: 'Calibri',Arial,sans-serif; "></span>
+</body>
+</html>
+
+--ab583746acb0a055883ec89200037f00--

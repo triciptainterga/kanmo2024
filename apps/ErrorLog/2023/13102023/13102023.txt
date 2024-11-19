@@ -1,0 +1,1241 @@
+Time: 13/10/2023 05.31.03.848 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 07.50.02.627 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 07.50.02.636 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='Agent1' and Password='Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 07.50.02.654 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'Agent1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 07.50.02.684 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='Agent1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 07.53.29.166 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 07.53.29.169 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='agentkanmoemail1' and Password='uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 07.53.29.172 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'agentkanmoemail1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 07.53.29.194 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentkanmoemail1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 07.57.56.017 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 07.57.56.025 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  '102023'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 07.57.56.033 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='102023' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.00.06.354 AM
+---------------------------Success-------------------------------------------------------
+Message: exec ValidasiDataCustomer 'PageLoad','102025'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.04.59.784 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.04.59.788 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  '102023'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.04.59.794 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='102023' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.05.05.186 AM
+---------------------------Success-------------------------------------------------------
+Message: exec ValidasiDataCustomer 'PageLoad','102025'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.05.17.771 AM
+---------------------------Success-------------------------------------------------------
+Message: exec ValidasiDataCustomer 'TxtSearch','231003144734'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.06.08.792 AM
+---------------------------Success-------------------------------------------------------
+Message: exec ValidasiDataCustomer 'PageLoad','102026'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.08.12.789 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.08.12.792 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='spvoutbound1' and Password='Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.08.12.797 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'spvoutbound1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.08.12.812 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='spvoutbound1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.11.37.971 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.13.47.965 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.14.57.693 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.14.57.694 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='agentkanmosocialmedia1' and Password='uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.14.57.698 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'agentkanmosocialmedia1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.14.57.705 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentkanmosocialmedia1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.22.32.089 AM
+---------------------------Success-------------------------------------------------------
+Message: exec ValidasiDataCustomer 'TxtSearch','230829143548'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.24.33.224 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.27.061 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.39.952 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) And (call_status = '0' or call_status <> 'Closed') And call_created_date < '2023-10-13' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.39.953 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewUIDESK_TrxOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) and call_upload_status='1' And call_created_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.39.961 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewTransaksiOutboundDetailHeader] Where call_agent='agentoutbound2' And call_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.42.086 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) And call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) And (call_status='0' or call_status<>'Closed') And call_created_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.42.985 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) And (call_status = '0' or call_status <> 'Closed') And call_created_date < '2023-10-13' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.56.027 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewUIDESK_TrxOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) and call_upload_status='1' And call_created_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.56.028 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) And (call_status = '0' or call_status <> 'Closed') And call_created_date < '2023-10-13' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.56.029 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewTransaksiOutboundDetailHeader] Where call_agent='agentoutbound2' And call_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.57.579 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) And call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) And (call_status='0' or call_status<>'Closed') And call_created_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.58.413 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) And (call_status = '0' or call_status <> 'Closed') And call_created_date < '2023-10-13' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.32.35.377 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.34.10.554 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.34.10.556 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='agentkanmoemail1' and Password='Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.34.10.560 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'agentkanmoemail1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.34.10.575 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentkanmoemail1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.39.13.435 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.39.13.438 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='spvoutbound1' and Password='uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.39.13.442 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'spvoutbound1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.39.13.448 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='spvoutbound1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.43.34.719 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.45.38.541 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.51.28.573 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.10.10.175 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.10.10.178 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='agentkanmoemail1' and Password='Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.10.10.181 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'agentkanmoemail1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.10.10.195 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentkanmoemail1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.11.33.566 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.11.37.232 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.11.41.147 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.11.41.148 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='agentkanmoemail1' and Password='Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.11.41.151 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'agentkanmoemail1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.11.41.163 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentkanmoemail1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.12.43.712 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.12.43.714 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='spvoutbound1' and Password='Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.12.43.716 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'spvoutbound1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.12.43.722 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='spvoutbound1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.15.20.666 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.15.20.669 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='spvoutbound1' and Password='uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.15.20.672 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'spvoutbound1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.15.20.679 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='spvoutbound1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.16.13.675 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.16.13.678 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='agentkanmosocialmedia1' and Password='uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.16.13.681 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'agentkanmosocialmedia1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.16.13.688 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentkanmosocialmedia1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.18.975 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.18.977 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='agentoutbound2' and Password='uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.18.981 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.18.988 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentoutbound2' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.31.942 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.31.943 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='spvoutbound1' and Password='Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.31.946 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'spvoutbound1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.31.952 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='spvoutbound1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.21.37.467 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) And (call_status = '0' or call_status <> 'Closed') And call_created_date < '2023-10-13' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.21.37.477 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewTransaksiOutboundDetailHeader] Where call_agent='agentoutbound2' And call_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.21.37.468 AM
+---------------------------Failed-------------------------------------------------------
+Message: select * from [TrmViewUIDESK_TrxOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) and call_upload_status='1' And call_created_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+Message: The process cannot access the file 'C:\reseller\helpdesk_agent\apps\ErrorLog\2023\13102023\13102023.txt' because it is being used by another process.
+StackTrace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at ICC.WebServiceGetDataMaster.LogSuccess(String agentName, String strValue) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\WebServiceGetDataMaster.asmx.vb:line 132
+   at ICC.WebServiceGetDataMaster.GetWhereRecordsBigData(String tableType, String tableName, String paramQuery) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\WebServiceGetDataMaster.asmx.vb:line 268
+Source: mscorlib
+TargetSite: Void WinIOError(Int32, System.String)
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.25.40.912 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.01.512 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.01.513 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='agentoutbound2' and Password='Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.01.516 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.01.525 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentoutbound2' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.08.245 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) And (call_status = '0' or call_status <> 'Closed') And call_created_date < '2023-10-13' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.08.247 AM
+---------------------------Failed-------------------------------------------------------
+Message: select * from [TrmViewUIDESK_TrxOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) and call_upload_status='1' And call_created_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+Message: The process cannot access the file 'C:\reseller\helpdesk_agent\apps\ErrorLog\2023\13102023\13102023.txt' because it is being used by another process.
+StackTrace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at ICC.WebServiceGetDataMaster.LogSuccess(String agentName, String strValue) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\WebServiceGetDataMaster.asmx.vb:line 132
+   at ICC.WebServiceGetDataMaster.GetWhereRecordsBigData(String tableType, String tableName, String paramQuery) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\WebServiceGetDataMaster.asmx.vb:line 268
+Source: mscorlib
+TargetSite: Void WinIOError(Int32, System.String)
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.29.08.256 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewTransaksiOutboundDetailHeader] Where call_agent='agentoutbound2' And call_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.41.181 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewUIDESK_TrxOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) and call_upload_status='1' And call_created_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.41.183 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewTransaksiOutboundDetailHeader] Where call_agent='agentoutbound2' And call_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.41.184 AM
+---------------------------Failed-------------------------------------------------------
+Message: select * from [TrmViewOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) And (call_status = '0' or call_status <> 'Closed') And call_created_date < '2023-10-13' 
+Message: The process cannot access the file 'C:\reseller\helpdesk_agent\apps\ErrorLog\2023\13102023\13102023.txt' because it is being used by another process.
+StackTrace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at ICC.WebServiceGetDataMaster.LogSuccess(String agentName, String strValue) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\WebServiceGetDataMaster.asmx.vb:line 132
+   at ICC.WebServiceGetDataMaster.GetWhereRecordsBigData(String tableType, String tableName, String paramQuery) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\WebServiceGetDataMaster.asmx.vb:line 268
+Source: mscorlib
+TargetSite: Void WinIOError(Int32, System.String)
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.36.36.614 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewUIDESK_TrxOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) and call_upload_status='1' And call_created_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.36.36.616 AM
+---------------------------Failed-------------------------------------------------------
+Message: select * from [TrmViewOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) And (call_status = '0' or call_status <> 'Closed') And call_created_date < '2023-10-13' 
+Message: The process cannot access the file 'C:\reseller\helpdesk_agent\apps\ErrorLog\2023\13102023\13102023.txt' because it is being used by another process.
+StackTrace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at ICC.WebServiceGetDataMaster.LogSuccess(String agentName, String strValue) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\WebServiceGetDataMaster.asmx.vb:line 132
+   at ICC.WebServiceGetDataMaster.GetWhereRecordsBigData(String tableType, String tableName, String paramQuery) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\WebServiceGetDataMaster.asmx.vb:line 268
+Source: mscorlib
+TargetSite: Void WinIOError(Int32, System.String)
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.36.36.636 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewTransaksiOutboundDetailHeader] Where call_agent='agentoutbound2' And call_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.36.38.601 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewUIDESK_TrxOutboundHeader] Where call_agent='agentoutbound2' And call_status <> '0' And call_created_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.36.39.345 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewUIDESK_TrxOutboundHeader] Where call_agent='agentoutbound2' and call_status = '0' and call_upload_status = '1' And call_created_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.36.39.795 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewUIDESK_TrxOutboundHeader] Where call_agent='agentoutbound2' and call_selesai = '1' And call_created_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.39.07.467 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.40.42.967 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.40.42.970 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='spvoutbound1' and Password='Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.40.42.972 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'spvoutbound1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.40.42.978 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='spvoutbound1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.41.09.309 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewUIDESK_TrxOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) and call_upload_status='1' And call_created_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.41.09.310 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) And (call_status = '0' or call_status <> 'Closed') And call_created_date < '2023-10-13' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.41.09.322 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewTransaksiOutboundDetailHeader] Where call_agent='agentoutbound2' And call_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.41.20.994 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewUIDESK_TrxOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) and call_upload_status='1' And call_created_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.41.20.997 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) And (call_status = '0' or call_status <> 'Closed') And call_created_date < '2023-10-13' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.41.20.999 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewTransaksiOutboundDetailHeader] Where call_agent='agentoutbound2' And call_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.42.54.602 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.42.54.604 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='agentoutbound2' and Password='uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.42.54.608 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.42.54.617 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentoutbound2' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.00.813 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewUIDESK_TrxOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) and call_upload_status='1' And call_created_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.00.815 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewTransaksiOutboundDetailHeader] Where call_agent='agentoutbound2' And call_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.00.815 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) And (call_status = '0' or call_status <> 'Closed') And call_created_date < '2023-10-13' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.17.396 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewUIDESK_TrxOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) and call_upload_status='1' And call_created_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.17.396 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewTransaksiOutboundDetailHeader] Where call_agent='agentoutbound2' And call_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.17.397 AM
+---------------------------Failed-------------------------------------------------------
+Message: select * from [TrmViewOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) And (call_status = '0' or call_status <> 'Closed') And call_created_date < '2023-10-13' 
+Message: The process cannot access the file 'C:\reseller\helpdesk_agent\apps\ErrorLog\2023\13102023\13102023.txt' because it is being used by another process.
+StackTrace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at ICC.WebServiceGetDataMaster.LogSuccess(String agentName, String strValue) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\WebServiceGetDataMaster.asmx.vb:line 132
+   at ICC.WebServiceGetDataMaster.GetWhereRecordsBigData(String tableType, String tableName, String paramQuery) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\WebServiceGetDataMaster.asmx.vb:line 268
+Source: mscorlib
+TargetSite: Void WinIOError(Int32, System.String)
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.43.53.708 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewUIDESK_TrxOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) and call_upload_status='1' And call_created_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.53.710 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewTransaksiOutboundDetailHeader] Where call_agent='agentoutbound2' And call_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.53.711 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) And (call_status = '0' or call_status <> 'Closed') And call_created_date < '2023-10-13' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.49.36.975 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) And (call_status = '0' or call_status <> 'Closed') And call_created_date < '2023-10-13' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.49.36.976 AM
+---------------------------Failed-------------------------------------------------------
+Message: select * from [TrmViewUIDESK_TrxOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) and call_upload_status='1' And call_created_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+Message: The process cannot access the file 'C:\reseller\helpdesk_agent\apps\ErrorLog\2023\13102023\13102023.txt' because it is being used by another process.
+StackTrace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at ICC.WebServiceGetDataMaster.LogSuccess(String agentName, String strValue) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\WebServiceGetDataMaster.asmx.vb:line 132
+   at ICC.WebServiceGetDataMaster.GetWhereRecordsBigData(String tableType, String tableName, String paramQuery) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\WebServiceGetDataMaster.asmx.vb:line 268
+Source: mscorlib
+TargetSite: Void WinIOError(Int32, System.String)
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.49.36.979 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewTransaksiOutboundDetailHeader] Where call_agent='agentoutbound2' And call_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.50.31.039 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewUIDESK_TrxOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) and call_upload_status='1' And call_created_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.50.31.041 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) And (call_status = '0' or call_status <> 'Closed') And call_created_date < '2023-10-13' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.50.31.042 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewTransaksiOutboundDetailHeader] Where call_agent='agentoutbound2' And call_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.50.56.406 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.26.904 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.38.471 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewUIDESK_TrxOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) and call_upload_status='1' And call_created_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.38.474 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewOutboundHeader] Where call_agent='agentoutbound2' and (call_reason <> 'Done' and call_reason <> 'Done Approved' and call_reason <> 'Done Not Approved' and call_reason <> 'Unregistered' and call_reason <> 'Wrong Number' or call_reason is null) and call_counting < (select call_jumlah from UIDESK_TrmReasonCallParamater) And (call_status = '0' or call_status <> 'Closed') And call_created_date < '2023-10-13' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.38.489 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [TrmViewTransaksiOutboundDetailHeader] Where call_agent='agentoutbound2' And call_date between '2023-10-13 00:01' And '2023-10-13 23:59' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.54.26.529 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.54.26.533 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.54.26.545 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentoutbound2' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.28.750 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.28.753 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='spvoutbound1' and Password='Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.28.758 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'spvoutbound1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.28.768 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='spvoutbound1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.05.49.736 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.05.49.739 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='agentoutbound2' and Password='Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.05.49.744 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.05.49.766 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentoutbound2' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.22.627 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.09.10.086 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.09.13.712 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.11.26.639 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.12.02.906 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.12.02.909 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='admin' and Password='Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.12.02.914 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'admin'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.12.02.930 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='admin' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.12.28.177 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.12.28.180 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='petir' and Password='Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.12.28.185 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'petir'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.12.28.199 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='petir' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.13.19.125 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.13.19.127 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='1297822017' and Password='Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.13.19.130 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  '1297822017'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.13.19.140 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='1297822017' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.13.54.297 AM
+---------------------------Success-------------------------------------------------------
+Message: exec ValidasiDataCustomer 'TxtSearch','211221152303'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.14.26.032 AM
+---------------------------Success-------------------------------------------------------
+Message: exec ValidasiDataCustomer 'TxtSearch','230829143548'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.17.34.882 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.17.34.886 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='agentkanmoinbound1' and Password='Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.17.34.905 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'agentkanmoinbound1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.17.34.927 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentkanmoinbound1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.17.45.361 AM
+---------------------------Success-------------------------------------------------------
+Message: exec ValidasiDataCustomer 'TxtSearch','211221152303'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.31.38.846 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.31.38.849 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='agentkanmosocialmedia1' and Password='Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.31.38.853 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'agentkanmosocialmedia1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.31.38.862 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentkanmosocialmedia1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.46.28.425 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.46.28.429 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='agentkanmosocialmedia1' and Password='Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.46.28.436 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'agentkanmosocialmedia1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.46.28.447 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentkanmosocialmedia1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.48.26.697 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.48.26.702 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.48.26.711 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentoutbound2' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.49.03.530 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket ''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.49.03.591 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'c'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.49.03.647 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'ca'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.49.03.672 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'ca'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.49.03.741 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'can'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.49.03.769 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'can'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.49.03.921 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'can'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.49.04.033 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'cand'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.51.57.770 AM
+---------------------------Success-------------------------------------------------------
+Message: exec ValidasiDataCustomer 'TxtSearch','211221152303'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.52.31.781 AM
+---------------------------Success-------------------------------------------------------
+Message: exec ValidasiDataCustomer 'TxtSearch','230829143548'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.57.26.060 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'cand'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.57.26.088 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'can'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.57.26.132 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'can'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.57.26.200 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'ca'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.57.26.308 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'ca'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.57.26.355 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'c'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.57.26.434 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'c'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.57.26.519 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket ''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.57.27.120 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket ''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.57.27.197 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'r'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.57.27.266 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'r'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.57.27.337 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'ra'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.57.27.416 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'rah'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.57.27.451 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'rah'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.57.27.550 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'rah'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.57.27.622 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'rahm'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.57.27.639 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'rahmd'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.57.27.720 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'rahmd'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.57.27.812 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'rahmda'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.57.27.855 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'rahmda'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.57.28.142 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'rahmda'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.57.28.215 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Multichat_GetListTicket 'rahmd'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.01.01.434 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.01.01.435 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='agentkanmoemail1' and Password='Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.01.01.440 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'agentkanmoemail1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.01.01.483 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentkanmoemail1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.02.21.845 AM
+---------------------------Success-------------------------------------------------------
+Message: exec ValidasiDataCustomer 'TxtSearch','211221152303'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.02.38.635 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.02.38.641 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.02.38.654 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentoutbound2' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.15.33.764 AM
+---------------------------Success-------------------------------------------------------
+Message: exec ValidasiDataCustomer 'PageLoad','jouandairwan@gmail.com'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.15.33.877 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [UIDESK_TrxEmailDetail] where EMAIL_ID='202310101258344584227' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.18.12.553 AM
+---------------------------Success-------------------------------------------------------
+Message: exec ValidasiDataCustomer 'TxtSearch','211222170538'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.20.51.702 AM
+---------------------------Success-------------------------------------------------------
+Message: exec ValidasiDataCustomer 'PageLoad','wandairwansyah47@gmail.com'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.20.53.763 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from [UIDESK_TrxEmailDetail] where EMAIL_ID='202310101256030717548' 
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.28.41.827 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.28.41.830 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='agentkanmooutbound2' and Password='Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.28.49.211 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (ID) as LDAPCount from ICC_LDAP_Setting WHERE NA='Y'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.28.49.213 AM
+---------------------------Success-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName='agentoutbound2' and Password='Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.28.49.218 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI_EPIC  'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.28.49.229 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentoutbound2' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+

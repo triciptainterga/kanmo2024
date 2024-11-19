@@ -1,0 +1,425 @@
+﻿{
+    "code": 200,
+    "message": "SUCCESS",
+    "data": [
+        {
+            "id": "2063007810668871865",
+            "marketplace": "shopee",
+            "is_opposite": false,
+            "msg": "Hi Sobat Shopee,<br><br>Sudah gajian kan? Yuk bikin senang si buah hati! ada diskon up to 50% dan tambahan 10% untuk produk fashion loh!* Khusus untuk sobat shopee! Jangan sampai kehabisan!<br><br>*TnC applies",
+            "reply_time": 1611727239000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2063007810670936250",
+            "marketplace": "shopee",
+            "is_opposite": false,
+            "reply_time": 1611727239000,
+            "type": "item_list",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2085642128903815354",
+            "marketplace": "shopee",
+            "is_opposite": false,
+            "msg": "Hi Parents!<br><br>Mothercare End of Season Sale up to 70% hadir kembali lho.<br>Yuk cek promonya dan checkout sekarang, jangan sampai kehabisan! ",
+            "reply_time": 1622520123000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2085642128905912507",
+            "marketplace": "shopee",
+            "is_opposite": false,
+            "reply_time": 1622520123000,
+            "type": "item_list",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2138006398635983217",
+            "marketplace": "shopee",
+            "is_opposite": false,
+            "msg": "Hi Parents!<br><br>Seasonal Savers diskon hingga 50% di Mothercare Official Store kembali lagi. Yuk cek promonya dan checkout sebelum kehabisan!",
+            "reply_time": 1647489352000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2138006398669619569",
+            "marketplace": "shopee",
+            "is_opposite": false,
+            "reply_time": 1647489352000,
+            "type": "item_list",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2155394242211905905",
+            "marketplace": "shopee",
+            "is_opposite": false,
+            "msg": "📢END OF SEASON SALE IS HERE📢 Hi Parents, promo hingga 70% dari Mothercare masih berlangsung, loh! Jangan lewatkan juga Flash Sale setiap akhir pekan. Cek Mothercare Official Store sekarang, untuk mendapatkan kebutuhan ibu dan bayi mu!",
+            "reply_time": 1655780522000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2155394242243281265",
+            "marketplace": "shopee",
+            "is_opposite": false,
+            "reply_time": 1655780522000,
+            "type": "item_list",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2156663783241990513",
+            "marketplace": "shopee",
+            "is_opposite": false,
+            "msg": "📢END OF SEASON SALE STILL HERE📢 <br>Hi Parents, Mumpung udah gajian, nikmati langsung promo End of Season Sale hingga 70% dan nantikan Flash Sale Menarik setiap akhir pekan untuk penuhi kebutuhan ibu dan bayi mu!",
+            "reply_time": 1656385886000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2189698075578581362",
+            "marketplace": "shopee",
+            "is_opposite": false,
+            "msg": "Hi kak, mohon maaf kak untuk pesanan kakak tidak dapat di proses lebih lanjut di karenakan out of stok. Mohon kesediaannya melakukan p3mb4t4l4n atas pesanan ini, untuk produk tidak dapat di ganti ke produk lainnya di karenakan setiap produk yang tersedia memiliki kode produk yang berbeda dan sistem membaca berdasarkan dengan kode produk.Sekali lagi kami mohon maaf atas ketidaknyamanannya 🙏🏻.",
+            "reply_time": 1672137864000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219535072625017201",
+            "marketplace": "shopee",
+            "is_opposite": true,
+            "msg": "Chat dengan Penjual",
+            "reply_time": 1686365253000,
+            "type": "faq_liveagent",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219535073059111281",
+            "marketplace": "shopee",
+            "is_opposite": false,
+            "msg": "Hi Moms & Dads! 💕 <br><br>Terima kasih telah menghubungi Mothercare-ELC Official Shop! Pesanmu telah diterima. Mohon menunggu pesanmu untuk dibalas oleh Customer Service kami.  Customer service kami akan melayani Anda setiap hari dari pukul 10.00 - 18.30 WIB. <br><br>Pastikan Moms & Dads membuat unboxing video untuk memudahkan kami memproses keluhan apabila terdapat kendala pada produk 😉<br><br>Happy Shopping! 🛒 <br>#wetrustmothercare #welovemothercare #iwearmothercare<br><br>",
+            "reply_time": 1686365254000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219535113745957233",
+            "marketplace": "shopee",
+            "is_opposite": true,
+            "msg": "Kak sleepsuit kok gk dikirim?",
+            "reply_time": 1686365273000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219535348517912945",
+            "marketplace": "shopee",
+            "is_opposite": true,
+            "msg": "Hallo kak",
+            "reply_time": 1686365385000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219535362354938225",
+            "marketplace": "shopee",
+            "is_opposite": true,
+            "msg": "Saya sudah terima pesanannya",
+            "reply_time": 1686365392000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219535406321729905",
+            "marketplace": "shopee",
+            "is_opposite": true,
+            "msg": "Tapi item sleepsuit saya tidak terima",
+            "reply_time": 1686365412000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219535420638970225",
+            "marketplace": "shopee",
+            "is_opposite": true,
+            "msg": "Kira kira gimana ya kak?",
+            "reply_time": 1686365419000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219535431328153970",
+            "marketplace": "shopee",
+            "is_opposite": true,
+            "msg": "Chat dengan Penjual",
+            "reply_time": 1686365424000,
+            "type": "faq_liveagent",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219535631604072817",
+            "marketplace": "shopee",
+            "is_opposite": true,
+            "msg": "Hanya 1 item ini?",
+            "reply_time": 1686365520000,
+            "type": "image",
+            "invoice": {},
+            "product": {},
+            "media_url": "https://cf.shopee.co.id/file/id-11134231-7qul2-lhty2vtptvry8d"
+        },
+        {
+            "id": "2219535679842795889",
+            "marketplace": "shopee",
+            "is_opposite": true,
+            "msg": "Hy kak",
+            "reply_time": 1686365543000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219535693019201905",
+            "marketplace": "shopee",
+            "is_opposite": true,
+            "msg": "Tolong di jawab",
+            "reply_time": 1686365549000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219535959552541042",
+            "marketplace": "shopee",
+            "is_opposite": true,
+            "msg": "Hy kak",
+            "reply_time": 1686365676000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219535985412489585",
+            "marketplace": "shopee",
+            "is_opposite": true,
+            "msg": "Kira kira gimana ya  kak?",
+            "reply_time": 1686365689000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219553926505906545",
+            "marketplace": "shopee",
+            "is_opposite": false,
+            "msg": "Hi kak, silakan dikirimkan video unboxingnya ya kak<br><br>~YO",
+            "reply_time": 1686374244000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219554804948386161",
+            "marketplace": "shopee",
+            "is_opposite": true,
+            "msg": "Untuk video unboxingnya ga ada kak",
+            "reply_time": 1686374662000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219554836340638066",
+            "marketplace": "shopee",
+            "is_opposite": true,
+            "msg": "Tapi yg di terima hanya 1 product itu ajankak",
+            "reply_time": 1686374677000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219556479176130932",
+            "marketplace": "shopee",
+            "is_opposite": false,
+            "msg": "Foto label pengirimannya bisa dikirimkan kak?<br><br>~YO",
+            "reply_time": 1686375461000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219556505728139633",
+            "marketplace": "shopee",
+            "is_opposite": false,
+            "msg": "Karena based on sistem kami sudah kirimkan semua orderan kakak ya kak<br><br>~YO",
+            "reply_time": 1686375473000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219560860910977395",
+            "marketplace": "shopee",
+            "is_opposite": true,
+            "msg": "Di terima hanya 1 pcs saja kak",
+            "reply_time": 1686377550000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219560868697702771",
+            "marketplace": "shopee",
+            "is_opposite": true,
+            "msg": "Hanya yang itu",
+            "reply_time": 1686377554000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219560883543458161",
+            "marketplace": "shopee",
+            "is_opposite": true,
+            "msg": "Sleep suitnya belum kak",
+            "reply_time": 1686377561000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219564152516854129",
+            "marketplace": "shopee",
+            "is_opposite": true,
+            "msg": "https://img.sp.mms.shopee.sg/id-11134231-7qukz-lhu5febauykff6",
+            "reply_time": 1686379120000,
+            "type": "image",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219564168396489073",
+            "marketplace": "shopee",
+            "is_opposite": true,
+            "msg": "https://img.sp.mms.shopee.sg/id-11134231-7qukx-lhu5febauyxg26",
+            "reply_time": 1686379127000,
+            "type": "image",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219564177544266097",
+            "marketplace": "shopee",
+            "is_opposite": true,
+            "msg": "https://img.sp.mms.shopee.sg/id-11134231-7qukx-lhu5febauz8ne2",
+            "reply_time": 1686379132000,
+            "type": "image",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219578939606909297",
+            "marketplace": "shopee",
+            "is_opposite": false,
+            "msg": "Baik kak, kami cek kakak sudah mengajukan pengembalian via shopee ya kak?<br><br>~YO",
+            "reply_time": 1686386171000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219580542703468913",
+            "marketplace": "shopee",
+            "is_opposite": true,
+            "msg": "Iya kak",
+            "reply_time": 1686386935000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219581263538635121",
+            "marketplace": "shopee",
+            "is_opposite": false,
+            "msg": "Baik kak, silakan ditunggu prosesnya ya kak<br><br>~YO",
+            "reply_time": 1686387279000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219587105749041521",
+            "marketplace": "shopee",
+            "is_opposite": true,
+            "msg": "Baik kak",
+            "reply_time": 1686390065000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219587112552218993",
+            "marketplace": "shopee",
+            "is_opposite": true,
+            "msg": "Terimaksih",
+            "reply_time": 1686390068000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2219588832067961201",
+            "marketplace": "shopee",
+            "is_opposite": false,
+            "msg": "Sama - sama kak<br><br>~HRM",
+            "reply_time": 1686390888000,
+            "type": "text",
+            "invoice": {},
+            "product": {}
+        },
+        {
+            "id": "2283329473735983473",
+            "marketplace": "shopee",
+            "is_opposite": false,
+            "reply_time": 1716784794000,
+            "type": "invoice",
+            "invoice": {
+                "status": "Pesanan Dikirim",
+                "invoice_no": "240527E18VC44B",
+                "total_purchase": 1083200,
+                "url": "",
+                "payment_date": "2024-05-27T04:13:35.000Z",
+                "city": "KOTA PALU",
+                "province": "SULAWESI TENGAH",
+                "courier_name": "SPX Hemat",
+                "courier_service_name": "Hemat",
+                "courier_ref": "SPXID047581968855",
+                "destination_name": "Y******o",
+                "product_image": ""
+            },
+            "product": {}
+        }
+    ]
+}

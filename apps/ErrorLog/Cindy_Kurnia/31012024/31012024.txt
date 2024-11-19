@@ -1,0 +1,161 @@
+Time: 31/01/2024 03:03:56:662 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','Cindy_Kurnia','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:03:58:983 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Cindy_Kurnia', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:03:59:663 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Cindy_Kurnia', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:03:59:863 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Cindy_Kurnia','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:00:555 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Cindy_Kurnia','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:09:287 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxFilterDate '0','0','Cindy_Kurnia','FilterDate'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:09:407 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailCounting 'Cindy_Kurnia','layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:09:426 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Cindy_Kurnia','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:09:513 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Cindy_Kurnia','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:09:787 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Cindy_Kurnia','UIDESK79'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:09:890 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Cindy_Kurnia','UIDESK115'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:10:510 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','Cindy_Kurnia','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:10:936 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','Cindy_Kurnia','UIDESK116'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:11:719 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '6','Cindy_Kurnia','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:12:028 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmMasterDropdown 'UideskIndonesia','InboxTable','Cindy_Kurnia','UIDESK100'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:12:712 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Cindy_Kurnia','UIDESK79'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:14:721 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec AHU_Uidesk_TrxFormatResponseEmail '2','0','0','0','Cindy_Kurnia','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:22:432 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'riza','UideskIndonesia','Cindy_Kurnia','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:22:559 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'rizal','UideskIndonesia','Cindy_Kurnia','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:22:738 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'rizals','UideskIndonesia','Cindy_Kurnia','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:35:205 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxEmailCompose 'Cindy_Kurnia','uidesktest@kanmogroup.com','rizalsamsurizal708@gmail.com;','TestOut','','<p>Cristiano Ronaldo, yang kini sudah berusia 37 tahun, kembali membuat unggahan di media sosialnya. Ia memasang foto dengan tiga kata.<br />
+<br />
+&quot;Tiga aspek realitas: rasa sedih, ketidakpastian, dan konsisten bekerja,&quot; begitu tulisan dalam kalimat yang diunggah Ronaldo.<br />
+<br />
+Cristiano Ronaldo sendiri sedih bukan main usai Portugal kalah dari Maroko. Penyerang yang pernah membela Sporting CP, Manchester United, Real Madrid, dan Juventus itu memilih langsung masuk ke lorong, dan menangis tersedu-sedu usai harus angkat koper dari Piala Dunia 2022.<br />
+<br />
+Baca artikel sepakbola, &quot;Ronaldo Unggah Tiga Kata Ini, Tersirat Rasa Sedih Mendalam&quot; selengkapnya <a href="https://sport.detik.com/sepakbola/bola-dunia/d-6458774/ronaldo-unggah-tiga-kata-ini-tersirat-rasa-sedih-mendalam">https://sport.detik.com/sepakbola/bola-dunia/d-6458774/ronaldo-unggah-tiga-kata-ini-tersirat-rasa-sedih-mendalam</a>.<br />
+<br />
+Download Apps Detikcom Sekarang https://apps.detik.com/detik/</p>
+
+<p>&nbsp;</p>
+','202401310304344477352','OUT','compose_email'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:38:054 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxFilterDate '0','0','Cindy_Kurnia','FilterDate'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:38:114 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailCounting 'Cindy_Kurnia','layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:38:151 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Cindy_Kurnia','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:38:213 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Cindy_Kurnia','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:38:309 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmMasterDropdown 'UideskIndonesia','InboxTable','Cindy_Kurnia','UIDESK100'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:38:833 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','Cindy_Kurnia','UIDESK116'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:39:773 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Cindy_Kurnia','UIDESK115'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:39:802 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','Cindy_Kurnia','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 31/01/2024 03:04:40:498 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '6','Cindy_Kurnia','UIDESK14'
+---------------------------Success-------------------------------------------------------
+

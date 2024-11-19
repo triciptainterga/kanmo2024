@@ -1,0 +1,79 @@
+{
+    "code": 200,
+    "message": "Success",
+    "data": [
+        {
+            "reply_id": 1,
+            "marketplace": "tokopedia",
+            "is_opposite": true,
+            "msg": "Hello",
+            "reply_time": 1715154500680,
+            "read_status": 2,
+            "type": "invoice",
+            "invoice": {
+                "status": "Pesanan Diproses",
+                "invoice_no": "INV/20240508/MPL/3894703383",
+                "total_purchase": 50000,
+                "payment_date": "2024-05-08T07:48:10.000Z",
+                "city": "Kota Tangerang Selatan",
+                "province": "Banten",
+                "courier_name": "GrabExpress",
+                "courier_service_name": "Same Day 8 Jam",
+                "courier_ref": "",
+                "destination_name": "Yulius Chan",
+                "product_image": "https://bantudagang-media.s3-ap-southeast-1.amazonaws.com/static/image/logo-text-white.png"
+            }
+        },
+        {
+            "reply_id": 2,
+            "marketplace": "tokopedia",
+            "is_opposite": false,
+            "msg": "",
+            "reply_time": 1715154500680,
+            "read_status": 2,
+            "type": "product",
+            "product": {
+                "name": "Tiger",
+                "price": 150000,
+                "image_url": "https://bantudagang-media.s3-ap-southeast-1.amazonaws.com/static/image/logo-text-white.png"
+            }
+        },
+        {
+            "reply_id": 3,
+            "marketplace": "tokopedia",
+            "is_opposite": true,
+            "msg": "Ukuran berapa yang ini kk",
+            "reply_time": 1716193617000,
+            "type": "text",
+            "context_message": {
+                "reply_id": 2,
+                "marketplace": "tokopedia",
+                "is_opposite": false,
+                "reply_time": 1716193220000,
+                "type": "product",
+                "product": {
+                    "name": "Tiger",
+                    "price": 150000,
+                    "image_url": "https://bantudagang-media.s3-ap-southeast-1.amazonaws.com/static/image/logo-text-white.png"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "marketplace": "tokopedia",
+            "is_opposite": true,
+            "msg": "",
+            "reply_time": 1716194665000,
+            "type": "sticker",
+            "media_url": "https://deo.shopeemobile.com/shopee/shopee-sticker-live-id/packs/sticker_id_choki/0001@1x.png"
+        },
+        {
+            "reply_id": 5,
+            "marketplace": "tokopedia",
+            "is_opposite": true,
+            "msg": "https://down-tx-sg.vod.susercontent.com/api/v4/11110133/mms/id-11110133-6ke1b-lv8ocpe0lqgcac.default.mp4",
+            "reply_time": 1715587360000,
+            "type": "video"
+        }
+    ]
+}

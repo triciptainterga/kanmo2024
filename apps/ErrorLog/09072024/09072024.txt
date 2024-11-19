@@ -1,0 +1,143 @@
+Time: 09/07/2024 01:59:47:073 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/07/2024 01:59:47:136 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/07/2024 01:59:47:214 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/07/2024 01:59:47:367 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/07/2024 01:59:47:700 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/07/2024 01:59:47:862 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/07/2024 01:59:47:929 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/07/2024 01:59:48:591 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/07/2024 01:59:48:916 PM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/07/2024 01:59:49:244 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 09/07/2024 01:59:50:032 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 09/07/2024 01:59:51:063 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/07/2024 01:59:51:175 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/07/2024 02:00:15:243 PM
+---------------------------Failed-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','','UIDESK303'
+Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+StackTrace:    at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at ICC.WebServiceGetDataMaster.UIDESK_TrxTransactionTicket(String TrxID, String TrxSearching, String TrxUserName, String TrxAction) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\WebServiceGetDataMaster.asmx.vb:line 5514
+Source: .Net SqlClient Data Provider
+TargetSite: Void .ctor(System.Data.ProviderBase.DbConnectionPoolIdentity, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SqlCredential, System.Object, System.String, System.Security.SecureString, Boolean, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SessionData, System.Data.ProviderBase.DbConnectionPool, System.String, Boolean, System.Data.SqlClient.SqlAuthenticationProviderManager)
+---------------------------Failed-------------------------------------------------------
+
+Time: 09/07/2024 02:00:15:251 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/07/2024 02:05:34:602 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/07/2024 02:05:35:095 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/07/2024 02:05:35:194 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/07/2024 02:05:35:378 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/07/2024 02:05:35:468 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/07/2024 02:05:35:698 PM
+---------------------------Failed-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudF9pZCI6NDA1MSwidXNlcl9pZCI6MjA3MywiYWNjb3VudF9pZCI6Mzg3MCwibmFtZSI6IlVJRGVzayIsImVtYWlsIjoic2EtMjA3My1GWUdUSi4xNzE2NzgxNDYyQGlhbS5iYW50dWRhZ2FuZy5jb20iLCJhZ2VudF90eXBlIjoic2VydmljZV9hY2NvdW50Iiwic3RvcmVfcmVzdHJpY3RlZCI6MCwic3RvcmVzIjpbIlRLUEQtNjg1NzY0MyIsIlRLUEQtNzk4NTA2MiIsIlNIUEUtNjQ4NzQ5OTIiLCJTSFBFLTYxNTE2MjA3IiwiTFpEQS0yNTE4OSIsIlRLUEQtODEwMjU0MSIsIlNIUEUtMjgyMDQ5NjIxIiwiVEtQRC0xMTU2MDcwMyIsIlRLUEQtOTk1Nzc5MCIsIlRLUEQtOTI4Njk2NSIsIlRLUEQtNjA5MDk2MiIsIlRLUEQtOTE3MzgwOSIsIlRLUEQtMTMzMTkxMDMiLCJUS1BELTEyMDk1MDY2IiwiVEtQRC0xMzgyNDM3MSIsIlRLUEQtODMyODkzMSIsIlNIUEUtODU0NzM5NjAiLCJUS1BELTEzMTQ3NDE0IiwiU0hQRS05NzI5MTE0NSIsIlRLUEQtODkyMzc4MyIsIlNIUEUtMTE3OTI1Njk0IiwiVEtQRC0zODU5NjAxIiwiU0hQRS0yMjU3MTA2MTYiLCJTSFBFLTIyMTYwMjYxOSIsIlRLUEQtNzE2NjgwMSIsIlNIUEUtMzI1MjQwNTU2IiwiVEtQRC05NzMxNjAzIiwiVEtQRC0xNDQzNjAwNiIsIlNIUEUtMjQyNTg2MDg3IiwiU0hQRS0yNDAyMjk3NjIiLCJUS1BELTExMTM5MDg1IiwiU0hQRS0zMjgyODQ3NDIiLCJTSFBFLTI4MTk0MjU2MyIsIlNIUEUtMzczNTQwNjg3IiwiU0hQRS0yOTQ5MzQyNDAiLCJTSFBFLTQ3NDU1OTQ1NCIsIlNIUEUtMzc0OTI3OTQzIiwiVEtQRC0xNTUwOTM4OCIsIlNIUEUtNDIxNjUzODc1IiwiVEtQRC0xNTY1NTYyMCIsIlNIUEUtNzE5MTg4NDc4IiwiVEtQRC0xNTYwNzgyOCIsIlNIUEUtNzc4MDYzOTA3IiwiU0hQRS05OTYyNTMxNDQiLCJTSFBFLTk3MDEzNTY4MSIsIlNIUEUtODg2MTkyNzA5IiwiTFpEQS00MDExOTU5MjAxOTEiLCJMWkRBLTQwMTE5NTU1Mjg4MiIsIkxaREEtNDAxMTk2MDQ4Mzc2IiwiTFpEQS00MDExOTU5Njg0NzEiLCJMWkRBLTQwMTE5NTYzMjk4NSIsIkxaREEtNDAwNjExNjA2MjA2IiwiVEtQRC0xNjI2NDEwOCIsIlNIUEUtMzIyNjIwNzM3IiwiTFpEQS00MDE3ODA1MjgzNjciLCJMWkRBLTQwMTYyNzAwODc1NyIsIlRLUEQtNDkyNjYxMSIsIlRLUEQtMTEwMjc5MTgiLCJUS1BELTgxNzQ2MTQiLCJTSFBFLTQxOTI1NzE0MSIsIlNIUEUtMTA1ODc0NTAwNiIsIlNIUEUtOTgwMDg4MTUzIiwiTFpEQS00MDE0NTMyNDgwMTAiLCJMWkRBLTQwMDcwNzAzOTY5NiIsIkxaREEtNDAxNjEwMTkyMzgzIiwiTFpEQS00MDE1OTIwMTYwMTQiLCJMWkRBLTQwMTE5NjU0NDI3MSIsIkxaREEtNDAxMTk2NTYwMTYxIiwiTFpEQS00MDA1OTA1MTY0MjAiLCJUS1RLLTc0OTQ3NTM1MDMwMzg1MDc3MzQiLCJUS1BELTE3Mjk5ODEwIiwiU0hQRS0xMjAyMDg2MTk4IiwiTFpEQS00MDE5MDEwODg2MjciLCJUS1RLLTc0OTQ2MDMzNDAzMDM5Mjc0OTEiLCJTSFBFLTExOTczNjYxMzgiXSwicHJpdmlsZWdlIjpbXSwibWVtYmVyc2hpcCI6eyJwYWNrYWdlX25hbWUiOiJQUk8iLCJtZW1iZXJzaGlwX2VuZCI6IjIwMjQtMDktMzBUMTc6MDA6MDAuMDAwWiIsImFjdGl2ZSI6MSwibWF4X3N0b3JlIjo3NiwibWF4X2VtcGxveWVlIjoxNywibWF4X29yZGVyIjotMSwib3JkZXJfbXRkIjowfSwiYWdlbnRfYWxpYXMiOiIiLCJzZXNzaW9uX2VuZCI6IjIwMjQtMDktMDcgMDc6MDU6MzciLCJpYXQiOjE3MjA1MDg3MzcsImV4cCI6MTcyMDUxMjMzN30.9-OQ2xih42xyzBi-jobCB6ZaddAwSMJCNNnfW4k3Xkg','INSERT'
+Message: OrderID
+StackTrace:    at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at ICC.BantuDagang.DataAccessToken(String UserName, String Token, String Action) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\asmx\BantuDagang.asmx.vb:line 212
+Source: System.Data
+TargetSite: Int32 GetOrdinal(System.String)
+---------------------------Failed-------------------------------------------------------
+
+Time: 09/07/2024 02:05:35:701 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudF9pZCI6NDA1MSwidXNlcl9pZCI6MjA3MywiYWNjb3VudF9pZCI6Mzg3MCwibmFtZSI6IlVJRGVzayIsImVtYWlsIjoic2EtMjA3My1GWUdUSi4xNzE2NzgxNDYyQGlhbS5iYW50dWRhZ2FuZy5jb20iLCJhZ2VudF90eXBlIjoic2VydmljZV9hY2NvdW50Iiwic3RvcmVfcmVzdHJpY3RlZCI6MCwic3RvcmVzIjpbIlRLUEQtNjg1NzY0MyIsIlRLUEQtNzk4NTA2MiIsIlNIUEUtNjQ4NzQ5OTIiLCJTSFBFLTYxNTE2MjA3IiwiTFpEQS0yNTE4OSIsIlRLUEQtODEwMjU0MSIsIlNIUEUtMjgyMDQ5NjIxIiwiVEtQRC0xMTU2MDcwMyIsIlRLUEQtOTk1Nzc5MCIsIlRLUEQtOTI4Njk2NSIsIlRLUEQtNjA5MDk2MiIsIlRLUEQtOTE3MzgwOSIsIlRLUEQtMTMzMTkxMDMiLCJUS1BELTEyMDk1MDY2IiwiVEtQRC0xMzgyNDM3MSIsIlRLUEQtODMyODkzMSIsIlNIUEUtODU0NzM5NjAiLCJUS1BELTEzMTQ3NDE0IiwiU0hQRS05NzI5MTE0NSIsIlRLUEQtODkyMzc4MyIsIlNIUEUtMTE3OTI1Njk0IiwiVEtQRC0zODU5NjAxIiwiU0hQRS0yMjU3MTA2MTYiLCJTSFBFLTIyMTYwMjYxOSIsIlRLUEQtNzE2NjgwMSIsIlNIUEUtMzI1MjQwNTU2IiwiVEtQRC05NzMxNjAzIiwiVEtQRC0xNDQzNjAwNiIsIlNIUEUtMjQyNTg2MDg3IiwiU0hQRS0yNDAyMjk3NjIiLCJUS1BELTExMTM5MDg1IiwiU0hQRS0zMjgyODQ3NDIiLCJTSFBFLTI4MTk0MjU2MyIsIlNIUEUtMzczNTQwNjg3IiwiU0hQRS0yOTQ5MzQyNDAiLCJTSFBFLTQ3NDU1OTQ1NCIsIlNIUEUtMzc0OTI3OTQzIiwiVEtQRC0xNTUwOTM4OCIsIlNIUEUtNDIxNjUzODc1IiwiVEtQRC0xNTY1NTYyMCIsIlNIUEUtNzE5MTg4NDc4IiwiVEtQRC0xNTYwNzgyOCIsIlNIUEUtNzc4MDYzOTA3IiwiU0hQRS05OTYyNTMxNDQiLCJTSFBFLTk3MDEzNTY4MSIsIlNIUEUtODg2MTkyNzA5IiwiTFpEQS00MDExOTU5MjAxOTEiLCJMWkRBLTQwMTE5NTU1Mjg4MiIsIkxaREEtNDAxMTk2MDQ4Mzc2IiwiTFpEQS00MDExOTU5Njg0NzEiLCJMWkRBLTQwMTE5NTYzMjk4NSIsIkxaREEtNDAwNjExNjA2MjA2IiwiVEtQRC0xNjI2NDEwOCIsIlNIUEUtMzIyNjIwNzM3IiwiTFpEQS00MDE3ODA1MjgzNjciLCJMWkRBLTQwMTYyNzAwODc1NyIsIlRLUEQtNDkyNjYxMSIsIlRLUEQtMTEwMjc5MTgiLCJUS1BELTgxNzQ2MTQiLCJTSFBFLTQxOTI1NzE0MSIsIlNIUEUtMTA1ODc0NTAwNiIsIlNIUEUtOTgwMDg4MTUzIiwiTFpEQS00MDE0NTMyNDgwMTAiLCJMWkRBLTQwMDcwNzAzOTY5NiIsIkxaREEtNDAxNjEwMTkyMzgzIiwiTFpEQS00MDE1OTIwMTYwMTQiLCJMWkRBLTQwMTE5NjU0NDI3MSIsIkxaREEtNDAxMTk2NTYwMTYxIiwiTFpEQS00MDA1OTA1MTY0MjAiLCJUS1RLLTc0OTQ3NTM1MDMwMzg1MDc3MzQiLCJUS1BELTE3Mjk5ODEwIiwiU0hQRS0xMjAyMDg2MTk4IiwiTFpEQS00MDE5MDEwODg2MjciLCJUS1RLLTc0OTQ2MDMzNDAzMDM5Mjc0OTEiLCJTSFBFLTExOTczNjYxMzgiXSwicHJpdmlsZWdlIjpbXSwibWVtYmVyc2hpcCI6eyJwYWNrYWdlX25hbWUiOiJQUk8iLCJtZW1iZXJzaGlwX2VuZCI6IjIwMjQtMDktMzBUMTc6MDA6MDAuMDAwWiIsImFjdGl2ZSI6MSwibWF4X3N0b3JlIjo3NiwibWF4X2VtcGxveWVlIjoxNywibWF4X29yZGVyIjotMSwib3JkZXJfbXRkIjowfSwiYWdlbnRfYWxpYXMiOiIiLCJzZXNzaW9uX2VuZCI6IjIwMjQtMDktMDcgMDc6MDU6MzciLCJpYXQiOjE3MjA1MDg3MzcsImV4cCI6MTcyMDUxMjMzN30.9-OQ2xih42xyzBi-jobCB6ZaddAwSMJCNNnfW4k3Xkg','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/07/2024 02:05:35:821 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/07/2024 02:05:54:264 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+

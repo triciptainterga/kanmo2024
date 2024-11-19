@@ -1,0 +1,126 @@
+Time: 15/11/2023 03:15:12:472 PM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'Nursyamsuri','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 03:15:12:513 PM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 03:15:12:667 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','Nursyamsuri','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 03:15:12:714 PM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='Nursyamsuri' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 03:15:12:740 PM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 156
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 15/11/2023 03:15:46:418 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Nursyamsuri','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 03:15:47:010 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Nursyamsuri','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 03:15:47:500 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Nursyamsuri', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 03:15:47:949 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Nursyamsuri', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 03:17:17:208 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','Nursyamsuri','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 03:17:18:268 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Nursyamsuri', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 03:17:18:331 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Nursyamsuri','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 03:17:19:001 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Nursyamsuri', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 03:17:19:345 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Nursyamsuri','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 03:19:53:331 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Nursyamsuri', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 03:19:53:600 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Nursyamsuri', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 03:19:53:959 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Nursyamsuri','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 03:19:54:409 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Nursyamsuri','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 03:34:01:189 PM
+---------------------------Failed-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'Admin','Uidesk123!'
+Message: Object reference not set to an instance of an object.
+StackTrace:    at ICC.auth_local.AccessLogin(String UserName, String Password) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 72
+Source: ICC
+TargetSite: System.Object AccessLogin(System.String, System.String)
+---------------------------Failed-------------------------------------------------------
+
+Time: 15/11/2023 03:34:01:190 PM
+---------------------------Failed-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+Message: Object reference not set to an instance of an object.
+StackTrace:    at ICC.auth_local.AccessLogin(String UserName, String Password) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 114
+Source: ICC
+TargetSite: System.Object AccessLogin(System.String, System.String)
+---------------------------Failed-------------------------------------------------------
+
+Time: 15/11/2023 03:34:01:191 PM
+---------------------------Failed-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='Nursyamsuri' ORDER BY ID DESC
+Message: Object reference not set to an instance of an object.
+StackTrace:    at ICC.auth_local.AccessLogin(String UserName, String Password) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 133
+Source: ICC
+TargetSite: System.Object AccessLogin(System.String, System.String)
+---------------------------Failed-------------------------------------------------------
+

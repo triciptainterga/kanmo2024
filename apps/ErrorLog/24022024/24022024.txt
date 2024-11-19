@@ -1,0 +1,90 @@
+Time: 24/02/2024 12:23:26:709 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec TR_DataThread '', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 24/02/2024 12:23:26:756 PM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_TempKotakThread '','',''
+---------------------------Success-------------------------------------------------------
+
+Time: 24/02/2024 12:23:26:795 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 24/02/2024 12:23:26:821 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 24/02/2024 12:23:26:857 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 24/02/2024 12:23:26:998 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 24/02/2024 12:58:13:587 PM
+---------------------------Failed-------------------------------------------------------
+Message: exec Insert_Transaction '240224103640','20240224125813205','Email','BRA-00002','CAT-00007','CT1-00037','CT2-00048','CT3-0000118','<p>&nbsp;</p>
+
+<p>CAUTION: This email is originated from outside Kanmo Group organization. Please do not enter your password or personal information and do not click any links provided or open attachments in this email unless you recognize the sender and know the content is safe.<br />
+PERHATIAN: Email ini berasal dari luar organisasi Kanmo Group. Jangan masukkan kata sandi atau informasi pribadi anda dan jangan membuka tautan atau lampiran apapun yang terdapat dalam email ini kecuali anda mengenali pengirimnya dan mengetahui kontennya aman.</p>
+
+<p>Halo tim,</p>
+
+<p>&nbsp;</p>
+
+<p>Perkenalkan saya khaterin, saya mempunyai salah sata beaba foodprocessor. Saat ini fp saya rusak, saya bisa benerin dimana ya ?</p>
+
+<p>&nbsp;</p>
+
+<p>Terima kasih,</p>
+
+<p>&nbsp;</p>
+
+<p>Khat</p>
+','<p>akan di infokan ke user</p>
+','2','Pending','Siti_Muntama','202402241026070629696','khaterine','astarikhaterine@gmail.com','6282282222065','0','astarikhaterine@gmail.com','','Store','Assisting Queries','CT3-0000118','Email','2024-02-24T12:39:06','40','1','Siti_Muntama','1075','1','202402241026070629696', 'EMAIL-345', 'ContactChannel','0','EMAIL','Mothercare'
+Message: Procedure or function 'Insert_Transaction' expects parameter '@UserCreate', which was not supplied.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.WebServiceTransaction.Insert_TransactionTicket(String TrxUsername, String TrxCustomerID, String TxtThreadID, String TxtAccount, String TrxPelapor, String TrxPelaporEmail, String TrxPelaporPhone, String TrxPelaporAddress, String TrxKejadian, String TrxPenyebab, String TrxPenerimaPengaduan, String TrxStatusPelapor, String TrxSkalaPrioritas, String TrxJenisNasabah, String TrxNomorRekening, String TrxSumberInformasi, String TrxBrand, String TrxCategory, String TrxLevel1, String TrxLevel2, String TrxLevel3, String TrxComplaint, String TrxResponse, String TrxChannel, String TrxStatus, String TrxEskalasi, String TrxSLA, String TrxExtendCategory, String TrxLayer, String TrxThreadID, String TrxGenesysID, String TxtContactID, String TrxIDchannel, String TrxProductName) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\WebServiceTransaction.asmx.vb:line 490
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 24/02/2024 12:58:13:600 PM
+---------------------------Success-------------------------------------------------------
+Message: exec Insert_Transaction '240224103640','20240224125813205','Email','BRA-00002','CAT-00007','CT1-00037','CT2-00048','CT3-0000118','<p>&nbsp;</p>
+
+<p>CAUTION: This email is originated from outside Kanmo Group organization. Please do not enter your password or personal information and do not click any links provided or open attachments in this email unless you recognize the sender and know the content is safe.<br />
+PERHATIAN: Email ini berasal dari luar organisasi Kanmo Group. Jangan masukkan kata sandi atau informasi pribadi anda dan jangan membuka tautan atau lampiran apapun yang terdapat dalam email ini kecuali anda mengenali pengirimnya dan mengetahui kontennya aman.</p>
+
+<p>Halo tim,</p>
+
+<p>&nbsp;</p>
+
+<p>Perkenalkan saya khaterin, saya mempunyai salah sata beaba foodprocessor. Saat ini fp saya rusak, saya bisa benerin dimana ya ?</p>
+
+<p>&nbsp;</p>
+
+<p>Terima kasih,</p>
+
+<p>&nbsp;</p>
+
+<p>Khat</p>
+','<p>akan di infokan ke user</p>
+','2','Pending','Siti_Muntama','202402241026070629696','khaterine','astarikhaterine@gmail.com','6282282222065','0','astarikhaterine@gmail.com','','Store','Assisting Queries','CT3-0000118','Email','2024-02-24T12:39:06','40','1','Siti_Muntama','1075','1','202402241026070629696', 'EMAIL-345', 'ContactChannel','0','EMAIL','Mothercare'
+---------------------------Success-------------------------------------------------------
+

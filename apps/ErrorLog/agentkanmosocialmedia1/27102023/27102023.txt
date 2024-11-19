@@ -1,0 +1,99 @@
+Time: 27/10/2023 06.18.32.372 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'agentkanmosocialmedia1','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/10/2023 06.18.32.377 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/10/2023 06.18.32.399 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentkanmosocialmedia1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/10/2023 06.18.32.404 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentkanmosocialmedia1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 27/10/2023 06.18.32.418 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 159
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 27/10/2023 06.18.37.516 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentkanmosocialmedia1', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/10/2023 06.18.37.982 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentkanmosocialmedia1', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/10/2023 06.18.38.495 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/10/2023 06.18.38.987 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/10/2023 06.18.51.276 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/10/2023 06.18.51.776 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/10/2023 06.18.56.262 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','agentkanmosocialmedia1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/10/2023 01.05.00.151 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentkanmosocialmedia1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/10/2023 01.05.00.572 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentkanmosocialmedia1', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/10/2023 01.05.01.060 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/10/2023 01.05.01.069 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/10/2023 01.05.01.588 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentkanmosocialmedia1', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/10/2023 01.05.11.632 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','agentkanmosocialmedia1','Insert'
+---------------------------Success-------------------------------------------------------
+

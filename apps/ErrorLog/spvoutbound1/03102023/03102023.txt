@@ -1,0 +1,605 @@
+Time: 03/10/2023 11.25.08.196 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.25.08.737 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'spvoutbound1', '4', 'Supervisor'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.25.09.237 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.25.09.737 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.25.10.250 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'spvoutbound1', 'open', '4','1067'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.25.16.954 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.25.16.961 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.25.16.982 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.25.17.485 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.25.32.047 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.37.52.646 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'spvoutbound1','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.37.52.648 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.37.52.654 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.37.52.655 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='spvoutbound1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.37.52.657 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 159
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 03/10/2023 11.38.04.427 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'spvoutbound1', '4', 'Supervisor'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.38.04.476 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'spvoutbound1', 'open', '4','1067'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.38.04.534 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.38.05.034 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.38.22.952 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.38.23.042 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.38.23.457 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.38.23.536 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.38.37.875 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231003113837523','2849d87a-09e7-4c59-bc3e-4dd9201bd2b4','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.38.41.085 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.38.41.090 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.38.41.174 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.38.41.676 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.38.45.767 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_DistibuteData '20231003113837523','spvoutbound1','DISTRIBUTE'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.38.50.981 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.38.51.020 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.38.51.483 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.38.51.526 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.39.31.893 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231003113931763','3327aa5a-dbc6-45ac-8ff8-87b2edb655cb','spvoutbound1','3'
+Message: The select list for the INSERT statement contains fewer items than the insert list. The number of SELECT values must match the number of INSERT columns.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 03/10/2023 11.39.31.897 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231003113931763','3327aa5a-dbc6-45ac-8ff8-87b2edb655cb','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.39.33.812 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.39.33.861 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.39.34.312 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.39.34.369 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.40.18.894 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231003114018773','e01bdad8-3020-49f9-b012-4098d462eb7b','spvoutbound1','3'
+Message: The select list for the INSERT statement contains fewer items than the insert list. The number of SELECT values must match the number of INSERT columns.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 03/10/2023 11.40.18.895 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231003114018773','e01bdad8-3020-49f9-b012-4098d462eb7b','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.40.20.565 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.40.20.614 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.40.21.077 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.40.21.123 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.42.54.885 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231003114254736','40e09492-3201-457b-8809-fbaebcd239f7','spvoutbound1','3'
+Message: The select list for the INSERT statement contains more items than the insert list. The number of SELECT values must match the number of INSERT columns.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 03/10/2023 11.42.54.888 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231003114254736','40e09492-3201-457b-8809-fbaebcd239f7','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.42.57.169 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.42.57.217 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.42.57.672 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.42.57.728 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.43.43.866 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231003114343575','94f91930-f7a2-4198-9260-7062395b5496','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.43.46.307 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.43.46.311 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.43.46.371 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.43.46.873 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.43.52.729 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'defaultSystem','spvoutbound1','UIDESK106'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.45.34.693 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_DistibuteData '20231003114343575','spvoutbound1','DISTRIBUTE'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.45.36.964 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.45.37.024 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.45.37.467 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.45.37.527 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.45.43.025 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.45.43.078 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.45.43.539 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.45.43.581 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.45.50.886 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'spvoutbound1', '4', 'Supervisor'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.45.50.903 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.45.51.397 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'spvoutbound1', 'null', '4','1067'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.45.51.405 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 11.58.25.850 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.06.00.529 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.06.01.408 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.06.01.906 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'spvoutbound1', 'open', '4','1067'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.06.02.413 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'spvoutbound1', '4', 'Supervisor'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.06.02.419 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.06.10.949 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.06.10.986 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.06.11.450 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.06.11.493 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.06.21.600 PM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231003120621303','ec593b1a-8cc0-4722-921b-ae23c3f88915','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.06.24.682 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.06.24.732 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.06.25.183 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.06.25.242 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.06.32.221 PM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_DistibuteData '20231003120621303','spvoutbound1','DISTRIBUTE'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.06.34.058 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.06.34.087 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.06.34.559 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.06.34.588 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.08.31.707 PM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231003120831448','111ca85f-d8d2-4a4b-b317-31bb44c37f14','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.08.34.827 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.08.35.330 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.08.35.829 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.08.36.040 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'defaultSystem','spvoutbound1','UIDESK106'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.08.36.330 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.09.20.638 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.09.20.666 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.09.21.152 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.09.21.181 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.09.22.678 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'defaultSystem','spvoutbound1','UIDESK106'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.09.26.927 PM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_DistibuteData '20231003120831448','spvoutbound1','DISTRIBUTE'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.09.28.879 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.09.28.904 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.09.29.379 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 12.09.29.407 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 08.36.32.310 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 08.36.34.104 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'spvoutbound1', '4', 'Supervisor'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 08.36.34.601 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'spvoutbound1', 'open', '4','1067'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 08.36.34.611 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 08.36.35.111 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 03/10/2023 08.45.51.617 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+

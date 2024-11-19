@@ -1,0 +1,134 @@
+Time: 25/11/2023 06:49:44:298 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','Lita_Aprilia','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 25/11/2023 06:49:46:635 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Lita_Aprilia', '2', 'layer2'
+---------------------------Success-------------------------------------------------------
+
+Time: 25/11/2023 06:49:46:821 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Lita_Aprilia','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 25/11/2023 06:49:47:174 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Lita_Aprilia', 'open', '2',''
+---------------------------Success-------------------------------------------------------
+
+Time: 25/11/2023 06:49:47:487 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Lita_Aprilia','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 25/11/2023 06:49:52:728 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20231116020827693','Lita_Aprilia','UIDESK55'
+---------------------------Success-------------------------------------------------------
+
+Time: 25/11/2023 06:49:52:920 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '6','Lita_Aprilia','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 25/11/2023 06:49:53:128 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','Lita_Aprilia','UIDESK116'
+---------------------------Success-------------------------------------------------------
+
+Time: 25/11/2023 06:49:53:338 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','Lita_Aprilia','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 25/11/2023 06:49:53:551 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Lita_Aprilia','UIDESK115'
+---------------------------Success-------------------------------------------------------
+
+Time: 25/11/2023 06:49:53:708 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailCounting 'Lita_Aprilia','layer2'
+---------------------------Success-------------------------------------------------------
+
+Time: 25/11/2023 06:49:53:860 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Lita_Aprilia','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 25/11/2023 06:49:54:069 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Lita_Aprilia','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 25/11/2023 06:49:54:277 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20231116020827693','Lita_Aprilia','UIDESK59'
+---------------------------Success-------------------------------------------------------
+
+Time: 25/11/2023 06:49:54:289 PM
+---------------------------Failed-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20231116020827693','Lita_Aprilia','UIDESK60'
+Message: Arithmetic overflow error converting expression to data type bigint.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TrySetMetaData(_SqlMetaDataSet metaData, Boolean moreInfo)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at ICC.WebServiceGetDataMaster.UIDESK_TrmMasterCombo(String TrxID, String TrxUserName, String TrxAction) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\WebServiceGetDataMaster.asmx.vb:line 5420
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 25/11/2023 06:49:54:290 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20231116020827693','Lita_Aprilia','UIDESK60'
+---------------------------Success-------------------------------------------------------
+
+Time: 25/11/2023 06:49:54:486 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '231116113448','Lita_Aprilia','UIDESK53'
+---------------------------Success-------------------------------------------------------
+
+Time: 25/11/2023 06:49:55:112 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmMasterDropdown 'UideskIndonesia','InboxTable','Lita_Aprilia','UIDESK100'
+---------------------------Success-------------------------------------------------------
+
+Time: 25/11/2023 06:49:55:634 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxFilterDate '0','0','Lita_Aprilia','FilterDate'
+---------------------------Success-------------------------------------------------------
+
+Time: 25/11/2023 06:49:56:053 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20231116020827693','Lita_Aprilia','UIDESK54'
+---------------------------Success-------------------------------------------------------
+
+Time: 25/11/2023 06:49:56:575 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20231116020827693','Lita_Aprilia','UIDESK56'
+---------------------------Success-------------------------------------------------------
+
+Time: 25/11/2023 06:49:57:097 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '2','Lita_Aprilia','UIDESK57'
+---------------------------Success-------------------------------------------------------
+
+Time: 25/11/2023 06:50:21:224 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Lita_Aprilia','UIDESK61'
+---------------------------Success-------------------------------------------------------
+

@@ -1,0 +1,73 @@
+Return-Path: <kanmodemo@uidesk.id>
+Received: from relay.mailchannels.net (localhost [127.0.0.1])
+	by relay.mailchannels.net (Postfix) with ESMTP id D8923825E1
+	for <Akmalsajjo88@gmail.com>; Thu, 25 Jan 2024 07:26:24 +0000 (UTC)
+Received: from srv128.niagahoster.com (unknown [127.0.0.6])
+	(Authenticated sender: hostingercpanel)
+	by relay.mailchannels.net (Postfix) with ESMTPA id 43A2E81A76
+	for <Akmalsajjo88@gmail.com>; Thu, 25 Jan 2024 07:26:24 +0000 (UTC)
+ARC-Seal: i=1; s=arc-2022; d=mailchannels.net; t=1706167584; a=rsa-sha256;
+	cv=none;
+	b=957z+DvJBj3H+AjHM3P5H5c+7hSSo9e0P2K2vVj6AE33Bt+RQze2MvDA7GvK6hTFCbRWwl
+	R10e3tzGmbKMMixxIMeniCuq/BxBgrcnoUwivnetcYsvIyFWNHnqz4qDtGaOtsGTvoJNMA
+	qnPuNUm1CHMecNiXTpwkCnkYyKmnKi4Wmsp4vamtZyy0+XDciXx7niRV/r7G1T0fgAA0+G
+	SPREgp+gvslmV3lpHSkvO7yBpPkrHfp4VXDuc/dJ6S0r/ECAiML4YTimqff1Jt1k0CC9yx
+	uB5NlJxtmEBO3krrVLSoMO+tLO6TigKgSBAunVQPrU1dYy2YY1KpiytS2U7Wjg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=mailchannels.net;
+	s=arc-2022; t=1706167584;
+	h=from:from:reply-to:subject:subject:date:date:message-id:message-id:
+	 to:to:cc:mime-version:mime-version:content-type:content-type:
+	 content-transfer-encoding:content-transfer-encoding;
+	bh=47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=;
+	b=g5N/zj0K7YRFnlQVw47dXs/kflVBxgM7Xk2//QzDafVa7M++XIyv/nX0gGOrwa16rRca56
+	AI0rYG6m+oEdFK1OompoKR6yLEY4aO8IjSX1IwQAu351qSyp6N1vkOGzkZBltBhx3ARc2P
+	bnPATxDokZq0vcrnanMGaVMVDgqQn9dxNHwR8SK2fvRQNpWSCBifgYh7H8uTvA2kDZomVH
+	GzlYyR0TKUNM+sM61cDxHBiNUHX6sinWUfjTbY7dq4kwPfTbkBe8fvto3VjQdhxhBj00oa
+	0+1GvRXOEqBdhbRfMg29FafMP5DSTUwRa83GFHLi9W2grT3vfD9rblcB42HiVQ==
+ARC-Authentication-Results: i=1;
+	rspamd-5bfccdc57d-268g4;
+	auth=pass smtp.auth=hostingercpanel smtp.mailfrom=kanmodemo@uidesk.id
+X-Sender-Id: hostingercpanel|x-authenticated-sender|srv128.niagahoster.com:
+ kanmodemo@uidesk.id
+X-MC-Relay: Neutral
+X-MailChannels-SenderId:
+ hostingercpanel|x-authenticated-sender|srv128.niagahoster.com:
+ kanmodemo@uidesk.id
+X-MailChannels-Auth-Id: hostingercpanel
+X-Wiry-Illegal: 2836501c40b9fed5_1706167584774_1669570924
+X-MC-Loop-Signature: 1706167584774:3077386457
+X-MC-Ingress-Time: 1706167584773
+Received: from srv128.niagahoster.com (srv128.niagahoster.com
+ [109.106.252.101])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384)
+	by 100.110.105.71 (trex/6.9.2);
+	Thu, 25 Jan 2024 07:26:24 +0000
+Received: from [110.137.192.133] (port=9575 helo=desktop-5aspem0.domain)
+	by srv128.niagahoster.com with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.96.2)
+	(envelope-from <kanmodemo@uidesk.id>)
+	id 1rSu5T-0003TW-0f
+	for Akmalsajjo88@gmail.com;
+	Thu, 25 Jan 2024 14:23:47 +0700
+Message-ID: <64a3b664908a4920da22473003440d1c@uidesk.id>
+From: Kanmo <kanmodemo@uidesk.id>
+To: <Akmalsajjo88@gmail.com>
+Subject: #20240125022340078  Email Notification Ticket Create
+Date: Thu, 25 Jan 2024 14:23:38 +0700
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - srv128.niagahoster.com
+X-AntiAbuse: Original Domain - gmail.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - uidesk.id
+X-Get-Message-Sender-Via: srv128.niagahoster.com: authenticated_id: kanmodemo@uidesk.id
+X-Authenticated-Sender: srv128.niagahoster.com: kanmodemo@uidesk.id
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+

@@ -1,0 +1,54 @@
+Time: 15/11/2023 02:37:10:876 PM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'Rifna','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 02:37:10:915 PM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 02:37:11:171 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','Rifna','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 02:37:11:197 PM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='Rifna' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 02:37:11:198 PM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 156
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 15/11/2023 02:37:14:156 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Rifna', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 02:37:14:555 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Rifna','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 02:37:14:631 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Rifna', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 15/11/2023 02:37:14:992 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Rifna','UIDESK14'
+---------------------------Success-------------------------------------------------------
+

@@ -1,0 +1,556 @@
+{
+    "response": {
+        "status": {
+            "success": "true",
+            "code": 200,
+            "message": "Success",
+            "total": "1",
+            "success_count": "1"
+        },
+        "customers": {
+            "customer": [
+                {
+                    "firstname": "josereanto",
+                    "lastname": ".",
+                    "mobile": "628129144531",
+                    "email": "josereanto@yahoo.com",
+                    "external_id": "1000141",
+                    "lifetime_points": 7293,
+                    "lifetime_purchases": 3606580,
+                    "loyalty_points": 6779,
+                    "current_slab": "Inert",
+                    "registered_on": "2012-07-04 00:00:00",
+                    "updated_on": "2024-01-24 09:20:09",
+                    "type": "LOYALTY",
+                    "source": "instore",
+                    "identifiers": [],
+                    "gender": null,
+                    "registered_by": "Ecommerce",
+                    "registered_store": {
+                        "code": "kanmo.idn.nosubsidi.web",
+                        "name": "Ecommerce"
+                    },
+                    "registered_till": {
+                        "code": "kanmo.idn.nosubsidi.web",
+                        "name": "kanmo.idn.nosubsidi.web"
+                    },
+                    "user_groups2": [],
+                    "fraud_details": {
+                        "status": "NONE",
+                        "marked_by": "",
+                        "modified_on": "",
+                        "reason": ""
+                    },
+                    "trackers": "",
+                    "current_nps_status": null,
+                    "custom_fields": {
+                        "field": [
+                            {
+                                "name": "gender",
+                                "value": "M"
+                            },
+                            {
+                                "name": "birthday",
+                                "value": "2000-03-01"
+                            },
+                            {
+                                "name": "qr_reg",
+                                "value": "QR1"
+                            },
+                            {
+                                "name": "weight_childtwo",
+                                "value": ""
+                            },
+                            {
+                                "name": "weight_childthree",
+                                "value": ""
+                            },
+                            {
+                                "name": "weight_childone",
+                                "value": "A"
+                            },
+                            {
+                                "name": "title",
+                                "value": "Mr."
+                            },
+                            {
+                                "name": "subsidiary",
+                                "value": "No Subsidiary"
+                            },
+                            {
+                                "name": "social_media_account",
+                                "value": ""
+                            },
+                            {
+                                "name": "social_media",
+                                "value": ""
+                            },
+                            {
+                                "name": "register_remark",
+                                "value": ""
+                            },
+                            {
+                                "name": "province",
+                                "value": "N/A"
+                            },
+                            {
+                                "name": "pregnant_due",
+                                "value": "1900-01-01"
+                            },
+                            {
+                                "name": "occupation",
+                                "value": ""
+                            },
+                            {
+                                "name": "num_of_child",
+                                "value": ""
+                            },
+                            {
+                                "name": "name_child_two",
+                                "value": "Joanne Traciella"
+                            },
+                            {
+                                "name": "name_child_three",
+                                "value": ""
+                            },
+                            {
+                                "name": "name_child_one",
+                                "value": ""
+                            },
+                            {
+                                "name": "mobile_two",
+                                "value": ""
+                            },
+                            {
+                                "name": "membership_expiry",
+                                "value": "1900-01-01"
+                            },
+                            {
+                                "name": "longitude",
+                                "value": ""
+                            },
+                            {
+                                "name": "marital_status",
+                                "value": ""
+                            },
+                            {
+                                "name": "latitude",
+                                "value": ""
+                            },
+                            {
+                                "name": "justice_cust_type",
+                                "value": "0"
+                            },
+                            {
+                                "name": "is_staff",
+                                "value": "0"
+                            },
+                            {
+                                "name": "is_reseller",
+                                "value": "0"
+                            },
+                            {
+                                "name": "is_pregnant",
+                                "value": "yes"
+                            },
+                            {
+                                "name": "height_childtwo",
+                                "value": ""
+                            },
+                            {
+                                "name": "height_childthree",
+                                "value": ""
+                            },
+                            {
+                                "name": "height_childone",
+                                "value": ""
+                            },
+                            {
+                                "name": "gender_childtwo",
+                                "value": "female"
+                            },
+                            {
+                                "name": "gender_childthree",
+                                "value": ""
+                            },
+                            {
+                                "name": "gender_childone",
+                                "value": ""
+                            },
+                            {
+                                "name": "footsize_childtwo",
+                                "value": ""
+                            },
+                            {
+                                "name": "footsize_childthree",
+                                "value": ""
+                            },
+                            {
+                                "name": "footsize_childone",
+                                "value": ""
+                            },
+                            {
+                                "name": "first_sale_date",
+                                "value": "2012-07-04"
+                            },
+                            {
+                                "name": "dob_mom",
+                                "value": "1900-01-01 00:00:00"
+                            },
+                            {
+                                "name": "dob_child_two",
+                                "value": "02-09-2016"
+                            },
+                            {
+                                "name": "dob_child_three",
+                                "value": "1900-01-01"
+                            },
+                            {
+                                "name": "dob_child_one",
+                                "value": "1900-01-01"
+                            },
+                            {
+                                "name": "district",
+                                "value": "Kalideres"
+                            },
+                            {
+                                "name": "cvv",
+                                "value": ""
+                            },
+                            {
+                                "name": "customer_profile",
+                                "value": ""
+                            },
+                            {
+                                "name": "cust_uuid",
+                                "value": ""
+                            },
+                            {
+                                "name": "cust_sid",
+                                "value": "32248441"
+                            },
+                            {
+                                "name": "cust_id",
+                                "value": "52904338123"
+                            },
+                            {
+                                "name": "country_origin",
+                                "value": "INDONESIA"
+                            },
+                            {
+                                "name": "city",
+                                "value": "N/A"
+                            },
+                            {
+                                "name": "channel_preference",
+                                "value": ""
+                            },
+                            {
+                                "name": "auth_code",
+                                "value": "2K1t33"
+                            },
+                            {
+                                "name": "anniversary_date",
+                                "value": "1900-01-01 00:00:00"
+                            },
+                            {
+                                "name": "address_two",
+                                "value": ""
+                            },
+                            {
+                                "name": "address_one",
+                                "value": "Citra 5"
+                            },
+                            {
+                                "name": "address_one_home_one",
+                                "value": "Perumahan Citra Garden 5 Blok F4 no.16"
+                            },
+                            {
+                                "name": "address_one_home_two",
+                                "value": "Perumahan Citra Garden 5 Blok F4 no.16"
+                            },
+                            {
+                                "name": "address_two_home_one",
+                                "value": "Perumahan Budi Indah Jl. Pangranggo 3 blok I3 Sel no. 7, Perumahan Budi Indah Jl. Pangranggo 3 blok I3 Sel no. 7"
+                            },
+                            {
+                                "name": "address_two_home_two",
+                                "value": "Perumahan Budi Indah Jl. Pangranggo 3 blok I3 Sel no. 7, Perumahan Budi Indah Jl. Pangranggo 3 blok I3 Sel no. 7"
+                            },
+                            {
+                                "name": "city_one",
+                                "value": "Jakarta Barat"
+                            },
+                            {
+                                "name": "city_two",
+                                "value": "Tangerang"
+                            },
+                            {
+                                "name": "district_one",
+                                "value": "Kalideres"
+                            },
+                            {
+                                "name": "district_two",
+                                "value": "Batuceper"
+                            },
+                            {
+                                "name": "province_one",
+                                "value": "DKI Jakarta"
+                            },
+                            {
+                                "name": "province_two",
+                                "value": "Banten"
+                            },
+                            {
+                                "name": "price_level",
+                                "value": "4"
+                            },
+                            {
+                                "name": "average_qty",
+                                "value": "0"
+                            },
+                            {
+                                "name": "preference_lang",
+                                "value": "0"
+                            },
+                            {
+                                "name": "customer_group",
+                                "value": "Online"
+                            },
+                            {
+                                "name": "store_name",
+                                "value": "Ecommerce"
+                            },
+                            {
+                                "name": "gift_registry_status",
+                                "value": ""
+                            },
+                            {
+                                "name": "is_online",
+                                "value": "1"
+                            },
+                            {
+                                "name": "event",
+                                "value": "2019-01-17 00:00:00"
+                            },
+                            {
+                                "name": "last_sale_amount",
+                                "value": "668200.00"
+                            },
+                            {
+                                "name": "last_return_date",
+                                "value": "2013-10-10"
+                            },
+                            {
+                                "name": "last_sale_date",
+                                "value": "2019-01-11"
+                            },
+                            {
+                                "name": "last_twelve_mon_sale",
+                                "value": "641200.00"
+                            },
+                            {
+                                "name": "membership",
+                                "value": "Regular"
+                            },
+                            {
+                                "name": "register_channel",
+                                "value": ""
+                            },
+                            {
+                                "name": "brand_interest",
+                                "value": "Mothercare"
+                            }
+                        ]
+                    },
+                    "extended_fields": {
+                        "field": [
+                            {
+                                "name": "zip",
+                                "value": "QR1"
+                            },
+                            {
+                                "name": "area",
+                                "value": "N/A"
+                            },
+                            {
+                                "name": "child2_gender",
+                                "value": "Female"
+                            },
+                            {
+                                "name": "gender",
+                                "value": "Male"
+                            },
+                            {
+                                "name": "city",
+                                "value": "N/A"
+                            },
+                            {
+                                "name": "due_date",
+                                "value": "1900-01-01 05:21:10"
+                            },
+                            {
+                                "name": "child2_dob",
+                                "value": "2016-02-09 05:30:00"
+                            },
+                            {
+                                "name": "sub_area",
+                                "value": "Kalideres"
+                            },
+                            {
+                                "name": "wedding_date",
+                                "value": "1900-01-01 05:21:10"
+                            },
+                            {
+                                "name": "dob",
+                                "value": "2000-03-01 05:30:00"
+                            },
+                            {
+                                "name": "kid_status",
+                                "value": "yes"
+                            },
+                            {
+                                "name": "born_in",
+                                "value": "Indonesia"
+                            }
+                        ]
+                    },
+                    "transactions": {
+                        "transaction": [
+                            {
+                                "id": "319422076",
+                                "number": "967",
+                                "type": "REGULAR",
+                                "created_date": "2022-11-29 13:35:25",
+                                "store": "kanmo.idn.mothercare.88m.01"
+                            },
+                            {
+                                "id": "280024681",
+                                "number": "56776",
+                                "type": "REGULAR",
+                                "created_date": "2021-07-20 17:00:00",
+                                "store": "kanmo.idn.mothercare.rim"
+                            },
+                            {
+                                "id": "280005223",
+                                "number": "95491",
+                                "type": "REGULAR",
+                                "created_date": "2021-07-20 11:59:39",
+                                "store": "kanmo.idn.mothercare.klm"
+                            },
+                            {
+                                "id": "280003500",
+                                "number": "63142",
+                                "type": "REGULAR",
+                                "created_date": "2021-07-20 11:16:40",
+                                "store": "kanmo.idn.mothercare.phm"
+                            },
+                            {
+                                "id": "279865025",
+                                "number": "102702",
+                                "type": "REGULAR",
+                                "created_date": "2021-07-18 01:29:39",
+                                "store": "kanmo.idn.elc.web"
+                            },
+                            {
+                                "id": "141326378",
+                                "number": "275157-131",
+                                "type": "REGULAR",
+                                "created_date": "2019-01-11 00:35:10",
+                                "store": "kanmo.idn.mothercare.995"
+                            },
+                            {
+                                "id": "106645501",
+                                "number": "6788260740463919095",
+                                "type": "REGULAR",
+                                "created_date": "2018-05-12 00:00:00",
+                                "store": "kanmo.idn.mothercare.web"
+                            },
+                            {
+                                "id": "85124862",
+                                "number": "292994382865824540",
+                                "type": "REGULAR",
+                                "created_date": "2016-11-08 00:00:00",
+                                "store": "kanmo.idn.mothercare.web"
+                            },
+                            {
+                                "id": "84941505",
+                                "number": "-66836194729502121",
+                                "type": "REGULAR",
+                                "created_date": "2016-08-04 00:00:00",
+                                "store": "kanmo.idn.mothercare.web"
+                            },
+                            {
+                                "id": "83965007",
+                                "number": "-2618814589896188701",
+                                "type": "REGULAR",
+                                "created_date": "2014-09-29 00:00:00",
+                                "store": "kanmo.idn.mothercare.web"
+                            },
+                            {
+                                "id": "4917073",
+                                "number": "620-524",
+                                "type": "RETURN",
+                                "created_date": "2021-08-02 22:04:39",
+                                "store": "kanmo.idn.admin1"
+                            },
+                            {
+                                "id": "4917068",
+                                "number": "617-524",
+                                "type": "RETURN",
+                                "created_date": "2021-08-02 21:58:06",
+                                "store": "kanmo.idn.admin1"
+                            }
+                        ]
+                    },
+                    "coupons": {
+                        "coupon": [
+                            {
+                                "id": "318350221",
+                                "series_id": "26160",
+                                "code": "5904P0U",
+                                "description": "DM2250_EL_AAELCMCGIFT5_RB",
+                                "created_date": "2022-11-16 14:31:41",
+                                "valid_till": "2022-11-27 23:59:59",
+                                "redeemed": "false",
+                                "same_user_multiple_redeem": "false"
+                            },
+                            {
+                                "id": "318324568",
+                                "series_id": "26159",
+                                "code": "JC4LM5J0",
+                                "description": "DM2249_EL_AAELCMCGIFT4_RB",
+                                "created_date": "2022-11-16 14:00:42",
+                                "valid_till": "2022-11-27 23:59:59",
+                                "redeemed": "false",
+                                "same_user_multiple_redeem": "false"
+                            },
+                            {
+                                "id": "52126831",
+                                "series_id": "9670",
+                                "code": "WELCOME",
+                                "description": "NESPRESSO_KANMO_WELCOME_OFFER",
+                                "created_date": "2019-05-09 09:14:17",
+                                "valid_till": "2033-12-31 23:59:59",
+                                "redeemed": "false",
+                                "same_user_multiple_redeem": "true"
+                            }
+                        ]
+                    },
+                    "notes": [],
+                    "points_summaries": {
+                        "points_summary": []
+                    },
+                    "item_status": {
+                        "success": "true",
+                        "code": "1000",
+                        "message": "Customer successfully retrieved",
+                        "warnings": {
+                            "warning": []
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

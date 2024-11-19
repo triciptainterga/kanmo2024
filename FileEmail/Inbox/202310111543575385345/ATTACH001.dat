@@ -1,0 +1,10 @@
+Reporting-MTA: dns; mx294.antispamcloud.com
+
+Action: failed
+Final-Recipient: rfc822;resturamahika@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does not exist. Please try
+ 550-5.1.1 double-checking the recipient's email address for typos or
+ 550-5.1.1 unnecessary spaces. Learn more at
+ 550 5.1.1  https://support.google.com/mail/?p=NoSuchUser w26-20020a17090633da00b009adf712770bsi6473898eja.432 - gsmtp

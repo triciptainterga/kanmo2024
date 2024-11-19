@@ -1,0 +1,14 @@
+Reporting-MTA: dns; relay.mailchannels.net
+X-Postfix-Queue-ID: AE6922C228C
+X-Postfix-Sender: rfc822; kanmodemo@uidesk.id
+Arrival-Date: Thu, 25 Jan 2024 05:25:53 +0000 (UTC)
+
+Final-Recipient: rfc822; gading@gmail.com
+Original-Recipient: rfc822;gading@gmail.com
+Action: failed
+Status: 5.2.2
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 552-5.2.2 The recipient's inbox is out of storage space
+    and inactive. Please 552-5.2.2 direct the recipient to 552 5.2.2
+    https://support.google.com/mail/?p=OverQuotaPerm
+    bw9-20020a056a00408900b006ddca9a6841si555705pfb.17 - gsmtp

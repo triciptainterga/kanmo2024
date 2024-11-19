@@ -1,0 +1,420 @@
+Time: 29/09/2023 07.17.08.787 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentkanmosocialmedia1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.17.08.835 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentkanmosocialmedia1' And Url='2_taskboard.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.17.09.769 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentkanmosocialmedia1', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.17.09.797 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentkanmosocialmedia1', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.17.10.309 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.17.10.809 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.17.14.802 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentkanmosocialmedia1' And Url='3_Channel_Multichat.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.17.15.774 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.17.16.274 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.17.17.258 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentkanmosocialmedia1' And Url='3_Channel_Multichat.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.17.17.855 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.17.17.859 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.21.50.911 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentkanmosocialmedia1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.21.50.951 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentkanmosocialmedia1' And Url='2_taskboard.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.21.51.290 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentkanmosocialmedia1', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.21.51.326 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentkanmosocialmedia1', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.21.51.819 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.21.52.329 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.21.57.682 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentkanmosocialmedia1' And Url='3_Channel_Multichat.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.21.58.146 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.21.58.648 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.21.59.310 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentkanmosocialmedia1' And Url='3_Channel_Multichat.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.22.00.290 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.22.00.793 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.22.40.553 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentkanmosocialmedia1' And Url='3_Channel_Multichat.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.22.40.963 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 07.22.41.470 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.18.28.290 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentkanmosocialmedia1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.18.28.331 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentkanmosocialmedia1' And Url='2_taskboard.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.18.28.798 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentkanmosocialmedia1', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.18.28.814 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.18.29.315 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentkanmosocialmedia1', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.18.29.818 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.18.33.975 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentkanmosocialmedia1' And Url='3_Channel_Multichat.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.18.34.923 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.18.35.444 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentkanmosocialmedia1' And Url='3_Channel_Multichat.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.18.35.861 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.18.36.363 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.18.49.900 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentkanmosocialmedia1' And Url='3_Channel_Multichat.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.18.50.191 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.18.50.692 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.18.52.928 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentkanmosocialmedia1' And Url='3_Channel_Multichat.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.18.53.171 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.18.53.675 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.19.01.331 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentkanmosocialmedia1' And Url='3_Channel_Multichat.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.19.01.595 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.19.02.100 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.19.17.472 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentkanmosocialmedia1' And Url='3_Channel_Multichat.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.19.17.766 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.19.18.269 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.19.32.645 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentkanmosocialmedia1' And Url='3_Channel_Multichat.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.19.32.920 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.19.33.423 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.21.34.042 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentkanmosocialmedia1' And Url='3_Channel_Multichat.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.21.34.342 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.21.34.842 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.10.763 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentkanmosocialmedia1' And Url='1_doticket.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.11.264 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','agentkanmosocialmedia1','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.11.267 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.11.278 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','agentkanmosocialmedia1','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.11.285 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','agentkanmosocialmedia1','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.11.296 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.11.357 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.11.769 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.11.791 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.11.874 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.12.283 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.12.302 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.12.802 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK306'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.31.260 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT * FROM USER_SettingChannel Where UserName='agentkanmosocialmedia1' And Url='1_doticket.aspx'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.31.552 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','agentkanmosocialmedia1','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.31.563 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.31.568 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.31.572 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','agentkanmosocialmedia1','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.31.630 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.31.662 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '230831125709','UideskIndonesia','agentkanmosocialmedia1','UIDESK313'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.32.053 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.32.063 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','agentkanmosocialmedia1','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.32.079 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK306'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.32.145 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentkanmosocialmedia1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.32.566 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.32.586 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.33.065 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentkanmosocialmedia1','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/09/2023 08.22.53.039 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','agentkanmosocialmedia1','Insert'
+---------------------------Success-------------------------------------------------------
+

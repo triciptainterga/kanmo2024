@@ -1,0 +1,380 @@
+Time: 29/05/2024 12:07:51:237 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:07:51:283 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:07:51:350 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:07:51:441 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:08:03:405 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:08:03:623 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:08:03:662 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:08:03:797 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:08:03:886 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:08:03:946 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:08:03:993 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:08:04:095 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudF9pZCI6NDA1MSwidXNlcl9pZCI6MjA3MywiYWNjb3VudF9pZCI6Mzg3MCwibmFtZSI6IlVJRGVzayIsImVtYWlsIjoic2EtMjA3My1GWUdUSi4xNzE2NzgxNDYyQGlhbS5iYW50dWRhZ2FuZy5jb20iLCJhZ2VudF90eXBlIjoic2VydmljZV9hY2NvdW50Iiwic3RvcmVfcmVzdHJpY3RlZCI6MCwic3RvcmVzIjpbIlRLUEQtNjg1NzY0MyIsIlRLUEQtNzk4NTA2MiIsIlNIUEUtNjQ4NzQ5OTIiLCJTSFBFLTYxNTE2MjA3IiwiTFpEQS0yNTE4OSIsIlRLUEQtODEwMjU0MSIsIlNIUEUtMjgyMDQ5NjIxIiwiVEtQRC0xMTU2MDcwMyIsIlRLUEQtOTk1Nzc5MCIsIlRLUEQtOTI4Njk2NSIsIlRLUEQtNjA5MDk2MiIsIlRLUEQtOTE3MzgwOSIsIlRLUEQtMTMzMTkxMDMiLCJUS1BELTEyMDk1MDY2IiwiVEtQRC0xMzgyNDM3MSIsIlRLUEQtODMyODkzMSIsIlNIUEUtODU0NzM5NjAiLCJUS1BELTEzMTQ3NDE0IiwiU0hQRS05NzI5MTE0NSIsIlRLUEQtODkyMzc4MyIsIlNIUEUtMTE3OTI1Njk0IiwiVEtQRC0zODU5NjAxIiwiU0hQRS0yMjU3MTA2MTYiLCJTSFBFLTIyMTYwMjYxOSIsIlRLUEQtNzE2NjgwMSIsIlNIUEUtMzI1MjQwNTU2IiwiVEtQRC05NzMxNjAzIiwiVEtQRC0xNDQzNjAwNiIsIlNIUEUtMjQyNTg2MDg3IiwiU0hQRS0yNDAyMjk3NjIiLCJUS1BELTExMTM5MDg1IiwiU0hQRS0zMjgyODQ3NDIiLCJTSFBFLTI4MTk0MjU2MyIsIlNIUEUtMzczNTQwNjg3IiwiU0hQRS0yOTQ5MzQyNDAiLCJTSFBFLTQ3NDU1OTQ1NCIsIlNIUEUtMzc0OTI3OTQzIiwiVEtQRC0xNTUwOTM4OCIsIlNIUEUtNDIxNjUzODc1IiwiVEtQRC0xNTY1NTYyMCIsIlNIUEUtNzE5MTg4NDc4IiwiVEtQRC0xNTYwNzgyOCIsIlNIUEUtNzc4MDYzOTA3IiwiU0hQRS05OTYyNTMxNDQiLCJTSFBFLTk3MDEzNTY4MSIsIlNIUEUtODg2MTkyNzA5IiwiTFpEQS00MDExOTU5MjAxOTEiLCJMWkRBLTQwMTE5NTU1Mjg4MiIsIkxaREEtNDAxMTk2MDQ4Mzc2IiwiTFpEQS00MDExOTU5Njg0NzEiLCJMWkRBLTQwMTE5NTYzMjk4NSIsIkxaREEtNDAwNjExNjA2MjA2IiwiVEtQRC0xNjI2NDEwOCIsIlNIUEUtMzIyNjIwNzM3IiwiTFpEQS00MDE3ODA1MjgzNjciLCJMWkRBLTQwMTYyNzAwODc1NyIsIlRLUEQtNDkyNjYxMSIsIlRLUEQtMTEwMjc5MTgiLCJUS1BELTgxNzQ2MTQiLCJTSFBFLTQxOTI1NzE0MSIsIlNIUEUtMTA1ODc0NTAwNiIsIlNIUEUtOTgwMDg4MTUzIiwiTFpEQS00MDE0NTMyNDgwMTAiLCJMWkRBLTQwMDcwNzAzOTY5NiIsIkxaREEtNDAxNjEwMTkyMzgzIiwiTFpEQS00MDE1OTIwMTYwMTQiLCJMWkRBLTQwMTE5NjU0NDI3MSIsIkxaREEtNDAxMTk2NTYwMTYxIiwiTFpEQS00MDA1OTA1MTY0MjAiLCJUS1RLLTc0OTQ3NTM1MDMwMzg1MDc3MzQiLCJUS1BELTE3Mjk5ODEwIiwiU0hQRS0xMjAyMDg2MTk4IiwiTFpEQS00MDE5MDEwODg2MjciLCJUS1RLLTc0OTQ2MDMzNDAzMDM5Mjc0OTEiXSwicHJpdmlsZWdlIjpbXSwibWVtYmVyc2hpcCI6eyJwYWNrYWdlX25hbWUiOiJQUk8iLCJtZW1iZXJzaGlwX2VuZCI6IjIwMjQtMDYtMzBUMTc6MDA6MDAuMDAwWiIsImFjdGl2ZSI6MSwibWF4X3N0b3JlIjo3NiwibWF4X2VtcGxveWVlIjoxNywibWF4X29yZGVyIjotMSwib3JkZXJfbXRkIjowfSwiYWdlbnRfYWxpYXMiOiIiLCJzZXNzaW9uX2VuZCI6IjIwMjQtMDctMjggMDU6MDg6MDQiLCJpYXQiOjE3MTY5NTkyODQsImV4cCI6MTcxNjk2Mjg4NH0.EOZlR_YA60i-Xsakv_bhqIbiKxpfb5Zfi9F52XiyJG8','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:08:04:199 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:11:21:273 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:11:21:274 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:11:21:294 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:11:21:419 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:11:30:832 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:11:31:017 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:11:31:147 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:11:31:205 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:11:31:238 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:11:31:350 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:11:31:435 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:11:31:493 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudF9pZCI6NDA1MSwidXNlcl9pZCI6MjA3MywiYWNjb3VudF9pZCI6Mzg3MCwibmFtZSI6IlVJRGVzayIsImVtYWlsIjoic2EtMjA3My1GWUdUSi4xNzE2NzgxNDYyQGlhbS5iYW50dWRhZ2FuZy5jb20iLCJhZ2VudF90eXBlIjoic2VydmljZV9hY2NvdW50Iiwic3RvcmVfcmVzdHJpY3RlZCI6MCwic3RvcmVzIjpbIlRLUEQtNjg1NzY0MyIsIlRLUEQtNzk4NTA2MiIsIlNIUEUtNjQ4NzQ5OTIiLCJTSFBFLTYxNTE2MjA3IiwiTFpEQS0yNTE4OSIsIlRLUEQtODEwMjU0MSIsIlNIUEUtMjgyMDQ5NjIxIiwiVEtQRC0xMTU2MDcwMyIsIlRLUEQtOTk1Nzc5MCIsIlRLUEQtOTI4Njk2NSIsIlRLUEQtNjA5MDk2MiIsIlRLUEQtOTE3MzgwOSIsIlRLUEQtMTMzMTkxMDMiLCJUS1BELTEyMDk1MDY2IiwiVEtQRC0xMzgyNDM3MSIsIlRLUEQtODMyODkzMSIsIlNIUEUtODU0NzM5NjAiLCJUS1BELTEzMTQ3NDE0IiwiU0hQRS05NzI5MTE0NSIsIlRLUEQtODkyMzc4MyIsIlNIUEUtMTE3OTI1Njk0IiwiVEtQRC0zODU5NjAxIiwiU0hQRS0yMjU3MTA2MTYiLCJTSFBFLTIyMTYwMjYxOSIsIlRLUEQtNzE2NjgwMSIsIlNIUEUtMzI1MjQwNTU2IiwiVEtQRC05NzMxNjAzIiwiVEtQRC0xNDQzNjAwNiIsIlNIUEUtMjQyNTg2MDg3IiwiU0hQRS0yNDAyMjk3NjIiLCJUS1BELTExMTM5MDg1IiwiU0hQRS0zMjgyODQ3NDIiLCJTSFBFLTI4MTk0MjU2MyIsIlNIUEUtMzczNTQwNjg3IiwiU0hQRS0yOTQ5MzQyNDAiLCJTSFBFLTQ3NDU1OTQ1NCIsIlNIUEUtMzc0OTI3OTQzIiwiVEtQRC0xNTUwOTM4OCIsIlNIUEUtNDIxNjUzODc1IiwiVEtQRC0xNTY1NTYyMCIsIlNIUEUtNzE5MTg4NDc4IiwiVEtQRC0xNTYwNzgyOCIsIlNIUEUtNzc4MDYzOTA3IiwiU0hQRS05OTYyNTMxNDQiLCJTSFBFLTk3MDEzNTY4MSIsIlNIUEUtODg2MTkyNzA5IiwiTFpEQS00MDExOTU5MjAxOTEiLCJMWkRBLTQwMTE5NTU1Mjg4MiIsIkxaREEtNDAxMTk2MDQ4Mzc2IiwiTFpEQS00MDExOTU5Njg0NzEiLCJMWkRBLTQwMTE5NTYzMjk4NSIsIkxaREEtNDAwNjExNjA2MjA2IiwiVEtQRC0xNjI2NDEwOCIsIlNIUEUtMzIyNjIwNzM3IiwiTFpEQS00MDE3ODA1MjgzNjciLCJMWkRBLTQwMTYyNzAwODc1NyIsIlRLUEQtNDkyNjYxMSIsIlRLUEQtMTEwMjc5MTgiLCJUS1BELTgxNzQ2MTQiLCJTSFBFLTQxOTI1NzE0MSIsIlNIUEUtMTA1ODc0NTAwNiIsIlNIUEUtOTgwMDg4MTUzIiwiTFpEQS00MDE0NTMyNDgwMTAiLCJMWkRBLTQwMDcwNzAzOTY5NiIsIkxaREEtNDAxNjEwMTkyMzgzIiwiTFpEQS00MDE1OTIwMTYwMTQiLCJMWkRBLTQwMTE5NjU0NDI3MSIsIkxaREEtNDAxMTk2NTYwMTYxIiwiTFpEQS00MDA1OTA1MTY0MjAiLCJUS1RLLTc0OTQ3NTM1MDMwMzg1MDc3MzQiLCJUS1BELTE3Mjk5ODEwIiwiU0hQRS0xMjAyMDg2MTk4IiwiTFpEQS00MDE5MDEwODg2MjciLCJUS1RLLTc0OTQ2MDMzNDAzMDM5Mjc0OTEiXSwicHJpdmlsZWdlIjpbXSwibWVtYmVyc2hpcCI6eyJwYWNrYWdlX25hbWUiOiJQUk8iLCJtZW1iZXJzaGlwX2VuZCI6IjIwMjQtMDYtMzBUMTc6MDA6MDAuMDAwWiIsImFjdGl2ZSI6MSwibWF4X3N0b3JlIjo3NiwibWF4X2VtcGxveWVlIjoxNywibWF4X29yZGVyIjotMSwib3JkZXJfbXRkIjowfSwiYWdlbnRfYWxpYXMiOiIiLCJzZXNzaW9uX2VuZCI6IjIwMjQtMDctMjggMDU6MTE6MzEiLCJpYXQiOjE3MTY5NTk0OTEsImV4cCI6MTcxNjk2MzA5MX0.lLlMgFMORBUGxqIOdsRRmOM6yrdpxM2LGyW0vphtBrA','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:11:31:558 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:12:51:401 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:12:51:874 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:13:06:902 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:13:07:199 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:13:07:254 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:13:07:302 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:13:07:403 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:13:07:518 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:13:07:609 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:13:07:792 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:13:07:821 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:13:07:913 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:13:08:009 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:13:08:221 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudF9pZCI6NDA1MSwidXNlcl9pZCI6MjA3MywiYWNjb3VudF9pZCI6Mzg3MCwibmFtZSI6IlVJRGVzayIsImVtYWlsIjoic2EtMjA3My1GWUdUSi4xNzE2NzgxNDYyQGlhbS5iYW50dWRhZ2FuZy5jb20iLCJhZ2VudF90eXBlIjoic2VydmljZV9hY2NvdW50Iiwic3RvcmVfcmVzdHJpY3RlZCI6MCwic3RvcmVzIjpbIlRLUEQtNjg1NzY0MyIsIlRLUEQtNzk4NTA2MiIsIlNIUEUtNjQ4NzQ5OTIiLCJTSFBFLTYxNTE2MjA3IiwiTFpEQS0yNTE4OSIsIlRLUEQtODEwMjU0MSIsIlNIUEUtMjgyMDQ5NjIxIiwiVEtQRC0xMTU2MDcwMyIsIlRLUEQtOTk1Nzc5MCIsIlRLUEQtOTI4Njk2NSIsIlRLUEQtNjA5MDk2MiIsIlRLUEQtOTE3MzgwOSIsIlRLUEQtMTMzMTkxMDMiLCJUS1BELTEyMDk1MDY2IiwiVEtQRC0xMzgyNDM3MSIsIlRLUEQtODMyODkzMSIsIlNIUEUtODU0NzM5NjAiLCJUS1BELTEzMTQ3NDE0IiwiU0hQRS05NzI5MTE0NSIsIlRLUEQtODkyMzc4MyIsIlNIUEUtMTE3OTI1Njk0IiwiVEtQRC0zODU5NjAxIiwiU0hQRS0yMjU3MTA2MTYiLCJTSFBFLTIyMTYwMjYxOSIsIlRLUEQtNzE2NjgwMSIsIlNIUEUtMzI1MjQwNTU2IiwiVEtQRC05NzMxNjAzIiwiVEtQRC0xNDQzNjAwNiIsIlNIUEUtMjQyNTg2MDg3IiwiU0hQRS0yNDAyMjk3NjIiLCJUS1BELTExMTM5MDg1IiwiU0hQRS0zMjgyODQ3NDIiLCJTSFBFLTI4MTk0MjU2MyIsIlNIUEUtMzczNTQwNjg3IiwiU0hQRS0yOTQ5MzQyNDAiLCJTSFBFLTQ3NDU1OTQ1NCIsIlNIUEUtMzc0OTI3OTQzIiwiVEtQRC0xNTUwOTM4OCIsIlNIUEUtNDIxNjUzODc1IiwiVEtQRC0xNTY1NTYyMCIsIlNIUEUtNzE5MTg4NDc4IiwiVEtQRC0xNTYwNzgyOCIsIlNIUEUtNzc4MDYzOTA3IiwiU0hQRS05OTYyNTMxNDQiLCJTSFBFLTk3MDEzNTY4MSIsIlNIUEUtODg2MTkyNzA5IiwiTFpEQS00MDExOTU5MjAxOTEiLCJMWkRBLTQwMTE5NTU1Mjg4MiIsIkxaREEtNDAxMTk2MDQ4Mzc2IiwiTFpEQS00MDExOTU5Njg0NzEiLCJMWkRBLTQwMTE5NTYzMjk4NSIsIkxaREEtNDAwNjExNjA2MjA2IiwiVEtQRC0xNjI2NDEwOCIsIlNIUEUtMzIyNjIwNzM3IiwiTFpEQS00MDE3ODA1MjgzNjciLCJMWkRBLTQwMTYyNzAwODc1NyIsIlRLUEQtNDkyNjYxMSIsIlRLUEQtMTEwMjc5MTgiLCJUS1BELTgxNzQ2MTQiLCJTSFBFLTQxOTI1NzE0MSIsIlNIUEUtMTA1ODc0NTAwNiIsIlNIUEUtOTgwMDg4MTUzIiwiTFpEQS00MDE0NTMyNDgwMTAiLCJMWkRBLTQwMDcwNzAzOTY5NiIsIkxaREEtNDAxNjEwMTkyMzgzIiwiTFpEQS00MDE1OTIwMTYwMTQiLCJMWkRBLTQwMTE5NjU0NDI3MSIsIkxaREEtNDAxMTk2NTYwMTYxIiwiTFpEQS00MDA1OTA1MTY0MjAiLCJUS1RLLTc0OTQ3NTM1MDMwMzg1MDc3MzQiLCJUS1BELTE3Mjk5ODEwIiwiU0hQRS0xMjAyMDg2MTk4IiwiTFpEQS00MDE5MDEwODg2MjciLCJUS1RLLTc0OTQ2MDMzNDAzMDM5Mjc0OTEiXSwicHJpdmlsZWdlIjpbXSwibWVtYmVyc2hpcCI6eyJwYWNrYWdlX25hbWUiOiJQUk8iLCJtZW1iZXJzaGlwX2VuZCI6IjIwMjQtMDYtMzBUMTc6MDA6MDAuMDAwWiIsImFjdGl2ZSI6MSwibWF4X3N0b3JlIjo3NiwibWF4X2VtcGxveWVlIjoxNywibWF4X29yZGVyIjotMSwib3JkZXJfbXRkIjowfSwiYWdlbnRfYWxpYXMiOiIiLCJzZXNzaW9uX2VuZCI6IjIwMjQtMDctMjggMDU6MTM6MDgiLCJpYXQiOjE3MTY5NTk1ODgsImV4cCI6MTcxNjk2MzE4OH0.q1-lZcVCsopcEFYyodh5GW3FbQ1fu6e4bHo-El5OW8E','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:13:08:375 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:13:31:963 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:19:02:757 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:19:02:844 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:19:02:869 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:19:03:042 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:19:16:858 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:19:17:159 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:19:17:265 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:19:17:318 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:19:17:351 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:19:17:530 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:19:17:574 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:19:17:639 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudF9pZCI6NDA1MSwidXNlcl9pZCI6MjA3MywiYWNjb3VudF9pZCI6Mzg3MCwibmFtZSI6IlVJRGVzayIsImVtYWlsIjoic2EtMjA3My1GWUdUSi4xNzE2NzgxNDYyQGlhbS5iYW50dWRhZ2FuZy5jb20iLCJhZ2VudF90eXBlIjoic2VydmljZV9hY2NvdW50Iiwic3RvcmVfcmVzdHJpY3RlZCI6MCwic3RvcmVzIjpbIlRLUEQtNjg1NzY0MyIsIlRLUEQtNzk4NTA2MiIsIlNIUEUtNjQ4NzQ5OTIiLCJTSFBFLTYxNTE2MjA3IiwiTFpEQS0yNTE4OSIsIlRLUEQtODEwMjU0MSIsIlNIUEUtMjgyMDQ5NjIxIiwiVEtQRC0xMTU2MDcwMyIsIlRLUEQtOTk1Nzc5MCIsIlRLUEQtOTI4Njk2NSIsIlRLUEQtNjA5MDk2MiIsIlRLUEQtOTE3MzgwOSIsIlRLUEQtMTMzMTkxMDMiLCJUS1BELTEyMDk1MDY2IiwiVEtQRC0xMzgyNDM3MSIsIlRLUEQtODMyODkzMSIsIlNIUEUtODU0NzM5NjAiLCJUS1BELTEzMTQ3NDE0IiwiU0hQRS05NzI5MTE0NSIsIlRLUEQtODkyMzc4MyIsIlNIUEUtMTE3OTI1Njk0IiwiVEtQRC0zODU5NjAxIiwiU0hQRS0yMjU3MTA2MTYiLCJTSFBFLTIyMTYwMjYxOSIsIlRLUEQtNzE2NjgwMSIsIlNIUEUtMzI1MjQwNTU2IiwiVEtQRC05NzMxNjAzIiwiVEtQRC0xNDQzNjAwNiIsIlNIUEUtMjQyNTg2MDg3IiwiU0hQRS0yNDAyMjk3NjIiLCJUS1BELTExMTM5MDg1IiwiU0hQRS0zMjgyODQ3NDIiLCJTSFBFLTI4MTk0MjU2MyIsIlNIUEUtMzczNTQwNjg3IiwiU0hQRS0yOTQ5MzQyNDAiLCJTSFBFLTQ3NDU1OTQ1NCIsIlNIUEUtMzc0OTI3OTQzIiwiVEtQRC0xNTUwOTM4OCIsIlNIUEUtNDIxNjUzODc1IiwiVEtQRC0xNTY1NTYyMCIsIlNIUEUtNzE5MTg4NDc4IiwiVEtQRC0xNTYwNzgyOCIsIlNIUEUtNzc4MDYzOTA3IiwiU0hQRS05OTYyNTMxNDQiLCJTSFBFLTk3MDEzNTY4MSIsIlNIUEUtODg2MTkyNzA5IiwiTFpEQS00MDExOTU5MjAxOTEiLCJMWkRBLTQwMTE5NTU1Mjg4MiIsIkxaREEtNDAxMTk2MDQ4Mzc2IiwiTFpEQS00MDExOTU5Njg0NzEiLCJMWkRBLTQwMTE5NTYzMjk4NSIsIkxaREEtNDAwNjExNjA2MjA2IiwiVEtQRC0xNjI2NDEwOCIsIlNIUEUtMzIyNjIwNzM3IiwiTFpEQS00MDE3ODA1MjgzNjciLCJMWkRBLTQwMTYyNzAwODc1NyIsIlRLUEQtNDkyNjYxMSIsIlRLUEQtMTEwMjc5MTgiLCJUS1BELTgxNzQ2MTQiLCJTSFBFLTQxOTI1NzE0MSIsIlNIUEUtMTA1ODc0NTAwNiIsIlNIUEUtOTgwMDg4MTUzIiwiTFpEQS00MDE0NTMyNDgwMTAiLCJMWkRBLTQwMDcwNzAzOTY5NiIsIkxaREEtNDAxNjEwMTkyMzgzIiwiTFpEQS00MDE1OTIwMTYwMTQiLCJMWkRBLTQwMTE5NjU0NDI3MSIsIkxaREEtNDAxMTk2NTYwMTYxIiwiTFpEQS00MDA1OTA1MTY0MjAiLCJUS1RLLTc0OTQ3NTM1MDMwMzg1MDc3MzQiLCJUS1BELTE3Mjk5ODEwIiwiU0hQRS0xMjAyMDg2MTk4IiwiTFpEQS00MDE5MDEwODg2MjciLCJUS1RLLTc0OTQ2MDMzNDAzMDM5Mjc0OTEiXSwicHJpdmlsZWdlIjpbXSwibWVtYmVyc2hpcCI6eyJwYWNrYWdlX25hbWUiOiJQUk8iLCJtZW1iZXJzaGlwX2VuZCI6IjIwMjQtMDYtMzBUMTc6MDA6MDAuMDAwWiIsImFjdGl2ZSI6MSwibWF4X3N0b3JlIjo3NiwibWF4X2VtcGxveWVlIjoxNywibWF4X29yZGVyIjotMSwib3JkZXJfbXRkIjowfSwiYWdlbnRfYWxpYXMiOiIiLCJzZXNzaW9uX2VuZCI6IjIwMjQtMDctMjggMDU6MTk6MTciLCJpYXQiOjE3MTY5NTk5NTcsImV4cCI6MTcxNjk2MzU1N30.fD9GyudSgmktzYsO04Gl7RQdfgkOyvzT8qSlFTaHkEQ','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:19:17:763 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:20:47:241 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:21:16:452 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken '','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:22:11:264 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:22:11:265 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:22:11:320 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:22:11:856 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:22:39:783 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:22:39:783 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:22:39:787 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:22:39:943 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:22:45:550 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:22:45:550 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 12:22:45:558 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 01:44:21:729 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 01:44:21:970 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 01:44:21:973 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 01:44:22:247 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 04:01:35:432 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 04:01:35:462 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 04:01:35:497 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/05/2024 04:01:35:513 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi ''
+---------------------------Success-------------------------------------------------------
+

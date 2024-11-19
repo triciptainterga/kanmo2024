@@ -1,0 +1,2860 @@
+Time: 27/01/2024 11:27:31:185 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','Najla_Nadira','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:31:772 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Najla_Nadira', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:32:304 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Najla_Nadira', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:32:704 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:33:469 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:35:893 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','Najla_Nadira','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:35:907 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:35:918 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','Najla_Nadira','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:35:967 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:35:979 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:36:021 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:37:384 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:37:413 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:37:924 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','Najla_Nadira','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:38:429 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:38:932 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:39:940 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'sams','UideskIndonesia','Najla_Nadira','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:40:302 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'samsu','UideskIndonesia','Najla_Nadira','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:41:832 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Najla_Nadira','GETDATABRAND'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:41:874 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Najla_Nadira','UIDESK313'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:47:871 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:48:374 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:48:999 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00002','UideskIndonesia','Najla_Nadira','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:49:517 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00002','UideskIndonesia','Najla_Nadira','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:50:946 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '31','UideskIndonesia','Najla_Nadira','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:56:079 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00005','BRA-00002','Najla_Nadira','UIDESK332'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:57:495 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT3-00031','UideskIndonesia','Najla_Nadira','UIDESK314'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:27:57:518 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '1078','UideskIndonesia','Najla_Nadira','UIDESK311'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:28:11:628 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00002','UideskIndonesia','Najla_Nadira','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:28:11:652 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT1-00040','UideskIndonesia','Najla_Nadira','UIDESK309'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:28:11:853 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Najla_Nadira','UIDESK321'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:28:12:133 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '31','UideskIndonesia','Najla_Nadira','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:28:12:159 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT2-00070','UideskIndonesia','Najla_Nadira','UIDESK310'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:28:12:641 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00005','BRA-00002','Najla_Nadira','UIDESK332'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:28:12:660 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT3-00031','UideskIndonesia','Najla_Nadira','UIDESK314'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:28:12:675 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '1078','UideskIndonesia','Najla_Nadira','UIDESK311'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:28:13:110 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Insert_Transaction '240124080933','20240127112812891','Email','BRA-00002','CAT-00005','CT1-00040','CT2-00070','CT3-00031','','<p>ADE</p>
+','2','Open','Najla_Nadira','202401271128128919184734','SAMSU%20RIZAL','rizalsamsurizal708@gmail.com','','','-','','Tiktok Shop','Case Follow Up','CT3-00031','Email','2024-01-27T11:27','31','1','Najla_Nadira','1078','1','202401271128128919184734', '20240127112812891918473505', '-','0','-','Coach'
+Message: An explicit value for the identity column in table 'TR_THREAD_ARCHIVE' can only be specified when a column list is used and IDENTITY_INSERT is ON.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.WebServiceTransaction.Insert_TransactionTicket(String TrxUsername, String TrxCustomerID, String TxtThreadID, String TxtAccount, String TrxPelapor, String TrxPelaporEmail, String TrxPelaporPhone, String TrxPelaporAddress, String TrxKejadian, String TrxPenyebab, String TrxPenerimaPengaduan, String TrxStatusPelapor, String TrxSkalaPrioritas, String TrxJenisNasabah, String TrxNomorRekening, String TrxSumberInformasi, String TrxBrand, String TrxCategory, String TrxLevel1, String TrxLevel2, String TrxLevel3, String TrxComplaint, String TrxResponse, String TrxChannel, String TrxStatus, String TrxEskalasi, String TrxSLA, String TrxExtendCategory, String TrxLayer, String TrxThreadID, String TrxGenesysID, String TxtContactID, String TrxIDchannel, String TrxProductName) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\WebServiceTransaction.asmx.vb:line 490
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 27/01/2024 11:28:13:281 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Insert_Transaction '240124080933','20240127112812891','Email','BRA-00002','CAT-00005','CT1-00040','CT2-00070','CT3-00031','','<p>ADE</p>
+','2','Open','Najla_Nadira','202401271128128919184734','SAMSU%20RIZAL','rizalsamsurizal708@gmail.com','','','-','','Tiktok Shop','Case Follow Up','CT3-00031','Email','2024-01-27T11:27','31','1','Najla_Nadira','1078','1','202401271128128919184734', '20240127112812891918473505', '-','0','-','Coach'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:28:13:312 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_ListDataTransactionticket '240124080933','Najla_Nadira','null'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:28:13:676 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00002','UideskIndonesia','Najla_Nadira','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:28:16:232 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_PublishTransaction '240124080933','Najla_Nadira'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:28:16:841 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Najla_Nadira', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:28:17:220 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Najla_Nadira', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:28:17:700 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:28:18:225 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:35:51:303 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Najla_Nadira', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:35:51:650 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:35:52:195 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Najla_Nadira', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:35:52:666 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:35:54:727 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','Najla_Nadira','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:07:135 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','Najla_Nadira','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:07:657 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Najla_Nadira', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:08:131 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:08:638 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:09:745 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Najla_Nadira', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:14:878 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','Najla_Nadira','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:14:891 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:14:905 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','Najla_Nadira','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:14:952 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:14:971 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:14:999 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:15:392 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:15:895 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','Najla_Nadira','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:16:409 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:16:912 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:17:423 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:18:105 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'sams','UideskIndonesia','Najla_Nadira','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:18:249 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'samsu','UideskIndonesia','Najla_Nadira','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:19:832 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Najla_Nadira','GETDATABRAND'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:19:907 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Najla_Nadira','UIDESK313'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:25:346 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00002','UideskIndonesia','Najla_Nadira','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:25:857 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00002','UideskIndonesia','Najla_Nadira','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:26:520 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '31','UideskIndonesia','Najla_Nadira','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:30:501 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00005','BRA-00002','Najla_Nadira','UIDESK332'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:41:938 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT3-00043','UideskIndonesia','Najla_Nadira','UIDESK314'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:44:41:961 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '1065','UideskIndonesia','Najla_Nadira','UIDESK311'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:45:12:540 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00002','UideskIndonesia','Najla_Nadira','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:45:12:566 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT2-00050','UideskIndonesia','Najla_Nadira','UIDESK310'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:45:12:728 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Najla_Nadira','UIDESK321'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:45:13:034 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00002','UideskIndonesia','Najla_Nadira','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:45:13:052 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT1-00042','UideskIndonesia','Najla_Nadira','UIDESK309'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:45:13:663 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '31','UideskIndonesia','Najla_Nadira','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:45:14:076 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00005','BRA-00002','Najla_Nadira','UIDESK332'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:45:14:317 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Insert_Transaction '240124080933','20240127114514159','Email','BRA-00002','CAT-00005','CT1-00042','CT2-00050','CT3-00043','','<p>UIDESK</p>
+','3','Open','Najla_Nadira','202401271145141599610437','SAMSU%20RIZAL','rizalsamsurizal708@gmail.com','','','-','','Tiktok Shop','Case Follow Up','CT3-00043','Email','2024-01-27T11:44','31','1','Najla_Nadira','1065','1','202401271145141599610437', '20240127114514159961043858', '-','0','-','Coach'
+Message: An explicit value for the identity column in table 'TR_THREAD_ARCHIVE' can only be specified when a column list is used and IDENTITY_INSERT is ON.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.WebServiceTransaction.Insert_TransactionTicket(String TrxUsername, String TrxCustomerID, String TxtThreadID, String TxtAccount, String TrxPelapor, String TrxPelaporEmail, String TrxPelaporPhone, String TrxPelaporAddress, String TrxKejadian, String TrxPenyebab, String TrxPenerimaPengaduan, String TrxStatusPelapor, String TrxSkalaPrioritas, String TrxJenisNasabah, String TrxNomorRekening, String TrxSumberInformasi, String TrxBrand, String TrxCategory, String TrxLevel1, String TrxLevel2, String TrxLevel3, String TrxComplaint, String TrxResponse, String TrxChannel, String TrxStatus, String TrxEskalasi, String TrxSLA, String TrxExtendCategory, String TrxLayer, String TrxThreadID, String TrxGenesysID, String TxtContactID, String TrxIDchannel, String TrxProductName) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\WebServiceTransaction.asmx.vb:line 490
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 27/01/2024 11:45:14:432 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Insert_Transaction '240124080933','20240127114514159','Email','BRA-00002','CAT-00005','CT1-00042','CT2-00050','CT3-00043','','<p>UIDESK</p>
+','3','Open','Najla_Nadira','202401271145141599610437','SAMSU%20RIZAL','rizalsamsurizal708@gmail.com','','','-','','Tiktok Shop','Case Follow Up','CT3-00043','Email','2024-01-27T11:44','31','1','Najla_Nadira','1065','1','202401271145141599610437', '20240127114514159961043858', '-','0','-','Coach'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:45:14:460 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_ListDataTransactionticket '240124080933','Najla_Nadira','null'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:45:14:601 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT3-00043','UideskIndonesia','Najla_Nadira','UIDESK314'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:45:14:635 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '1065','UideskIndonesia','Najla_Nadira','UIDESK311'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:45:16:634 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_PublishTransaction '240124080933','Najla_Nadira'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:45:17:237 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Najla_Nadira', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:45:17:715 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Najla_Nadira', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:45:18:201 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:45:18:823 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:06:907 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'Najla_Nadira','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:06:915 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:07:079 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','Najla_Nadira','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:07:080 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='Najla_Nadira' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:07:082 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 156
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 27/01/2024 11:48:19:672 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Najla_Nadira', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:20:163 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Najla_Nadira', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:20:581 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:21:086 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:25:289 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','Najla_Nadira','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:25:300 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:25:311 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','Najla_Nadira','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:25:348 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:25:364 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:25:376 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:25:795 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:26:304 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:26:827 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','Najla_Nadira','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:27:596 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:27:841 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:32:323 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'sams','UideskIndonesia','Najla_Nadira','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:32:404 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'samsu','UideskIndonesia','Najla_Nadira','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:33:893 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Najla_Nadira','GETDATABRAND'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:33:930 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Najla_Nadira','UIDESK313'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:42:249 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:42:751 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:43:534 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '43','UideskIndonesia','Najla_Nadira','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:47:926 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00000','BRA-00001','Najla_Nadira','UIDESK332'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:49:585 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT3-00094','UideskIndonesia','Najla_Nadira','UIDESK314'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:49:598 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '1078','UideskIndonesia','Najla_Nadira','UIDESK311'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:58:792 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:58:809 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT1-00056','UideskIndonesia','Najla_Nadira','UIDESK309'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:59:009 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Najla_Nadira','UIDESK321'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:59:312 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT3-00094','UideskIndonesia','Najla_Nadira','UIDESK314'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:59:327 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '1078','UideskIndonesia','Najla_Nadira','UIDESK311'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:59:818 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '43','UideskIndonesia','Najla_Nadira','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:48:59:833 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT2-00079','UideskIndonesia','Najla_Nadira','UIDESK310'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:49:00:346 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Insert_Transaction '240124080933','20240127114900159','Email','BRA-00001','CAT-00000','CT1-00056','CT2-00079','CT3-00094','','<p>XXX</p>
+','2','Open','Najla_Nadira','202401271149001591699499','SAMSU%20RIZAL','rizalsamsurizal708@gmail.com','','','-','','Tiktok Shop','Case Follow Up','CT3-00094','Email','2024-01-27T11:48','43','1','Najla_Nadira','1078','1','202401271149001591699499', '20240127114900159169949928', '-','0','-','Nespresso'
+Message: An explicit value for the identity column in table 'TR_THREAD_ARCHIVE' can only be specified when a column list is used and IDENTITY_INSERT is ON.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.WebServiceTransaction.Insert_TransactionTicket(String TrxUsername, String TrxCustomerID, String TxtThreadID, String TxtAccount, String TrxPelapor, String TrxPelaporEmail, String TrxPelaporPhone, String TrxPelaporAddress, String TrxKejadian, String TrxPenyebab, String TrxPenerimaPengaduan, String TrxStatusPelapor, String TrxSkalaPrioritas, String TrxJenisNasabah, String TrxNomorRekening, String TrxSumberInformasi, String TrxBrand, String TrxCategory, String TrxLevel1, String TrxLevel2, String TrxLevel3, String TrxComplaint, String TrxResponse, String TrxChannel, String TrxStatus, String TrxEskalasi, String TrxSLA, String TrxExtendCategory, String TrxLayer, String TrxThreadID, String TrxGenesysID, String TxtContactID, String TrxIDchannel, String TrxProductName) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\WebServiceTransaction.asmx.vb:line 490
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 27/01/2024 11:49:00:799 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Insert_Transaction '240124080933','20240127114900159','Email','BRA-00001','CAT-00000','CT1-00056','CT2-00079','CT3-00094','','<p>XXX</p>
+','2','Open','Najla_Nadira','202401271149001591699499','SAMSU%20RIZAL','rizalsamsurizal708@gmail.com','','','-','','Tiktok Shop','Case Follow Up','CT3-00094','Email','2024-01-27T11:48','43','1','Najla_Nadira','1078','1','202401271149001591699499', '20240127114900159169949928', '-','0','-','Nespresso'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:49:00:824 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_ListDataTransactionticket '240124080933','Najla_Nadira','null'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:49:00:847 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00000','BRA-00001','Najla_Nadira','UIDESK332'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:49:01:353 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:49:03:525 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_PublishTransaction '240124080933','Najla_Nadira'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:49:04:122 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Najla_Nadira', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:49:04:493 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:49:05:058 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Najla_Nadira', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:49:05:510 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:57:41:457 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','Najla_Nadira','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:57:42:084 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Najla_Nadira', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:57:42:955 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Najla_Nadira', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:57:43:448 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:57:43:959 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:57:45:997 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','Najla_Nadira','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:57:46:007 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:57:46:023 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','Najla_Nadira','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:57:46:034 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:57:46:069 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:57:46:082 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:57:46:511 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:57:47:015 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:57:47:532 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:57:48:030 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','Najla_Nadira','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:57:48:552 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:57:49:456 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'sams','UideskIndonesia','Najla_Nadira','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:57:49:548 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'samsu','UideskIndonesia','Najla_Nadira','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:57:51:321 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Najla_Nadira','GETDATABRAND'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:57:51:367 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Najla_Nadira','UIDESK313'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:57:57:065 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:57:57:496 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:57:58:268 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '43','UideskIndonesia','Najla_Nadira','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:58:02:065 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00000','BRA-00001','Najla_Nadira','UIDESK332'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:58:03:337 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT3-00097','UideskIndonesia','Najla_Nadira','UIDESK314'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:58:03:365 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '1065','UideskIndonesia','Najla_Nadira','UIDESK311'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:58:13:984 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:58:13:998 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT2-00081','UideskIndonesia','Najla_Nadira','UIDESK310'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:58:14:191 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Najla_Nadira','UIDESK321'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:58:14:480 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:58:14:497 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT1-00057','UideskIndonesia','Najla_Nadira','UIDESK309'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:58:15:014 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT3-00097','UideskIndonesia','Najla_Nadira','UIDESK314'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:58:15:030 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '1065','UideskIndonesia','Najla_Nadira','UIDESK311'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:58:15:309 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Insert_Transaction '240124080933','20240127115815104','Email','BRA-00001','CAT-00000','CT1-00057','CT2-00081','CT3-00097','','<p>XXX</p>
+','3','Open','Najla_Nadira','202401271158151047630547','SAMSU%20RIZAL','rizalsamsurizal708@gmail.com','','','-','','Tiktok Shop','Case Follow Up','CT3-00097','Email','2024-01-27T11:57','43','1','Najla_Nadira','1065','1','202401271158151047630547', '20240127115815104763054868', '-','0','-','Nespresso'
+Message: An explicit value for the identity column in table 'TR_THREAD_ARCHIVE' can only be specified when a column list is used and IDENTITY_INSERT is ON.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.WebServiceTransaction.Insert_TransactionTicket(String TrxUsername, String TrxCustomerID, String TxtThreadID, String TxtAccount, String TrxPelapor, String TrxPelaporEmail, String TrxPelaporPhone, String TrxPelaporAddress, String TrxKejadian, String TrxPenyebab, String TrxPenerimaPengaduan, String TrxStatusPelapor, String TrxSkalaPrioritas, String TrxJenisNasabah, String TrxNomorRekening, String TrxSumberInformasi, String TrxBrand, String TrxCategory, String TrxLevel1, String TrxLevel2, String TrxLevel3, String TrxComplaint, String TrxResponse, String TrxChannel, String TrxStatus, String TrxEskalasi, String TrxSLA, String TrxExtendCategory, String TrxLayer, String TrxThreadID, String TrxGenesysID, String TxtContactID, String TrxIDchannel, String TrxProductName) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\WebServiceTransaction.asmx.vb:line 490
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 27/01/2024 11:58:15:417 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Insert_Transaction '240124080933','20240127115815104','Email','BRA-00001','CAT-00000','CT1-00057','CT2-00081','CT3-00097','','<p>XXX</p>
+','3','Open','Najla_Nadira','202401271158151047630547','SAMSU%20RIZAL','rizalsamsurizal708@gmail.com','','','-','','Tiktok Shop','Case Follow Up','CT3-00097','Email','2024-01-27T11:57','43','1','Najla_Nadira','1065','1','202401271158151047630547', '20240127115815104763054868', '-','0','-','Nespresso'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:58:15:446 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_ListDataTransactionticket '240124080933','Najla_Nadira','null'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:58:15:526 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00000','BRA-00001','Najla_Nadira','UIDESK332'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:58:16:040 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '43','UideskIndonesia','Najla_Nadira','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:58:17:966 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_PublishTransaction '240124080933','Najla_Nadira'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:58:18:707 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Najla_Nadira', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:58:19:131 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Najla_Nadira', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:58:19:625 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 11:58:20:146 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:36:543 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Najla_Nadira', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:36:834 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Najla_Nadira', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:37:318 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:38:360 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:39:362 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','Najla_Nadira','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:39:374 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:39:386 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','Najla_Nadira','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:39:396 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:39:440 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:39:863 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:40:042 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:40:056 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:40:555 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','Najla_Nadira','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:41:064 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:41:579 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:43:081 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'SAMS','UideskIndonesia','Najla_Nadira','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:43:265 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'SAMSU','UideskIndonesia','Najla_Nadira','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:45:192 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Najla_Nadira','GETDATABRAND'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:45:213 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Najla_Nadira','UIDESK313'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:51:059 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:51:558 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:52:089 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '43','UideskIndonesia','Najla_Nadira','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:56:428 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00000','BRA-00001','Najla_Nadira','UIDESK332'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:57:310 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT3-00097','UideskIndonesia','Najla_Nadira','UIDESK314'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:00:57:335 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '1065','UideskIndonesia','Najla_Nadira','UIDESK311'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:01:05:055 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:01:05:066 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT3-00097','UideskIndonesia','Najla_Nadira','UIDESK314'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:01:05:266 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Najla_Nadira','UIDESK321'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:01:05:354 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '1065','UideskIndonesia','Najla_Nadira','UIDESK311'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:01:05:561 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:01:05:572 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT1-00057','UideskIndonesia','Najla_Nadira','UIDESK309'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:01:06:068 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '43','UideskIndonesia','Najla_Nadira','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:01:06:086 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT2-00081','UideskIndonesia','Najla_Nadira','UIDESK310'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:01:06:236 PM
+---------------------------Failed-------------------------------------------------------
+Message: exec Insert_Transaction '240124080933','20240127120106101','Email','BRA-00001','CAT-00000','CT1-00057','CT2-00081','CT3-00097','','<p>XXXX</p>
+','3','Open','Najla_Nadira','202401271201061015189085','SAMSU%20RIZAL','rizalsamsurizal708@gmail.com','','','-','','Tiktok Shop','Case Follow Up','CT3-00097','Email','2024-01-27T12:00','43','1','Najla_Nadira','1065','1','202401271201061015189085', '20240127120106101518908575', '-','0','-','Nespresso'
+Message: An explicit value for the identity column in table 'TR_THREAD_ARCHIVE' can only be specified when a column list is used and IDENTITY_INSERT is ON.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.WebServiceTransaction.Insert_TransactionTicket(String TrxUsername, String TrxCustomerID, String TxtThreadID, String TxtAccount, String TrxPelapor, String TrxPelaporEmail, String TrxPelaporPhone, String TrxPelaporAddress, String TrxKejadian, String TrxPenyebab, String TrxPenerimaPengaduan, String TrxStatusPelapor, String TrxSkalaPrioritas, String TrxJenisNasabah, String TrxNomorRekening, String TrxSumberInformasi, String TrxBrand, String TrxCategory, String TrxLevel1, String TrxLevel2, String TrxLevel3, String TrxComplaint, String TrxResponse, String TrxChannel, String TrxStatus, String TrxEskalasi, String TrxSLA, String TrxExtendCategory, String TrxLayer, String TrxThreadID, String TrxGenesysID, String TxtContactID, String TrxIDchannel, String TrxProductName) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\WebServiceTransaction.asmx.vb:line 490
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 27/01/2024 12:01:06:322 PM
+---------------------------Success-------------------------------------------------------
+Message: exec Insert_Transaction '240124080933','20240127120106101','Email','BRA-00001','CAT-00000','CT1-00057','CT2-00081','CT3-00097','','<p>XXXX</p>
+','3','Open','Najla_Nadira','202401271201061015189085','SAMSU%20RIZAL','rizalsamsurizal708@gmail.com','','','-','','Tiktok Shop','Case Follow Up','CT3-00097','Email','2024-01-27T12:00','43','1','Najla_Nadira','1065','1','202401271201061015189085', '20240127120106101518908575', '-','0','-','Nespresso'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:01:06:348 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_ListDataTransactionticket '240124080933','Najla_Nadira','null'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:01:06:598 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00000','BRA-00001','Najla_Nadira','UIDESK332'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:01:08:574 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_PublishTransaction '240124080933','Najla_Nadira'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:01:09:135 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Najla_Nadira', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:01:09:531 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:01:10:299 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Najla_Nadira', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:01:10:977 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:04:33:091 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Najla_Nadira', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:04:33:538 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Najla_Nadira', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:04:34:031 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:04:34:440 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:04:36:722 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','Najla_Nadira','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:04:36:735 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:04:36:749 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','Najla_Nadira','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:04:36:763 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:04:36:848 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:04:36:861 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:04:37:238 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','Najla_Nadira','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:04:37:753 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:04:38:275 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:04:39:358 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:04:39:819 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:06:01:694 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','Najla_Nadira','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:06:01:707 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:06:01:729 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','Najla_Nadira','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:06:01:768 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:06:01:782 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:06:01:795 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:06:01:909 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:06:01:921 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:06:02:489 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:06:02:971 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:06:03:435 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','Najla_Nadira','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:06:33:559 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'SAMS','UideskIndonesia','Najla_Nadira','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:06:34:150 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'SAMSU','UideskIndonesia','Najla_Nadira','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:06:35:774 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Najla_Nadira','GETDATABRAND'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:06:35:800 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Najla_Nadira','UIDESK313'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:06:41:433 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:06:41:955 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:06:42:455 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '43','UideskIndonesia','Najla_Nadira','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:06:46:379 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00000','BRA-00001','Najla_Nadira','UIDESK332'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:06:47:830 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT3-00161','UideskIndonesia','Najla_Nadira','UIDESK314'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:06:47:936 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '1076','UideskIndonesia','Najla_Nadira','UIDESK311'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:38:22:412 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','Najla_Nadira','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:38:23:617 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Najla_Nadira', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:38:24:192 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Najla_Nadira', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:38:25:366 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:38:25:591 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:38:44:231 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','Najla_Nadira','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:38:44:347 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:38:44:366 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','Najla_Nadira','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:38:44:387 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:38:44:588 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:38:44:870 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:38:45:256 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:38:45:758 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','Najla_Nadira','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:38:46:270 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:38:47:352 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:38:47:596 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'SAMS','UideskIndonesia','Najla_Nadira','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:38:47:671 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'SAMSU','UideskIndonesia','Najla_Nadira','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:38:47:798 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:38:49:517 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Najla_Nadira','GETDATABRAND'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:38:49:556 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Najla_Nadira','UIDESK313'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:38:54:488 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:38:54:853 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:38:55:319 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '43','UideskIndonesia','Najla_Nadira','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:39:01:596 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00000','BRA-00001','Najla_Nadira','UIDESK332'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:39:03:000 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT3-00161','UideskIndonesia','Najla_Nadira','UIDESK314'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:39:03:153 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '1076','UideskIndonesia','Najla_Nadira','UIDESK311'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:39:11:676 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:39:11:697 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00000','BRA-00001','Najla_Nadira','UIDESK332'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:39:11:718 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT2-00090','UideskIndonesia','Najla_Nadira','UIDESK310'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:39:12:169 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Najla_Nadira','UIDESK321'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:39:12:224 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT1-00060','UideskIndonesia','Najla_Nadira','UIDESK309'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:39:12:693 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '43','UideskIndonesia','Najla_Nadira','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:39:12:760 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT3-00161','UideskIndonesia','Najla_Nadira','UIDESK314'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:39:12:803 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '1076','UideskIndonesia','Najla_Nadira','UIDESK311'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:39:13:188 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:39:13:914 PM
+---------------------------Failed-------------------------------------------------------
+Message: exec Insert_Transaction '240124080933','20240127123913681','Email','BRA-00001','CAT-00000','CT1-00060','CT2-00090','CT3-00161','','<p>FDSFDSF</p>
+','2','Open','Najla_Nadira','202401271239136812087524','SAMSU%20RIZAL','rizalsamsurizal708@gmail.com','','','-','0','Tiktok Shop','Case Follow Up','CT3-00161','Email','2024-01-27T12:38','43','1','Najla_Nadira','1076','1','202401271239136812087524', '20240127123913681208752509', '-','0','-','Nespresso'
+Message: An explicit value for the identity column in table 'TR_THREAD_ARCHIVE' can only be specified when a column list is used and IDENTITY_INSERT is ON.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.WebServiceTransaction.Insert_TransactionTicket(String TrxUsername, String TrxCustomerID, String TxtThreadID, String TxtAccount, String TrxPelapor, String TrxPelaporEmail, String TrxPelaporPhone, String TrxPelaporAddress, String TrxKejadian, String TrxPenyebab, String TrxPenerimaPengaduan, String TrxStatusPelapor, String TrxSkalaPrioritas, String TrxJenisNasabah, String TrxNomorRekening, String TrxSumberInformasi, String TrxBrand, String TrxCategory, String TrxLevel1, String TrxLevel2, String TrxLevel3, String TrxComplaint, String TrxResponse, String TrxChannel, String TrxStatus, String TrxEskalasi, String TrxSLA, String TrxExtendCategory, String TrxLayer, String TrxThreadID, String TrxGenesysID, String TxtContactID, String TrxIDchannel, String TrxProductName) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\WebServiceTransaction.asmx.vb:line 490
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 27/01/2024 12:39:14:057 PM
+---------------------------Success-------------------------------------------------------
+Message: exec Insert_Transaction '240124080933','20240127123913681','Email','BRA-00001','CAT-00000','CT1-00060','CT2-00090','CT3-00161','','<p>FDSFDSF</p>
+','2','Open','Najla_Nadira','202401271239136812087524','SAMSU%20RIZAL','rizalsamsurizal708@gmail.com','','','-','0','Tiktok Shop','Case Follow Up','CT3-00161','Email','2024-01-27T12:38','43','1','Najla_Nadira','1076','1','202401271239136812087524', '20240127123913681208752509', '-','0','-','Nespresso'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:39:14:101 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_ListDataTransactionticket '240124080933','Najla_Nadira','null'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:39:16:935 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_PublishTransaction '240124080933','Najla_Nadira'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:39:19:025 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Najla_Nadira', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:39:19:350 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Najla_Nadira', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:39:19:750 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:39:20:191 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:08:438 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Najla_Nadira', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:08:980 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Najla_Nadira', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:09:368 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:09:887 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:11:486 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','Najla_Nadira','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:11:499 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:11:514 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','Najla_Nadira','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:11:528 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:11:627 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:11:642 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:11:992 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:12:516 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:13:013 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:13:528 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','Najla_Nadira','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:14:042 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:18:681 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'SAMS','UideskIndonesia','Najla_Nadira','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:21:000 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Najla_Nadira','GETDATABRAND'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:21:027 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Najla_Nadira','UIDESK313'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:30:817 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:31:332 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:32:118 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '43','UideskIndonesia','Najla_Nadira','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:37:137 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00000','BRA-00001','Najla_Nadira','UIDESK332'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:39:907 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT3-00104','UideskIndonesia','Najla_Nadira','UIDESK314'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:39:934 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '1076','UideskIndonesia','Najla_Nadira','UIDESK311'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:48:069 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:48:137 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00000','BRA-00001','Najla_Nadira','UIDESK332'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:49:076 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240124080933','UideskIndonesia','Najla_Nadira','UIDESK321'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:49:124 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT3-00104','UideskIndonesia','Najla_Nadira','UIDESK314'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:49:386 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '1076','UideskIndonesia','Najla_Nadira','UIDESK311'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:49:602 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Najla_Nadira','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:49:636 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT1-00057','UideskIndonesia','Najla_Nadira','UIDESK309'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:50:122 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '43','UideskIndonesia','Najla_Nadira','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:50:442 PM
+---------------------------Failed-------------------------------------------------------
+Message: exec Insert_Transaction '240124080933','20240127124250143','Email','BRA-00001','CAT-00000','CT1-00057','CT2-00083','CT3-00104','','<p>FDSGDSGDSGDS</p>
+','2','Open','Najla_Nadira','202401271242501431055559','SAMSU%20RIZAL','rizalsamsurizal708@gmail.com','','','-','','Tiktok Shop','Case Follow Up','CT3-00104','Email','2024-01-27T12:42','43','1','Najla_Nadira','1076','3','202401271242501431055559', '20240127124250143105555996', '-','0','-','Nespresso'
+Message: An explicit value for the identity column in table 'TR_THREAD_ARCHIVE' can only be specified when a column list is used and IDENTITY_INSERT is ON.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.WebServiceTransaction.Insert_TransactionTicket(String TrxUsername, String TrxCustomerID, String TxtThreadID, String TxtAccount, String TrxPelapor, String TrxPelaporEmail, String TrxPelaporPhone, String TrxPelaporAddress, String TrxKejadian, String TrxPenyebab, String TrxPenerimaPengaduan, String TrxStatusPelapor, String TrxSkalaPrioritas, String TrxJenisNasabah, String TrxNomorRekening, String TrxSumberInformasi, String TrxBrand, String TrxCategory, String TrxLevel1, String TrxLevel2, String TrxLevel3, String TrxComplaint, String TrxResponse, String TrxChannel, String TrxStatus, String TrxEskalasi, String TrxSLA, String TrxExtendCategory, String TrxLayer, String TrxThreadID, String TrxGenesysID, String TxtContactID, String TrxIDchannel, String TrxProductName) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\WebServiceTransaction.asmx.vb:line 490
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 27/01/2024 12:42:50:787 PM
+---------------------------Success-------------------------------------------------------
+Message: exec Insert_Transaction '240124080933','20240127124250143','Email','BRA-00001','CAT-00000','CT1-00057','CT2-00083','CT3-00104','','<p>FDSGDSGDSGDS</p>
+','2','Open','Najla_Nadira','202401271242501431055559','SAMSU%20RIZAL','rizalsamsurizal708@gmail.com','','','-','','Tiktok Shop','Case Follow Up','CT3-00104','Email','2024-01-27T12:42','43','1','Najla_Nadira','1076','3','202401271242501431055559', '20240127124250143105555996', '-','0','-','Nespresso'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:50:885 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_ListDataTransactionticket '240124080933','Najla_Nadira','null'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:51:192 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT2-00083','UideskIndonesia','Najla_Nadira','UIDESK310'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:53:212 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_PublishTransaction '240124080933','Najla_Nadira'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:54:251 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Najla_Nadira', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:54:720 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Najla_Nadira', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:55:230 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:42:55:735 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:48:17:896 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UIDESK0001','Najla_Nadira','UIDESK32'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:48:17:933 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:48:17:990 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:48:18:447 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:50:36:838 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:50:36:880 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:50:37:352 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UIDESK0001','Najla_Nadira','UIDESK32'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:50:37:384 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:50:38:570 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Select'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:50:38:654 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:50:39:166 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Channel'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:50:39:672 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:52:05:488 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:52:06:163 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UIDESK0001','Najla_Nadira','UIDESK32'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:52:06:325 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:52:06:854 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:52:07:350 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Select'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:52:07:404 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:52:07:931 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:52:08:436 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Channel'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:52:31:115 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:52:31:151 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:52:31:892 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UIDESK0001','Najla_Nadira','UIDESK32'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:52:32:147 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:52:34:296 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','Najla_Nadira','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:52:35:752 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Najla_Nadira', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:52:36:518 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Najla_Nadira', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:52:36:673 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:52:37:184 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:52:42:233 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:52:42:738 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UIDESK0001','Najla_Nadira','UIDESK32'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:52:43:264 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:52:43:781 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:53:04:907 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Select'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:53:05:535 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:53:06:143 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:53:06:529 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Channel'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:53:41:169 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:53:42:201 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UIDESK0001','Najla_Nadira','UIDESK32'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:53:42:713 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:53:43:208 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:53:48:467 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Select'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:53:48:507 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:53:48:530 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Channel'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:53:49:056 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:54:42:569 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:54:42:900 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UIDESK0001','Najla_Nadira','UIDESK32'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:54:43:432 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:54:43:923 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:54:44:004 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Select'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:54:44:052 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:54:44:568 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Channel'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:54:45:198 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:55:25:194 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:55:25:595 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UIDESK0001','Najla_Nadira','UIDESK32'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:55:25:694 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:55:26:118 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:55:30:673 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Select'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:55:30:746 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:55:31:275 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:55:31:762 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Channel'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:56:05:749 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:56:05:798 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:56:06:270 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UIDESK0001','Najla_Nadira','UIDESK32'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:56:06:841 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:56:07:178 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Select'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:56:07:228 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:56:07:757 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:56:08:261 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Channel'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:57:26:006 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:57:26:525 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UIDESK0001','Najla_Nadira','UIDESK32'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:57:26:952 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:57:27:302 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:57:29:671 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Select'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:57:29:744 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:57:30:250 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Channel'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:57:30:772 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:59:06:737 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Select'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:59:06:774 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:59:07:297 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 12:59:07:803 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Channel'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:00:03:861 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','Najla_Nadira','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:00:04:128 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:00:04:144 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','Najla_Nadira','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:00:04:158 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:00:04:177 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:00:04:192 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:00:04:476 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','Najla_Nadira','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:00:04:988 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:00:05:391 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:00:05:906 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:00:06:842 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:00:53:452 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:00:53:634 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UIDESK0001','Najla_Nadira','UIDESK32'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:00:54:135 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:00:54:632 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:00:55:284 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Select'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:00:55:333 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:00:55:882 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:00:56:378 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Channel'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:01:06:847 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','Najla_Nadira','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:01:08:383 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Najla_Nadira', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:01:09:308 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Najla_Nadira', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:01:09:331 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:01:10:059 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:01:12:235 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:01:12:264 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:01:12:745 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UIDESK0001','Najla_Nadira','UIDESK32'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:01:12:771 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:01:13:501 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Select'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:01:13:551 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:01:14:078 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:01:14:600 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Channel'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:01:53:403 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:01:53:932 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UIDESK0001','Najla_Nadira','UIDESK32'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:01:54:445 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:01:54:955 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:01:59:072 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Select'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:01:59:136 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:01:59:880 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:02:00:185 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Channel'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:03:19:888 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:03:20:201 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UIDESK0001','Najla_Nadira','UIDESK32'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:03:20:763 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:03:20:939 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Select'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:03:20:995 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:03:21:243 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:03:21:518 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:03:22:017 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216141202','Najla_Nadira','0','Channel'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:03:51:493 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:03:52:003 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UIDESK0001','Najla_Nadira','UIDESK32'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:03:52:524 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:03:53:035 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:03:53:440 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216142200','Najla_Nadira','0','Select'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:03:53:499 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216142200','Najla_Nadira','0','Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:03:54:045 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:03:55:293 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '211216142200','Najla_Nadira','0','Channel'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:04:03:469 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '231115155610','Najla_Nadira','0','Select'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:04:04:266 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '231115155610','Najla_Nadira','0','Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:04:04:530 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:04:05:122 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '231115155610','Najla_Nadira','0','Channel'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:04:16:402 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','Najla_Nadira','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:04:16:496 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:04:17:229 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','Najla_Nadira','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:04:17:273 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:04:17:293 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:04:17:311 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:04:17:599 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:04:17:854 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:04:18:484 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','Najla_Nadira','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:04:18:858 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:04:19:382 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Najla_Nadira','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:05:07:967 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UIDESK0001','Najla_Nadira','UIDESK32'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:05:08:470 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:05:09:459 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:05:09:701 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:05:11:034 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '231120102044','Najla_Nadira','0','Select'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:05:11:090 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '231120102044','Najla_Nadira','0','Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:05:11:593 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '231120102044','Najla_Nadira','0','Channel'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:05:12:095 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:05:46:758 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:05:47:266 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UIDESK0001','Najla_Nadira','UIDESK32'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:05:47:787 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:05:48:298 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:05:49:663 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '231116113448','Najla_Nadira','0','Select'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:05:49:713 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '231116113448','Najla_Nadira','0','Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:05:50:250 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:05:50:778 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '231116113448','Najla_Nadira','0','Channel'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:21:02:343 PM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'Najla_Nadira','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:21:02:436 PM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:21:02:964 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','Najla_Nadira','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:21:02:967 PM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='Najla_Nadira' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:21:02:972 PM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 156
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 27/01/2024 01:21:17:445 PM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'Najla_Nadira','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:21:17:582 PM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:21:17:649 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','Najla_Nadira','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:21:17:651 PM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='Najla_Nadira' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:21:17:652 PM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 156
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 27/01/2024 01:21:29:264 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:21:29:762 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:21:30:432 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Najla_Nadira', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:21:30:888 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Najla_Nadira', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:21:34:425 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UIDESK0001','Najla_Nadira','UIDESK32'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:21:34:508 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:21:34:966 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Najla_Nadira','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:21:35:508 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:21:37:593 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','DAM','Searching'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:21:37:716 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','DAMA','Searching'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:21:40:140 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '240126183926','Najla_Nadira','0','Select'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:21:51:089 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_UpdateCustomer '240126183926','Najla_Nadira','Damai','damai@gmail.com','35353235','00001'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:21:51:108 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:22:26:891 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '240126183926','Najla_Nadira','0','Select'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:22:35:608 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '240126183926','Najla_Nadira','0','Select'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:22:41:138 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','RES','Searching'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:22:43:175 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '231120102044','Najla_Nadira','0','Select'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:22:43:261 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '231120102044','Najla_Nadira','0','Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:22:43:780 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','0','Table'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:22:44:300 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '231120102044','Najla_Nadira','0','Channel'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:22:48:562 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','DAM','Searching'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:22:48:976 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','DAMA','Searching'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:22:49:549 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '0','Najla_Nadira','DAMAI','Searching'
+---------------------------Success-------------------------------------------------------
+
+Time: 27/01/2024 01:22:51:249 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxCustomer '240126183926','Najla_Nadira','0','Select'
+---------------------------Success-------------------------------------------------------
+

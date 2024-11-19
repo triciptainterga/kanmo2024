@@ -1,0 +1,392 @@
+Time: 29/01/2024 10:00:09:436 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','Mita_Aryani','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:00:12:197 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Mita_Aryani', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:00:12:534 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Mita_Aryani', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:00:13:021 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Mita_Aryani','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:00:13:546 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Mita_Aryani','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:00:29:378 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_InsertThread 'Call','-','Call-2901202400959381010101','1007','1007','Mita_Aryani','1007','-','Call','1007'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:00:29:378 AM
+---------------------------Success-------------------------------------------------------
+Message: Call-2901202400959381010101
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:00:29:379 AM
+---------------------------Success-------------------------------------------------------
+Message: 202401291000292387443638
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:00:29:379 AM
+---------------------------Success-------------------------------------------------------
+Message: -
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:00:30:890 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Mita_Aryani','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:00:30:985 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','Call-2901202400959381010101','Mita_Aryani','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:00:30:998 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'Call','UideskIndonesia','Mita_Aryani','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:00:31:012 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Mita_Aryani','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:00:31:023 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'Call-2901202400959381010101','UideskIndonesia','Mita_Aryani','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:00:31:036 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote 'Call-2901202400959381010101', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:00:31:127 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Mita_Aryani','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:00:31:143 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Mita_Aryani','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:00:31:307 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Mita_Aryani','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:00:31:509 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Mita_Aryani','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:00:31:970 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Mita_Aryani','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:00:32:035 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '211223100748','UideskIndonesia','Mita_Aryani','UIDESK313'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:00:32:483 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Mita_Aryani','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:00:32:552 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Mita_Aryani','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:09:51:138 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'mita_aryani','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:09:51:148 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:09:51:298 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','Mita_Aryani','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:09:51:299 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='Mita_Aryani' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:09:51:300 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 156
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in D:\RESELLER\Aplikasi\helpdesk_agent\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 29/01/2024 10:09:52:711 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Mita_Aryani', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:09:53:136 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Mita_Aryani', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:09:53:513 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Mita_Aryani','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:09:53:976 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Mita_Aryani','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:11:22:010 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Mita_Aryani', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:11:22:741 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Mita_Aryani', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:11:23:406 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Mita_Aryani','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:11:23:478 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Mita_Aryani','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:11:27:162 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec UIDESK_Temp_InsertThread 'Call','-','Call-2901202400959381010101','1007','1007','Mita_Aryani','1007','-','Call','1007'
+Message: Violation of PRIMARY KEY constraint 'PK_TR_THREAD_1'. Cannot insert duplicate key in object 'dbo.TR_THREAD'. The duplicate key value is (Call-2901202400959381010101).
+The statement has been terminated.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.WebServiceTransaction.InsertTransactionThread(String TrxChannel, String TrxThreadID, String TrxNumberid, String TrxCustomerID, String TrxUsername, String TrxAccount, String TrxSubject, String TrxDescription) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\WebServiceTransaction.asmx.vb:line 2059
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 29/01/2024 10:11:27:163 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_InsertThread 'Call','-','Call-2901202400959381010101','1007','1007','Mita_Aryani','1007','-','Call','1007'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:11:27:163 AM
+---------------------------Success-------------------------------------------------------
+Message: Call-2901202400959381010101
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:11:27:164 AM
+---------------------------Success-------------------------------------------------------
+Message: 202401291011267371011108
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:11:27:164 AM
+---------------------------Success-------------------------------------------------------
+Message: -
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:11:27:280 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Mita_Aryani','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:11:27:778 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Mita_Aryani','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:11:37:302 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_InsertThread 'Call','-','Call-290120240094324','1007','1007','Mita_Aryani','1007','-','Call','1007'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:11:37:302 AM
+---------------------------Success-------------------------------------------------------
+Message: Call-290120240094324
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:11:37:302 AM
+---------------------------Success-------------------------------------------------------
+Message: 202401291011372053446636
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:11:37:303 AM
+---------------------------Success-------------------------------------------------------
+Message: -
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:11:39:262 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Mita_Aryani','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:11:39:854 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','Call-290120240094324','Mita_Aryani','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:11:40:350 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Mita_Aryani','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:12:11:322 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Mita_Aryani','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:12:11:345 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'Call-290120240094324','UideskIndonesia','Mita_Aryani','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:12:11:417 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote 'Call-290120240094324', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:12:12:066 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Mita_Aryani','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:12:12:089 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Mita_Aryani','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:12:12:188 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '211223100748','UideskIndonesia','Mita_Aryani','UIDESK313'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:12:12:263 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Mita_Aryani','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:12:12:368 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Mita_Aryani','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:12:12:782 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Mita_Aryani','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:12:13:313 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Mita_Aryani','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:12:13:755 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'Call','UideskIndonesia','Mita_Aryani','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:12:15:649 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','Call-290120240094324','Mita_Aryani','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:12:18:571 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Mita_Aryani','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:12:18:621 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Mita_Aryani','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:12:18:637 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote 'Call-290120240094324', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:12:18:653 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Mita_Aryani','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:12:18:668 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Mita_Aryani','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:12:18:749 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '211223100748','UideskIndonesia','Mita_Aryani','UIDESK313'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:12:19:074 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Mita_Aryani','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:12:19:148 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'Call-290120240094324','UideskIndonesia','Mita_Aryani','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:12:19:769 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Mita_Aryani','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:12:20:318 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Mita_Aryani','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:12:20:745 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'Call','UideskIndonesia','Mita_Aryani','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 29/01/2024 10:30:16:048 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','Mita_Aryani','Insert'
+---------------------------Success-------------------------------------------------------
+

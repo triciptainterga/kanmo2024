@@ -1,0 +1,2574 @@
+Time: 13/10/2023 08.08.12.809 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.08.13.454 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'spvoutbound1', '4', 'Supervisor'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.08.13.490 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.08.13.965 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'spvoutbound1', 'open', '4','1067'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.08.13.993 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.08.23.951 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.08.24.028 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.08.24.450 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.08.24.538 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.08.40.674 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013080840533','81ea0dfe-d404-4203-9606-5c6cd6e4e960','spvoutbound1','3'
+Message: The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot initialize the data source object of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 08.08.40.682 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013080840533','81ea0dfe-d404-4203-9606-5c6cd6e4e960','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.08.42.385 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.08.42.463 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.08.42.888 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.08.42.966 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.09.00.608 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013080900520','71702ddc-5289-4bc2-b1b3-c8fca0fd70f1','spvoutbound1','3'
+Message: The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot initialize the data source object of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 08.09.00.609 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013080900520','71702ddc-5289-4bc2-b1b3-c8fca0fd70f1','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.09.02.242 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.09.02.379 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.09.02.755 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.09.02.853 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.09.10.098 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013080910019','ce7df887-c401-4fa7-ba48-810aee68e073','spvoutbound1','3'
+Message: The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot initialize the data source object of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 08.09.10.101 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013080910019','ce7df887-c401-4fa7-ba48-810aee68e073','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.09.11.713 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.09.11.784 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.09.12.213 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.09.12.287 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.09.25.030 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013080924931','c2220edc-a0ce-4e59-927b-52f5a1f5e067','spvoutbound1','3'
+Message: The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot initialize the data source object of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 08.09.25.033 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013080924931','c2220edc-a0ce-4e59-927b-52f5a1f5e067','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.09.26.555 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.09.26.620 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.09.27.056 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.09.27.131 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.09.38.868 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013080938767','9e9fa529-5097-4b55-813b-60d389a47b0c','spvoutbound1','3'
+Message: The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot initialize the data source object of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 08.09.38.870 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013080938767','9e9fa529-5097-4b55-813b-60d389a47b0c','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.09.40.437 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.09.40.530 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.09.40.943 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.09.41.042 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.12.11.534 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013081211435','8ed2efa5-ec6f-4801-b505-d0ebe76ece1f','spvoutbound1','3'
+Message: The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot initialize the data source object of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 08.12.11.535 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013081211435','8ed2efa5-ec6f-4801-b505-d0ebe76ece1f','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.12.13.570 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.12.13.666 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.12.14.073 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.12.14.177 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.13.08.943 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013081308858','f1b16203-5e81-46dd-830f-aa9fd1368595','spvoutbound1','3'
+Message: The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot initialize the data source object of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 08.13.08.945 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013081308858','f1b16203-5e81-46dd-830f-aa9fd1368595','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.13.10.741 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.13.10.811 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.13.11.244 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.13.11.320 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.13.47.967 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'spvoutbound1','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.13.47.969 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.13.47.975 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.13.47.979 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='spvoutbound1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.13.47.981 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 159
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 08.13.49.126 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'spvoutbound1', '4', 'Supervisor'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.13.49.167 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.13.49.646 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'spvoutbound1', 'open', '4','1067'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.13.49.667 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.13.52.228 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.13.52.282 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.13.52.729 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.13.52.791 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.13.57.389 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013081357299','61cc9e91-81e0-47e9-8a8c-40d2304a8cdf','spvoutbound1','3'
+Message: The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot initialize the data source object of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 08.13.57.390 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013081357299','61cc9e91-81e0-47e9-8a8c-40d2304a8cdf','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.13.58.872 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.13.58.917 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.13.59.372 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.13.59.416 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.14.04.281 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013081404178','f6e8478e-43e2-4651-8829-459eda0d90fc','spvoutbound1','3'
+Message: The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot initialize the data source object of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 08.14.04.283 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013081404178','f6e8478e-43e2-4651-8829-459eda0d90fc','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.14.05.849 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.14.05.902 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.14.06.351 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.14.06.412 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.14.14.848 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013081414767','3886892a-1423-4f2f-aca8-769e5e040171','spvoutbound1','3'
+Message: The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot initialize the data source object of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 08.14.14.849 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013081414767','3886892a-1423-4f2f-aca8-769e5e040171','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.14.16.510 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.14.16.568 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.14.17.012 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.14.17.070 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.21.39.347 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_TempKotakThread 'spvoutbound1','4','Supervisor'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.21.39.362 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.21.39.847 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec TR_DataThread 'Supervisor', 'spvoutbound1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.21.39.866 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.21.49.401 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'spvoutbound1', '4', 'Supervisor'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.21.49.889 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'spvoutbound1', 'null', '4','1067'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.21.49.915 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.21.50.430 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.34.02.121 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.39.13.446 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.39.14.092 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'spvoutbound1', '4', 'Supervisor'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.39.14.107 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'spvoutbound1', 'open', '4','1067'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.39.14.127 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.39.14.629 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.39.17.787 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'spvoutbound1', '4', 'Supervisor'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.39.17.809 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.39.17.816 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.39.18.295 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'spvoutbound1', 'null', '4','1067'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.39.22.476 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.39.22.501 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.39.22.976 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.39.23.013 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.39.40.466 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013083940358','c09f3e31-eee4-4e58-a74c-4df1d1b626c2','spvoutbound1','3'
+Message: The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot initialize the data source object of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 08.39.40.468 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013083940358','c09f3e31-eee4-4e58-a74c-4df1d1b626c2','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.39.42.337 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.39.42.360 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.39.42.838 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.39.42.869 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.39.49.006 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'defaultSystem','spvoutbound1','UIDESK106'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.51.28.577 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'spvoutbound1','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.51.28.578 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.51.28.585 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.51.28.586 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='spvoutbound1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.51.28.589 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 159
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 08.51.29.265 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'spvoutbound1', '4', 'Supervisor'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.51.29.274 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.51.29.769 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'spvoutbound1', 'open', '4','1067'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.51.29.773 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.51.33.888 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.51.33.907 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.51.34.391 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.51.34.413 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.57.50.964 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013085750846','59c4711a-d18b-42a4-8b40-128da7977cf9','spvoutbound1','3'
+Message: The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot initialize the data source object of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 08.57.50.968 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013085750846','59c4711a-d18b-42a4-8b40-128da7977cf9','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.57.54.206 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.57.54.235 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.57.54.708 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.57.54.737 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.58.59.792 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013085859705','bf4f0582-111a-43aa-9975-79d852825f80','spvoutbound1','3'
+Message: The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot initialize the data source object of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 08.58.59.793 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013085859705','bf4f0582-111a-43aa-9975-79d852825f80','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.59.03.726 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.59.03.760 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.59.03.762 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.59.04.228 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.09.24.016 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.09.24.025 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.09.24.507 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.09.24.540 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.09.27.783 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.09.27.818 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.09.28.285 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.09.28.321 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.09.34.661 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013090934557','7513adc8-d7f3-45de-a879-36bc795d6191','spvoutbound1','3'
+Message: The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot initialize the data source object of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.09.34.664 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013090934557','7513adc8-d7f3-45de-a879-36bc795d6191','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.09.38.564 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.09.38.569 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.09.39.067 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.09.39.070 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.11.00.434 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013091100336','d4486456-acc4-4605-abf0-9a18b691f3e3','spvoutbound1','3'
+Message: The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot initialize the data source object of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.11.00.435 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013091100336','d4486456-acc4-4605-abf0-9a18b691f3e3','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.11.04.987 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.11.05.489 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.11.05.989 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.11.06.501 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.11.20.748 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.11.20.780 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.11.21.250 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.11.21.281 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.11.29.503 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013091129424','eeb54266-22ef-4ca3-8449-19eb96a735d4','spvoutbound1','3'
+Message: The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot initialize the data source object of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.11.29.505 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013091129424','eeb54266-22ef-4ca3-8449-19eb96a735d4','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.11.33.387 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.11.33.888 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.11.34.389 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.11.34.890 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.12.18.991 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.12.19.023 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.12.19.493 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.12.19.533 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.12.43.721 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.12.44.187 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'spvoutbound1', '4', 'Supervisor'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.12.44.191 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.12.44.695 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'spvoutbound1', 'open', '4','1067'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.12.45.199 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.12.56.443 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.12.56.458 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.12.56.944 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.12.56.959 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.13.10.977 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013091310866','12007dcf-5b0b-409a-abca-6771773169b9','spvoutbound1','3'
+Message: The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot initialize the data source object of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.13.10.980 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013091310866','12007dcf-5b0b-409a-abca-6771773169b9','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.13.12.914 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.13.12.928 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.13.13.418 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.13.13.429 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.13.48.330 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.13.48.831 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.13.49.333 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.13.49.834 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.14.28.307 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.15.20.677 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.15.21.590 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'spvoutbound1', '4', 'Supervisor'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.15.21.615 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'spvoutbound1', 'open', '4','1067'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.15.21.632 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.15.22.146 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.15.25.201 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.31.951 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.32.449 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'spvoutbound1', '4', 'Supervisor'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.32.466 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.32.953 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'spvoutbound1', 'open', '4','1067'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.32.978 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.38.023 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.38.078 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.38.525 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.38.585 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.49.119 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013091849026','f5f1de8f-e147-4e63-bea2-a72a428c56e3','spvoutbound1','3'
+Message: The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot initialize the data source object of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.18.49.121 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013091849026','f5f1de8f-e147-4e63-bea2-a72a428c56e3','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.50.674 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.50.766 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.51.176 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.51.272 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.20.50.156 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013092050061','c32c3a22-3f6a-4125-9208-4cde3a66ceb6','spvoutbound1','3'
+Message: The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot initialize the data source object of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.20.50.160 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013092050061','c32c3a22-3f6a-4125-9208-4cde3a66ceb6','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.20.52.097 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.20.52.187 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.20.52.599 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.20.52.689 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.21.20.414 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013092120316','9b1e5b16-10cc-4b92-9839-93dd981866ad','spvoutbound1','3'
+Message: The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot initialize the data source object of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.21.20.415 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013092120316','9b1e5b16-10cc-4b92-9839-93dd981866ad','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.21.22.045 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.21.22.092 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.21.22.546 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.21.22.595 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.21.27.834 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_DistibuteData '20231013092120316','spvoutbound1','DISTRIBUTE'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.21.29.260 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.21.29.320 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.21.29.761 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.21.29.821 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.25.40.918 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'spvoutbound1','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.25.40.920 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.25.40.925 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.25.40.926 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='spvoutbound1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.25.40.930 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 159
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.25.41.506 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'spvoutbound1', '4', 'Supervisor'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.25.42.015 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'spvoutbound1', 'open', '4','1067'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.25.42.021 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.25.42.522 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.25.44.888 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.25.44.909 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.25.45.390 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.25.45.416 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.25.50.257 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.25.50.290 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.25.50.772 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.25.50.805 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.28.40.855 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.28.40.870 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.28.41.357 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.28.41.370 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.28.47.435 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.28.47.457 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.28.47.937 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.28.47.958 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.00.454 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013092900357','963c0014-3646-4085-b9ec-c12c36cfbe93','spvoutbound1','4'
+Message: The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot initialize the data source object of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.29.00.457 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013092900357','963c0014-3646-4085-b9ec-c12c36cfbe93','spvoutbound1','4'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.02.434 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.02.444 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.02.950 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.03.457 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.35.07.050 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.35.07.061 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.35.07.093 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.35.07.607 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.39.07.471 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'spvoutbound1','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.39.07.473 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.39.07.479 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.39.07.480 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='spvoutbound1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.39.07.482 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 159
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.39.10.451 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'spvoutbound1', '4', 'Supervisor'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.39.10.483 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.39.10.960 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'spvoutbound1', 'open', '4','1067'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.39.10.990 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.39.14.812 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.39.14.832 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.39.14.835 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.39.15.333 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.39.37.457 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013093937197','389c88f9-5ec2-487a-9adf-1640502cdf50','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.39.41.318 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.39.41.368 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.39.41.823 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.39.41.869 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.40.42.977 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.40.43.580 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'spvoutbound1', '4', 'Supervisor'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.40.43.597 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'spvoutbound1', 'open', '4','1067'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.40.43.612 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.40.44.114 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.40.47.569 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.40.47.639 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.40.48.072 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.40.48.148 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.40.54.729 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013094054515','cba802ce-359f-4118-989b-9adaf03cc20a','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.40.56.504 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.40.56.560 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.40.57.003 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.40.57.064 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.41.14.434 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_DistibuteData '20231013094054515','spvoutbound1','DISTRIBUTE'
+Message: Conversion failed when converting the varchar value 'Pria' to data type int.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.DistributeData(String TrxUploadID, String TrxUserName, String TrxAction) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 386
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.41.14.436 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_DistibuteData '20231013094054515','spvoutbound1','DISTRIBUTE'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.41.16.646 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.41.16.705 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.41.16.713 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.41.17.146 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.41.22.261 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.42.10.198 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.42.10.274 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.42.10.283 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.42.10.700 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.07.988 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013094307727','bc79b493-050c-4254-9f66-3af688e6c77f','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.09.764 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.09.824 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.10.266 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.10.325 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.12.309 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_DistibuteData '20231013094307727','spvoutbound1','DISTRIBUTE'
+Message: Conversion failed when converting the varchar value 'Pria' to data type int.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.DistributeData(String TrxUploadID, String TrxUserName, String TrxAction) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 386
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.43.12.313 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_DistibuteData '20231013094307727','spvoutbound1','DISTRIBUTE'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.14.200 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.14.265 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.14.714 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.14.775 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.34.396 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013094334143','f80cde76-f074-4800-8da5-0299aad8eb8b','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.36.105 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.36.189 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.36.606 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.36.697 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.46.744 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_DistibuteData '20231013094334143','spvoutbound1','DISTRIBUTE'
+Message: Conversion failed when converting the varchar value 'Pria' to data type int.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.DistributeData(String TrxUploadID, String TrxUserName, String TrxAction) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 386
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.43.46.746 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_DistibuteData '20231013094334143','spvoutbound1','DISTRIBUTE'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.48.442 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.48.500 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.48.944 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.49.000 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.44.31.027 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'defaultSystem','spvoutbound1','UIDESK106'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.44.41.147 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'spvoutbound1', '4', 'Supervisor'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.44.41.154 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.44.41.639 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'spvoutbound1', 'null', '4','1067'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.44.41.656 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.44.46.597 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.44.46.641 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.44.47.096 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.44.47.143 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.44.57.449 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.44.57.953 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.45.01.231 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.45.01.280 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.45.01.732 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.45.01.787 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.46.17.783 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013094617505','3f9217fe-38ee-4a47-ae6c-38c836b2adfa','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.46.20.033 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.46.20.183 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.46.20.185 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.46.20.535 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.46.55.110 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_DistibuteData '20231013094617505','spvoutbound1','DELETE'
+Message: Conversion failed when converting the varchar value 'Pria' to data type int.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.DistributeDelete(String TrxUploadID, String TrxUserName, String TrxAction) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 426
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.46.55.114 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_DistibuteData '20231013094617505','spvoutbound1','DELETE'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.46.56.855 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.46.56.917 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.46.56.922 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.46.57.359 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.47.00.916 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.47.01.002 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.47.01.420 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.47.01.510 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.47.20.726 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_DistibuteData '20231013094617505','spvoutbound1','DELETE'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.47.22.406 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.47.22.456 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.47.22.915 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.47.22.964 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.49.18.916 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013094918668','df1146b5-e4b9-4537-86f8-97e641dfa762','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.49.21.102 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.49.21.216 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.49.21.226 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.49.21.605 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.49.29.726 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_DistibuteData '20231013094918668','spvoutbound1','DISTRIBUTE'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.49.31.458 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.49.31.508 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.49.31.957 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.49.32.012 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.50.56.412 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'spvoutbound1','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.50.56.416 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.50.56.423 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.50.56.425 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='spvoutbound1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.50.56.427 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 159
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.50.57.045 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'spvoutbound1', '4', 'Supervisor'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.50.57.051 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.50.57.546 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'spvoutbound1', 'open', '4','1067'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.50.57.554 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.00.434 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.00.452 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.00.935 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.00.961 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.06.351 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013095106092','df80be17-1626-4b09-80fc-a2ccc8e1692d','spvoutbound1','3'
+Message: Cannot execute the query "SELECT F13,'Tabungan Sekolah','20231013095106092', 'spvoutbound1',F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,F11,F12 FROM [Sheet1$]" against OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)". 
+OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" returned message "No value given for one or more required parameters.".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.51.06.352 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013095106092','df80be17-1626-4b09-80fc-a2ccc8e1692d','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.09.493 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.09.508 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.09.996 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.10.009 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.53.07.958 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013095307631','d1a486e8-63b6-4b59-94c1-a3bce45315ec','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.53.09.933 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.53.09.952 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.53.10.436 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.53.10.459 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.53.42.386 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013095342080','291fcef9-d14d-4436-a020-5f3d59742240','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.53.44.137 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.53.44.153 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.53.44.646 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.53.44.667 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.53.48.745 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.53.48.766 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.53.49.246 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.53.49.273 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.54.55.425 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.54.55.442 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.54.55.927 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.54.55.944 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.55.02.009 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013095501711','d1efd331-139e-4366-9e10-77b4656d369d','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.55.03.666 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.55.03.691 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.55.04.166 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.55.04.201 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.28.765 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.30.037 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'spvoutbound1', '4', 'Supervisor'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.30.498 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'spvoutbound1', 'open', '4','1067'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.31.001 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.31.501 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.36.570 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.36.633 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.37.072 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.37.133 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.43.754 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013095743451','9380c87c-e368-4b4a-b639-3f274c1b2ecb','spvoutbound1','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.45.753 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.45.818 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.46.257 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.46.320 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.49.883 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_DistibuteData '20231013095743451','spvoutbound1','DISTRIBUTE'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.51.911 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.52.022 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.52.413 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.52.537 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.09.10.090 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'Admin','Uidesk321!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.09.10.091 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.09.10.105 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.09.10.105 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='spvoutbound1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.11.56.697 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+

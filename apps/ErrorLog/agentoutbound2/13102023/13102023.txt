@@ -1,0 +1,1778 @@
+Time: 13/10/2023 08.11.37.990 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'agentoutbound2','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.11.37.994 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.11.38.003 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentoutbound2','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.11.38.006 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentoutbound2' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.11.38.009 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 159
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 08.11.38.666 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentoutbound2', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.11.38.697 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentoutbound2', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.11.38.701 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.11.39.203 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.14.49.586 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','agentoutbound2','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.27.064 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'agentoutbound2','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.27.067 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.27.074 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentoutbound2','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.27.076 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentoutbound2' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.27.079 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 159
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 08.31.28.026 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentoutbound2', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.28.079 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentoutbound2', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.28.581 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.29.082 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.40.006 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxOutboundAgentCounting 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.40.478 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.40.493 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.46.839 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TrxTaskboardCountingCall 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.46.867 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '0', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.47.371 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.47.874 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.51.152 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '1', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.55.969 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxOutboundAgentCounting 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.56.054 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 08.31.56.555 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.18.987 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentoutbound2','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.19.920 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentoutbound2', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.19.967 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentoutbound2', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.19.969 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.18.20.486 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.21.37.511 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxOutboundAgentCounting 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.21.37.983 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.21.37.991 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.27.13.050 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.27.13.073 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.27.13.565 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.27.13.576 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.27.28.351 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013092728207','dfdd1b98-a1c6-4ab5-bb31-ffb37c4ff3bc','agentoutbound2','3'
+Message: The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot initialize the data source object of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.27.28.355 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013092728207','dfdd1b98-a1c6-4ab5-bb31-ffb37c4ff3bc','agentoutbound2','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.27.30.122 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.27.30.181 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.27.30.623 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.27.30.684 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.28.04.690 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013092804604','0585f47e-4646-4719-b500-fba3111d86be','agentoutbound2','3'
+Message: The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot initialize the data source object of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)".
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.Tele_TrxUpload1.TeleUpload_1() in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\apps\asmx\Tele_TrxUpload.asmx.vb:line 291
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.28.04.692 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_Telemarketing_Excel '20231013092804604','0585f47e-4646-4719-b500-fba3111d86be','agentoutbound2','3'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.28.06.123 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.28.06.144 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.28.06.622 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.28.06.647 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.28.24.256 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.28.24.284 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.28.24.759 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.28.24.787 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.28.29.534 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_DistibuteData 'All','agentoutbound2','DISTRIBUTE'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.28.31.253 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.28.31.285 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.28.31.754 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.28.31.786 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.01.524 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentoutbound2','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.02.620 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentoutbound2', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.02.660 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentoutbound2', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.02.675 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.03.182 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.08.265 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxOutboundAgentCounting 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.08.281 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.08.783 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.14.953 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.14.991 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.15.460 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.15.506 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.23.654 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_DistibuteData '20230411014433192','agentoutbound2','DISTRIBUTE'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.25.247 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.25.269 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.25.748 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.25.779 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.35.868 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TrxTaskboardCountingCall 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.35.884 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '0', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.35.893 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.36.396 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.41.151 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxOutboundAgentCounting 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.41.225 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.29.41.739 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.31.31.908 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TrxTaskboardCountingCall 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.31.31.936 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '0', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.31.32.439 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.31.32.941 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.32.31.350 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.32.31.398 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.32.31.853 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.32.31.911 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.32.34.386 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.32.34.466 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.32.34.887 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.32.34.975 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.32.39.863 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_DistibuteData '20230930063135372','agentoutbound2','DISTRIBUTE'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.32.41.377 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK77'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.32.41.426 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.32.41.892 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK72'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.32.41.928 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.33.05.897 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TrxTaskboardCountingCall 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.33.05.931 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '0', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.33.06.434 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.33.06.442 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.34.10.500 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.34.11.005 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.36.36.639 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxOutboundAgentCounting 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.36.36.646 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.36.37.148 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.40.34.125 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','agentoutbound2','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.41.09.313 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxOutboundAgentCounting 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.41.09.338 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.41.09.840 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.41.20.936 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxOutboundAgentCounting 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.41.21.026 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.41.21.528 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.42.52.708 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','agentoutbound2','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.42.54.616 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentoutbound2','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.42.55.349 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentoutbound2', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.42.55.391 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentoutbound2', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.42.55.396 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.42.55.899 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.00.812 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxOutboundAgentCounting 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.00.835 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.01.337 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.17.375 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxOutboundAgentCounting 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.17.423 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.17.927 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.53.699 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxOutboundAgentCounting 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.53.729 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.43.54.241 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.49.36.963 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxOutboundAgentCounting 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.49.36.995 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.49.37.000 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.50.31.032 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxOutboundAgentCounting 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.50.31.067 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.50.31.576 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.26.907 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'agentoutbound2','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.26.909 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.26.915 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentoutbound2','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.26.916 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentoutbound2' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.26.918 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 159
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 09.51.27.570 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentoutbound2', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.27.616 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentoutbound2', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.28.103 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.28.605 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.32.266 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TrxTaskboardCountingCall 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.32.300 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '0', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.32.806 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.33.307 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.38.484 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxOutboundAgentCounting 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.38.509 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.39.010 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.51.534 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TrxTaskboardCountingCall 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.51.573 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '0', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.51.577 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.51.52.079 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.52.00.157 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '082268032520','agentoutbound2','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.52.00.188 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.52.00.652 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '3','agentoutbound2','UIDESK87'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.52.00.699 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.52.01.598 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '1238','agentoutbound2','UIDESK88'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.52.46.902 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TrxTaskboardCountingCall 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.52.46.939 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '0', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.52.46.960 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.52.47.460 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.52.54.626 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '082268032520','agentoutbound2','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.52.54.631 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '3','agentoutbound2','UIDESK87'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.52.54.656 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.52.55.158 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.52.55.686 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '1238','agentoutbound2','UIDESK88'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.54.26.543 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentoutbound2','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.54.27.737 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentoutbound2', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.54.27.788 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentoutbound2', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.54.27.817 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.54.28.320 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.54.34.228 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TrxTaskboardCountingCall 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.54.34.740 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.54.35.241 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.54.35.507 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '1', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.54.35.741 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '0', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.54.38.718 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '3','agentoutbound2','UIDESK87'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.54.38.750 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.54.39.220 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '082268032520','agentoutbound2','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.54.39.259 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.54.39.697 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '1238','agentoutbound2','UIDESK88'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.55.25.177 AM
+---------------------------Success-------------------------------------------------------
+Message: exec TELE_TransaksiNote '1238','<p>sassdasa</p>
+','Answer','Confirmed','agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.55.26.861 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '1238','agentoutbound2','UIDESK88'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.58.816 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TrxTaskboardCountingCall 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.58.825 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.59.320 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '0', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 09.57.59.829 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.04.46.586 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','agentoutbound2','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.04.46.590 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentoutbound2','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.04.46.611 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','agentoutbound2','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.04.46.709 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.04.47.086 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentoutbound2','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.04.47.100 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentoutbound2','UIDESK306'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.04.47.127 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.04.47.211 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.04.47.601 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','agentoutbound2','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.04.48.103 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentoutbound2','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.04.48.602 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentoutbound2','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.04.49.104 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentoutbound2','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.04.54.315 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '28','UideskIndonesia','agentoutbound2','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.05.07.563 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00000','UideskIndonesia','agentoutbound2','UIDESK308'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.05.17.517 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentoutbound2', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.05.17.559 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentoutbound2', 'null', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.05.18.061 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.05.18.562 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.05.35.101 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','agentoutbound2','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.05.49.764 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentoutbound2','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.05.50.469 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentoutbound2', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.05.50.496 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentoutbound2', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.05.50.992 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.05.51.506 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.22.627 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'agentoutbound2','uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.22.635 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.22.655 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentoutbound2','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.22.657 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='agentoutbound2' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.22.660 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 159
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 13/10/2023 10.06.23.309 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentoutbound2', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.23.793 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.24.309 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentoutbound2', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.24.794 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.28.896 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TrxTaskboardCountingCall 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.28.930 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '0', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.29.433 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.29.933 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.37.593 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '3','agentoutbound2','UIDESK87'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.37.619 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.37.641 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.38.094 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '085782432200','agentoutbound2','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.40.237 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '1179','agentoutbound2','UIDESK88'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.45.655 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '1179','agentoutbound2','UIDESK89'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.47.676 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '1179','agentoutbound2','UIDESK88'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.50.004 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TrxTaskboardCountingCall 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.50.063 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '0', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.50.566 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.51.066 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.54.390 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '085782432211','agentoutbound2','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.54.425 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.54.890 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '3','agentoutbound2','UIDESK87'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.54.930 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.06.57.056 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '1180','agentoutbound2','UIDESK88'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.07.01.237 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TrxTaskboardCountingCall 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.07.01.277 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '0', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.07.01.786 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.07.02.287 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.07.08.394 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '085782432222','agentoutbound2','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.07.08.423 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.07.08.906 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '3','agentoutbound2','UIDESK87'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.07.08.927 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.07.12.961 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '1181','agentoutbound2','UIDESK88'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.07.15.514 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '3','agentoutbound2','UIDESK87'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.07.26.927 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec TR_DataThread 'Layer 1', 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.07.26.942 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.07.27.431 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_TempKotakThread 'agentoutbound2','1','layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.07.27.445 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.07.32.584 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','agentoutbound2','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.08.04.456 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TrxTaskboardCountingCall 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.08.04.498 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '0', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.08.05.004 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.08.05.519 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.08.50.606 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TrxTaskboardCountingCall 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.08.50.643 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '0', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.08.51.164 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.08.51.664 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.48.26.708 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentoutbound2','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.48.28.425 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentoutbound2', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.48.28.485 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentoutbound2', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.48.28.973 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.48.29.473 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.52.25.181 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentoutbound2','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.52.25.195 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentoutbound2','UIDESK306'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.52.25.232 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','agentoutbound2','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.52.25.281 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.52.25.692 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentoutbound2','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.52.25.707 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentoutbound2','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.52.25.744 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.52.25.797 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.52.26.192 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','agentoutbound2','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.52.26.209 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','agentoutbound2','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.52.26.693 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentoutbound2','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.52.27.194 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','agentoutbound2','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.52.29.039 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'wanda','UideskIndonesia','agentoutbound2','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.52.31.776 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '230829143548','UideskIndonesia','agentoutbound2','GETDATABRAND'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 10.52.31.800 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '230829143548','UideskIndonesia','agentoutbound2','UIDESK313'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.02.38.651 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentoutbound2','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.02.40.173 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentoutbound2', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.02.40.234 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentoutbound2', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.02.40.263 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.02.40.764 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.28.49.227 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','agentoutbound2','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.28.49.758 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'agentoutbound2', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.28.49.772 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.28.50.283 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'agentoutbound2', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.28.50.778 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.28.54.050 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TrxTaskboardCountingCall 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.28.54.072 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '0', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.28.54.570 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.28.54.588 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.30.30.109 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '085782432211','agentoutbound2','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.30.30.120 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.30.30.612 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '3','agentoutbound2','UIDESK87'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.30.30.623 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.30.33.654 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '1180','agentoutbound2','UIDESK88'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.30.38.440 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '1180','agentoutbound2','UIDESK89'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.30.43.313 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec TELE_HistoryCall '1180','085782432211','agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.30.43.833 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '1180','agentoutbound2','UIDESK88'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.30.45.422 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '3','agentoutbound2','UIDESK87'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.30.46.003 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '1180','agentoutbound2','UIDESK88'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.31.07.027 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TrxTaskboardCountingCall 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.31.07.032 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.31.07.040 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.31.07.534 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '0', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.31.13.234 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TaskboardPending 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.31.45.714 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '085782432211','agentoutbound2','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.31.45.721 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.31.46.217 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '3','agentoutbound2','UIDESK87'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.31.46.225 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.31.49.704 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '1180','agentoutbound2','UIDESK88'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.32.26.340 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TrxTaskboardCountingCall 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.32.26.371 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '0', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.32.26.877 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.32.27.384 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.32.55.257 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '3','agentoutbound2','UIDESK87'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.32.55.268 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.32.55.285 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.32.55.759 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '085782432211','agentoutbound2','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.33.25.376 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '1180','agentoutbound2','UIDESK88'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.33.32.433 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '085782432211','agentoutbound2','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.33.32.452 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.33.32.934 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '3','agentoutbound2','UIDESK87'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.33.32.962 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.33.33.918 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Tele_TrxTaskboardCountingCall 'agentoutbound2'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.33.33.942 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec Tele_Taskboard '0', 'agentoutbound2', ''
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.33.34.448 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 13/10/2023 11.33.34.947 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','agentoutbound2','UIDESK66'
+---------------------------Success-------------------------------------------------------
+

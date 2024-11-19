@@ -1,0 +1,82 @@
+{
+    "code": 200,
+    "message": "SUCCESS",
+    "data": {
+        "order_code": "SHPE-240527E18VC44B",
+        "invoice_no": "240527E18VC44B",
+        "mp_buyer_id": "35424714",
+        "store_code": "SHPE-61516207",
+        "marketplace": "shopee",
+        "total_product": 1083200,
+        "total_qty": 4,
+        "order_date": "2024-05-27T04:13:28.000Z",
+        "payment_date": "2024-05-27T04:13:35.000Z",
+        "is_cod": 0,
+        "is_dropship": 0,
+        "cancel_reason": "",
+        "store": {
+            "store_name": "Mothercare Official Store"
+        },
+        "order_shipping": {
+            "courier_name": "",
+            "courier_ref": null,
+            "courier_service_name": "Hemat",
+            "destination_address": "Jalan vatu gusu, lorong 32, rumah 32 ((Pagar Batako)), KOTA PALU, MANTIKULORE, SULAWESI TENGAH, ID, 94234",
+            "destination_city": "KOTA PALU",
+            "destination_district": "",
+            "destination_name": "Y******o",
+            "destination_phone": "******64",
+            "destination_postal_code": "94234",
+            "destination_province": "SULAWESI TENGAH",
+            "dropshipper_name": null,
+            "dropshipper_phone": null,
+            "dropshipper_detail": null
+        },
+        "order_status": {
+            "status": 200,
+            "name": "Pesanan Baru"
+        },
+        "order_products": [
+            {
+                "product_name": "Mothercare Dino Briefs - 5 Pack - Set Pakaian Dalam Anak Laki-laki (Multicolor) - 4-5 Years",
+                "sku": "624983",
+                "price": 263200,
+                "qty": 1,
+                "subtotal": 263200,
+                "notes": "",
+                "image_url": "https://cf.shopee.co.id/file/id-11134201-7r992-lqd7pi4jmnb38e",
+                "variant_name": "4-5 Years"
+            },
+            {
+                "product_name": "Mothercare Armadillo Shorts and T-Shirt Set - Set Pakaian Anak Laki-laki (Hitam) - 5-6 years",
+                "sku": "617058",
+                "price": 230300,
+                "qty": 1,
+                "subtotal": 230300,
+                "notes": "",
+                "image_url": "https://cf.shopee.co.id/file/id-11134201-7r98v-lo6c4oh71pmyeb",
+                "variant_name": "5-6 years"
+            },
+            {
+                "product_name": "Mothercare Armadillo Shorts and T-Shirt Set - Set Pakaian Anak Laki-laki (Hitam) - 18-24 months",
+                "sku": "617054",
+                "price": 230300,
+                "qty": 1,
+                "subtotal": 230300,
+                "notes": "",
+                "image_url": "https://cf.shopee.co.id/file/id-11134201-7r98v-lo6c4oh71pmyeb",
+                "variant_name": "18-24 months"
+            },
+            {
+                "product_name": "Mothercare Under The Sea Sunsafe Suit - Pakaian Renang Bayi Laki-laki (Biru) - 4-5 years",
+                "sku": "615307",
+                "price": 359400,
+                "qty": 1,
+                "subtotal": 359400,
+                "notes": "",
+                "image_url": "https://cf.shopee.co.id/file/id-11134201-7r98s-lp7kc3kxtv0t53",
+                "variant_name": "4-5 years"
+            }
+        ]
+    }
+}

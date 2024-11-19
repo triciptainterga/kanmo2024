@@ -1,0 +1,214 @@
+Time: 02/09/2024 09:34:59:421 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','Lita_Aprilia','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 09:35:00:627 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Lita_Aprilia', '3', 'layer3'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 09:35:01:079 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Lita_Aprilia','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 09:35:01:589 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Lita_Aprilia', 'open', '3','0'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 09:35:02:033 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Lita_Aprilia','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 09:35:02:597 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Lita_Aprilia'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 09:35:03:071 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Lita_Aprilia'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 09:35:07:247 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Lita_Aprilia', '3', 'layer3'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 09:35:07:762 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Lita_Aprilia'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 09:35:08:247 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Lita_Aprilia'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 09:35:08:784 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Lita_Aprilia', 'open', '3','0'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 09:35:09:263 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Lita_Aprilia','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 09:35:09:771 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Lita_Aprilia','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 10:19:25:711 AM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'Lita_Aprilia','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 10:19:25:722 AM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 10:19:25:845 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','Lita_Aprilia','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 10:19:25:845 AM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='Lita_Aprilia' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 10:19:25:882 AM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in D:\helpdesk_agent\auth_local.aspx.vb:line 157
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in D:\helpdesk_agent\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 02/09/2024 10:19:45:308 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Lita_Aprilia','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 10:19:45:772 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Lita_Aprilia','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 10:19:46:897 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Lita_Aprilia', '3', 'layer3'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 10:19:47:327 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Lita_Aprilia', 'open', '3','0'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 10:19:47:857 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Lita_Aprilia'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 10:19:48:350 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Lita_Aprilia'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 10:21:35:227 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Lita_Aprilia', '3', 'layer3'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 10:21:35:661 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Lita_Aprilia', 'open', '3','0'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 10:21:36:178 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Lita_Aprilia'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 10:21:36:665 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Lita_Aprilia'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 10:21:37:177 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Lita_Aprilia','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 10:21:37:703 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Lita_Aprilia','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 10:22:11:644 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Lita_Aprilia', '3', 'layer3'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 10:22:12:080 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Lita_Aprilia'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 10:22:12:573 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Lita_Aprilia'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 10:22:13:114 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Lita_Aprilia', 'open', '3','0'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 10:22:13:586 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Lita_Aprilia','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 10:22:14:113 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Lita_Aprilia','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 02/09/2024 10:23:43:269 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','Lita_Aprilia','Insert'
+Message: Invalid object name 'INV_TRX_LIC'.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at ICC.TrmAux.InsertLogoutActivity(String TrxLoginID, String TrxLoginUserName, String TrxAction) in D:\helpdesk_agent\apps\asmx\TrmAux.asmx.vb:line 256
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 02/09/2024 10:23:43:270 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','Lita_Aprilia','Insert'
+---------------------------Success-------------------------------------------------------
+

@@ -1,0 +1,490 @@
+Time: 11/06/2024 10:26:05:705 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxAgentAux '9','Nursyamsuri'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:05:718 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','Nursyamsuri','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:06:935 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Nursyamsuri', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:07:387 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Nursyamsuri'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:09:238 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Nursyamsuri', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:09:472 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Nursyamsuri','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:09:895 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Nursyamsuri','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:10:789 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Nursyamsuri'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:18:629 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','null','Nursyamsuri','UIDESK322'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:18:666 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Nursyamsuri','UIDESK330'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:18:680 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'null','UideskIndonesia','Nursyamsuri','UIDESK319'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:19:151 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Nursyamsuri','UIDESK302'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:19:625 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Nursyamsuri','UIDESK303'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:19:773 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Nursyamsuri'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:19:828 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Nursyamsuri'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:19:885 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Nursyamsuri','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:19:902 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Nursyamsuri','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:20:130 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Nursyamsuri','UIDESK307'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:20:631 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '-','UideskIndonesia','Nursyamsuri','UIDESK305'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:21:141 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'UideskIndonesia','UideskIndonesia','Nursyamsuri','UIDESK304'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:24:387 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Nursyamsuri','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:24:809 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_Temp_SelectInstanNote '', 'Ticket'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:25:321 AM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '301010','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:33:090 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'SAM','UideskIndonesia','Nursyamsuri','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:33:181 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'SAMS','UideskIndonesia','Nursyamsuri','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:33:314 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'SAMSU','UideskIndonesia','Nursyamsuri','UIDESK324'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:35:592 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240222155832','UideskIndonesia','Nursyamsuri','GETDATABRAND'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:35:703 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240222155832','UideskIndonesia','Nursyamsuri','UIDESK313'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:41:839 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Nursyamsuri','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:42:339 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00001','UideskIndonesia','Nursyamsuri','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:43:073 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00002','UideskIndonesia','Nursyamsuri','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:44:034 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00002','UideskIndonesia','Nursyamsuri','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:47:779 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '31','UideskIndonesia','Nursyamsuri','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:52:626 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00005','BRA-00002','Nursyamsuri','UIDESK332'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:54:365 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT3-0000108','UideskIndonesia','Nursyamsuri','UIDESK314'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:26:54:384 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '1071','UideskIndonesia','Nursyamsuri','UIDESK311'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:27:38:008 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00002','UideskIndonesia','Nursyamsuri','UIDESK301'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:27:38:028 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT2-00046','UideskIndonesia','Nursyamsuri','UIDESK310'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:27:38:073 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '240222155832','UideskIndonesia','Nursyamsuri','UIDESK321'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:27:38:252 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '31','UideskIndonesia','Nursyamsuri','UIDESK327'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:27:38:271 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT3-0000108','UideskIndonesia','Nursyamsuri','UIDESK314'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:27:38:324 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket '1071','UideskIndonesia','Nursyamsuri','UIDESK311'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:27:39:065 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'BRA-00002','UideskIndonesia','Nursyamsuri','UIDESK331'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:27:39:281 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CT1-00034','UideskIndonesia','Nursyamsuri','UIDESK309'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:27:39:906 AM
+---------------------------Success-------------------------------------------------------
+Message: exec Insert_Transaction '240222155832','20240611102739327','Call','BRA-00002','CAT-00005','CT1-00034','CT2-00046','CT3-0000108','<p>Simulasi 1 BD</p>
+','<p>Simulasi BD 2</p>
+','3','Open','Nursyamsuri','202406111027393276781813','SAMSU%20RIZAL','rizalsamsurizal708@gmail.com','6285782431208','[object Object]','-','240505HJ2YN2Q2','Tiktok Shop','E-Survey','CT3-0000108','Call','2024-06-11T10:26:14','31','1','Nursyamsuri','1071','3','202406111027393276781813', '20240611102739327678181426', '-','0','-','Coach'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:27:40:144 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_ListDataTransactionticket '240222155832','Nursyamsuri','null'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:27:40:317 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxTransactionTicket 'CAT-00005','BRA-00002','Nursyamsuri','UIDESK332'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:27:43:045 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_Temp_PublishTransaction '240222155832','Nursyamsuri'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:27:45:674 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'Nursyamsuri', '1', 'layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:27:46:882 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'Nursyamsuri', 'open', '1',''
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:27:47:029 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Nursyamsuri','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:27:47:534 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Nursyamsuri','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:27:48:239 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Nursyamsuri'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:27:48:582 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Nursyamsuri'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:27:53:598 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Nursyamsuri'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:27:54:304 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Nursyamsuri'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:27:54:537 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Nursyamsuri','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:27:55:036 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Nursyamsuri','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:01:402 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxFilterDate '2024-06-11','2024-06-11','Nursyamsuri','CheckDay'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:01:746 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxHistoryTicket '2024-06-11','2024-06-11','Nursyamsuri',''
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:21:302 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '1','Nursyamsuri','UIDESK57'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:21:393 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmMasterDropdown 'UideskIndonesia','InboxTable','Nursyamsuri','UIDESK100'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:21:404 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '6','Nursyamsuri','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:21:460 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','Nursyamsuri','UIDESK116'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:21:476 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '4','Nursyamsuri','UIDESK73'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:21:486 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Nursyamsuri','UIDESK115'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:21:574 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailCounting 'Nursyamsuri','layer1'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:21:593 AM
+---------------------------Success-------------------------------------------------------
+Message: exec KAN_Uidesk_EpicOutboundCall '301010','0','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:21:715 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Nursyamsuri'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:22:111 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Nursyamsuri'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:22:120 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Nursyamsuri','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:22:129 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Nursyamsuri','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:22:243 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Nursyamsuri','','INSERT'
+Message: OrderID
+StackTrace:    at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at ICC.BantuDagang.DataAccessToken(String UserName, String Token, String Action) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\asmx\BantuDagang.asmx.vb:line 212
+Source: System.Data
+TargetSite: Int32 GetOrdinal(System.String)
+---------------------------Failed-------------------------------------------------------
+
+Time: 11/06/2024 10:28:22:246 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Nursyamsuri','','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:22:303 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Nursyamsuri','20240611102739327','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:22:509 AM
+---------------------------Failed-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Nursyamsuri','eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudF9pZCI6NDA1MSwidXNlcl9pZCI6MjA3MywiYWNjb3VudF9pZCI6Mzg3MCwibmFtZSI6IlVJRGVzayIsImVtYWlsIjoic2EtMjA3My1GWUdUSi4xNzE2NzgxNDYyQGlhbS5iYW50dWRhZ2FuZy5jb20iLCJhZ2VudF90eXBlIjoic2VydmljZV9hY2NvdW50Iiwic3RvcmVfcmVzdHJpY3RlZCI6MCwic3RvcmVzIjpbIlRLUEQtNjg1NzY0MyIsIlRLUEQtNzk4NTA2MiIsIlNIUEUtNjQ4NzQ5OTIiLCJTSFBFLTYxNTE2MjA3IiwiTFpEQS0yNTE4OSIsIlRLUEQtODEwMjU0MSIsIlNIUEUtMjgyMDQ5NjIxIiwiVEtQRC0xMTU2MDcwMyIsIlRLUEQtOTk1Nzc5MCIsIlRLUEQtOTI4Njk2NSIsIlRLUEQtNjA5MDk2MiIsIlRLUEQtOTE3MzgwOSIsIlRLUEQtMTMzMTkxMDMiLCJUS1BELTEyMDk1MDY2IiwiVEtQRC0xMzgyNDM3MSIsIlRLUEQtODMyODkzMSIsIlNIUEUtODU0NzM5NjAiLCJUS1BELTEzMTQ3NDE0IiwiU0hQRS05NzI5MTE0NSIsIlRLUEQtODkyMzc4MyIsIlNIUEUtMTE3OTI1Njk0IiwiVEtQRC0zODU5NjAxIiwiU0hQRS0yMjU3MTA2MTYiLCJTSFBFLTIyMTYwMjYxOSIsIlRLUEQtNzE2NjgwMSIsIlNIUEUtMzI1MjQwNTU2IiwiVEtQRC05NzMxNjAzIiwiVEtQRC0xNDQzNjAwNiIsIlNIUEUtMjQyNTg2MDg3IiwiU0hQRS0yNDAyMjk3NjIiLCJUS1BELTExMTM5MDg1IiwiU0hQRS0zMjgyODQ3NDIiLCJTSFBFLTI4MTk0MjU2MyIsIlNIUEUtMzczNTQwNjg3IiwiU0hQRS0yOTQ5MzQyNDAiLCJTSFBFLTQ3NDU1OTQ1NCIsIlNIUEUtMzc0OTI3OTQzIiwiVEtQRC0xNTUwOTM4OCIsIlNIUEUtNDIxNjUzODc1IiwiVEtQRC0xNTY1NTYyMCIsIlNIUEUtNzE5MTg4NDc4IiwiVEtQRC0xNTYwNzgyOCIsIlNIUEUtNzc4MDYzOTA3IiwiU0hQRS05OTYyNTMxNDQiLCJTSFBFLTk3MDEzNTY4MSIsIlNIUEUtODg2MTkyNzA5IiwiTFpEQS00MDExOTU5MjAxOTEiLCJMWkRBLTQwMTE5NTU1Mjg4MiIsIkxaREEtNDAxMTk2MDQ4Mzc2IiwiTFpEQS00MDExOTU5Njg0NzEiLCJMWkRBLTQwMTE5NTYzMjk4NSIsIkxaREEtNDAwNjExNjA2MjA2IiwiVEtQRC0xNjI2NDEwOCIsIlNIUEUtMzIyNjIwNzM3IiwiTFpEQS00MDE3ODA1MjgzNjciLCJMWkRBLTQwMTYyNzAwODc1NyIsIlRLUEQtNDkyNjYxMSIsIlRLUEQtMTEwMjc5MTgiLCJUS1BELTgxNzQ2MTQiLCJTSFBFLTQxOTI1NzE0MSIsIlNIUEUtMTA1ODc0NTAwNiIsIlNIUEUtOTgwMDg4MTUzIiwiTFpEQS00MDE0NTMyNDgwMTAiLCJMWkRBLTQwMDcwNzAzOTY5NiIsIkxaREEtNDAxNjEwMTkyMzgzIiwiTFpEQS00MDE1OTIwMTYwMTQiLCJMWkRBLTQwMTE5NjU0NDI3MSIsIkxaREEtNDAxMTk2NTYwMTYxIiwiTFpEQS00MDA1OTA1MTY0MjAiLCJUS1RLLTc0OTQ3NTM1MDMwMzg1MDc3MzQiLCJUS1BELTE3Mjk5ODEwIiwiU0hQRS0xMjAyMDg2MTk4IiwiTFpEQS00MDE5MDEwODg2MjciLCJUS1RLLTc0OTQ2MDMzNDAzMDM5Mjc0OTEiLCJTSFBFLTExOTczNjYxMzgiXSwicHJpdmlsZWdlIjpbXSwibWVtYmVyc2hpcCI6eyJwYWNrYWdlX25hbWUiOiJQUk8iLCJtZW1iZXJzaGlwX2VuZCI6IjIwMjQtMDYtMzBUMTc6MDA6MDAuMDAwWiIsImFjdGl2ZSI6MSwibWF4X3N0b3JlIjo3NiwibWF4X2VtcGxveWVlIjoxNywibWF4X29yZGVyIjotMSwib3JkZXJfbXRkIjowfSwiYWdlbnRfYWxpYXMiOiIiLCJzZXNzaW9uX2VuZCI6IjIwMjQtMDgtMTAgMDM6Mjg6MjQiLCJpYXQiOjE3MTgwNzY1MDQsImV4cCI6MTcxODA4MDEwNH0.P2b6EJr64wzTbXYcqzZPKumGJgpS6ktjqQNLVU5krjA','INSERT'
+Message: OrderID
+StackTrace:    at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at ICC.BantuDagang.DataAccessToken(String UserName, String Token, String Action) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\asmx\BantuDagang.asmx.vb:line 212
+Source: System.Data
+TargetSite: Int32 GetOrdinal(System.String)
+---------------------------Failed-------------------------------------------------------
+
+Time: 11/06/2024 10:28:22:510 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Nursyamsuri','eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudF9pZCI6NDA1MSwidXNlcl9pZCI6MjA3MywiYWNjb3VudF9pZCI6Mzg3MCwibmFtZSI6IlVJRGVzayIsImVtYWlsIjoic2EtMjA3My1GWUdUSi4xNzE2NzgxNDYyQGlhbS5iYW50dWRhZ2FuZy5jb20iLCJhZ2VudF90eXBlIjoic2VydmljZV9hY2NvdW50Iiwic3RvcmVfcmVzdHJpY3RlZCI6MCwic3RvcmVzIjpbIlRLUEQtNjg1NzY0MyIsIlRLUEQtNzk4NTA2MiIsIlNIUEUtNjQ4NzQ5OTIiLCJTSFBFLTYxNTE2MjA3IiwiTFpEQS0yNTE4OSIsIlRLUEQtODEwMjU0MSIsIlNIUEUtMjgyMDQ5NjIxIiwiVEtQRC0xMTU2MDcwMyIsIlRLUEQtOTk1Nzc5MCIsIlRLUEQtOTI4Njk2NSIsIlRLUEQtNjA5MDk2MiIsIlRLUEQtOTE3MzgwOSIsIlRLUEQtMTMzMTkxMDMiLCJUS1BELTEyMDk1MDY2IiwiVEtQRC0xMzgyNDM3MSIsIlRLUEQtODMyODkzMSIsIlNIUEUtODU0NzM5NjAiLCJUS1BELTEzMTQ3NDE0IiwiU0hQRS05NzI5MTE0NSIsIlRLUEQtODkyMzc4MyIsIlNIUEUtMTE3OTI1Njk0IiwiVEtQRC0zODU5NjAxIiwiU0hQRS0yMjU3MTA2MTYiLCJTSFBFLTIyMTYwMjYxOSIsIlRLUEQtNzE2NjgwMSIsIlNIUEUtMzI1MjQwNTU2IiwiVEtQRC05NzMxNjAzIiwiVEtQRC0xNDQzNjAwNiIsIlNIUEUtMjQyNTg2MDg3IiwiU0hQRS0yNDAyMjk3NjIiLCJUS1BELTExMTM5MDg1IiwiU0hQRS0zMjgyODQ3NDIiLCJTSFBFLTI4MTk0MjU2MyIsIlNIUEUtMzczNTQwNjg3IiwiU0hQRS0yOTQ5MzQyNDAiLCJTSFBFLTQ3NDU1OTQ1NCIsIlNIUEUtMzc0OTI3OTQzIiwiVEtQRC0xNTUwOTM4OCIsIlNIUEUtNDIxNjUzODc1IiwiVEtQRC0xNTY1NTYyMCIsIlNIUEUtNzE5MTg4NDc4IiwiVEtQRC0xNTYwNzgyOCIsIlNIUEUtNzc4MDYzOTA3IiwiU0hQRS05OTYyNTMxNDQiLCJTSFBFLTk3MDEzNTY4MSIsIlNIUEUtODg2MTkyNzA5IiwiTFpEQS00MDExOTU5MjAxOTEiLCJMWkRBLTQwMTE5NTU1Mjg4MiIsIkxaREEtNDAxMTk2MDQ4Mzc2IiwiTFpEQS00MDExOTU5Njg0NzEiLCJMWkRBLTQwMTE5NTYzMjk4NSIsIkxaREEtNDAwNjExNjA2MjA2IiwiVEtQRC0xNjI2NDEwOCIsIlNIUEUtMzIyNjIwNzM3IiwiTFpEQS00MDE3ODA1MjgzNjciLCJMWkRBLTQwMTYyNzAwODc1NyIsIlRLUEQtNDkyNjYxMSIsIlRLUEQtMTEwMjc5MTgiLCJUS1BELTgxNzQ2MTQiLCJTSFBFLTQxOTI1NzE0MSIsIlNIUEUtMTA1ODc0NTAwNiIsIlNIUEUtOTgwMDg4MTUzIiwiTFpEQS00MDE0NTMyNDgwMTAiLCJMWkRBLTQwMDcwNzAzOTY5NiIsIkxaREEtNDAxNjEwMTkyMzgzIiwiTFpEQS00MDE1OTIwMTYwMTQiLCJMWkRBLTQwMTE5NjU0NDI3MSIsIkxaREEtNDAxMTk2NTYwMTYxIiwiTFpEQS00MDA1OTA1MTY0MjAiLCJUS1RLLTc0OTQ3NTM1MDMwMzg1MDc3MzQiLCJUS1BELTE3Mjk5ODEwIiwiU0hQRS0xMjAyMDg2MTk4IiwiTFpEQS00MDE5MDEwODg2MjciLCJUS1RLLTc0OTQ2MDMzNDAzMDM5Mjc0OTEiLCJTSFBFLTExOTczNjYxMzgiXSwicHJpdmlsZWdlIjpbXSwibWVtYmVyc2hpcCI6eyJwYWNrYWdlX25hbWUiOiJQUk8iLCJtZW1iZXJzaGlwX2VuZCI6IjIwMjQtMDYtMzBUMTc6MDA6MDAuMDAwWiIsImFjdGl2ZSI6MSwibWF4X3N0b3JlIjo3NiwibWF4X2VtcGxveWVlIjoxNywibWF4X29yZGVyIjotMSwib3JkZXJfbXRkIjowfSwiYWdlbnRfYWxpYXMiOiIiLCJzZXNzaW9uX2VuZCI6IjIwMjQtMDgtMTAgMDM6Mjg6MjQiLCJpYXQiOjE3MTgwNzY1MDQsImV4cCI6MTcxODA4MDEwNH0.P2b6EJr64wzTbXYcqzZPKumGJgpS6ktjqQNLVU5krjA','INSERT'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:22:547 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Nursyamsuri','20240611102739327','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:22:753 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxFilterDate '0','0','Nursyamsuri','FilterDate'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:23:564 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240611102739327','Nursyamsuri','UIDESK54'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:23:766 AM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_TrxToken 'Nursyamsuri','20240611102739327','SELECT'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:24:304 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240611102739327','Nursyamsuri','UIDESK56'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:24:813 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240611102739327','Nursyamsuri','UIDESK55'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:24:913 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240611102739327','Nursyamsuri','UIDESK59'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:25:485 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '240222155832','Nursyamsuri','UIDESK53'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:28:26:294 AM
+---------------------------Failed-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240611102739327','Nursyamsuri','UIDESK60'
+Message: Arithmetic overflow error converting expression to data type bigint.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TrySetMetaData(_SqlMetaDataSet metaData, Boolean moreInfo)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at ICC.WebServiceGetDataMaster.UIDESK_TrmMasterCombo(String TrxID, String TrxUserName, String TrxAction) in D:\RESELLER\Aplikasi\helpdesk_agent\apps\WebServiceGetDataMaster.asmx.vb:line 5429
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+---------------------------Failed-------------------------------------------------------
+
+Time: 11/06/2024 10:28:26:298 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown '20240611102739327','Nursyamsuri','UIDESK60'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:30:58:996 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Nursyamsuri'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:30:59:658 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrxEmailNotifikasi 'Nursyamsuri'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:30:59:921 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Nursyamsuri','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 11/06/2024 10:31:00:431 AM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','Nursyamsuri','UIDESK14'
+---------------------------Success-------------------------------------------------------
+

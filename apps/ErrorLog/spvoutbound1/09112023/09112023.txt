@@ -1,0 +1,59 @@
+Time: 09/11/2023 02.38.01.302 PM
+---------------------------Success-------------------------------------------------------
+Message: exec SP_LOGIN_APPLIKASI  'spvoutbound1','Uidesk123!'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/11/2023 02.38.01.311 PM
+---------------------------Success-------------------------------------------------------
+Message: select * from UIDESK_SOCIAL_ACCOUNT where AccountID=''
+---------------------------Success-------------------------------------------------------
+
+Time: 09/11/2023 02.38.01.337 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLoginActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/11/2023 02.38.01.341 PM
+---------------------------Success-------------------------------------------------------
+Message: SELECT TOP 1 * FROM UIDESK_TrxAux WHERE AuxUserName='spvoutbound1' ORDER BY ID DESC
+---------------------------Success-------------------------------------------------------
+
+Time: 09/11/2023 02.38.01.343 PM
+---------------------------Failed-------------------------------------------------------
+Message: Select COUNT (UserID) as userID from msUser where UserName=@uservalue
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at ICC.auth_local.AccessLogin(String UserName, String Password) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 159
+   at ICC.auth_local.Login_ButtonSubmit_ServerClick(Object sender, EventArgs e) in C:\Users\Public\Programmer\Sementara\Kanmo\kanmoapps\auth_local.aspx.vb:line 56
+Source: mscorlib
+TargetSite: Void AbortInternal()
+---------------------------Failed-------------------------------------------------------
+
+Time: 09/11/2023 02.38.02.089 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec SP_TempKotakTodolist 'spvoutbound1', '4', 'Supervisor'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/11/2023 02.38.02.100 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK66'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/11/2023 02.38.02.557 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec NEW_Sp_Open 'spvoutbound1', 'open', '4','1067'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/11/2023 02.38.02.604 PM
+---------------------------Success-------------------------------------------------------
+Message: Exec UIDESK_TrmDropdown 'UideskIndonesia','spvoutbound1','UIDESK14'
+---------------------------Success-------------------------------------------------------
+
+Time: 09/11/2023 02.38.04.403 PM
+---------------------------Success-------------------------------------------------------
+Message: exec UIDESK_SP_TrxLogoutActivity '9','spvoutbound1','Insert'
+---------------------------Success-------------------------------------------------------
+
