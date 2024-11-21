@@ -272,18 +272,32 @@
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-md-1" style="text-align: right;">
-                                <label class="text-right"><a href="#" onclick="addresstujuan()">To</a> <span class="text-danger">*</span></label>
+                            <!-- <div class="col-md-1" style="text-align: right;">
+                                <label class="text-right"><a href="#" onclick="addresstujuan()">To</a><span class="text-danger">*</span></label>
                             </div>
                             <div class="col-md-11">
                                 <div class="form-group">
-                                    <div class="controls">
-                                        <input type="text" class="form-control" id="ComposeETO" name="ComposeETO" data-role="tagsinput">
-                                        <%--<input type="text" class="form-control" id="ComposeETO" name="ComposeETO" data-role="tagsinput" data-validation-regex-regex="((\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*)*([;])*)*" data-validation-regex-message="Format Email Address Invalid">--%>
+                                    <div class="tags-input form-control" id="ComposeETO1" 
+                                         style="display: flex; flex-direction: column; position: relative;">
+                                        <div class="data" style="display: flex; flex-wrap: wrap;"></div>
+                                            <input type="text" id="ComposeETO" style="width: 100%; font-size: 14px; border: none; outline: none; box-sizing: border-box;">
+                                            <div class="autocomplete autocomplete-items" style="position: absolute; top: 100%; width: 100%; border: none; background: #fff;"></div>
+                                        </div>
+                                    </div>
+                                </div> -->
+                                <div class="col-md-1" style="text-align: right;">
+                                    <label class="text-right"><a href="#" onclick="addresstujuan()">To</a><span class="text-danger">*</span></label>
+                                </div>
+                                <div class="col-md-11">
+                                    <div class="form-group">
+                                        <div class="controls" style="display: flex; flex-direction: column; position: relative;">
+                                            <div class="data" style="display: flex; flex-wrap: wrap; margin-bottom: 5px;"></div>
+                                            <input type="text" id="ComposeETO" class="form-control" placeholder="To:" name="ComposeETO" style="width: 100%; font-size: 14px; box-sizing: border-box;">
+                                            <div class="autocomplete autocomplete-items" 
+                                                 style="position: absolute; top: 100%; width: 100%; border: 1px solid #ccc; background: #fff; max-height: 200px; overflow-y: auto;"></div>
+                                        </div>
                                     </div>
                                 </div>
-
-                            </div>
                         </div>
                         <div class="row">
                             <div class="col-md-1" style="text-align: right;">
@@ -291,9 +305,11 @@
                             </div>
                             <div class="col-md-11">
                                 <div class="form-group">
-                                    <div class="controls">
-                                        <input type="text" class="form-control" id="ComposeECC" name="ComposeECC" data-role="tagsinput">
-                                        <%--<input type="text" class="form-control" id="ComposeECC" name="ComposeECC" data-role="tagsinput" data-validation-regex-regex="((\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*)*([;])*)*" data-validation-regex-message="Format Email Address Invalid">--%>
+                                    <div class="controls" style="display: flex; flex-direction: column; position: relative;">
+                                        <div class="data" style="display: flex; flex-wrap: wrap; margin-bottom: 5px;"></div>
+                                        <input type="text" id="ComposeECC" class="form-control" placeholder="Cc:" name="ComposeECC" style="width: 100%; font-size: 14px; box-sizing: border-box;">
+                                        <div class="autocomplete autocomplete-items" 
+                                             style="position: absolute; top: 100%; width: 100%; border: 1px solid #ccc; background: #fff; max-height: 200px; overflow-y: auto;"></div>
                                     </div>
                                 </div>
                             </div>
@@ -516,15 +532,18 @@
                             </div>
                             <div class="row">
                                 <div class="col-md-1" style="text-align: right;">
-                                    <label style="text-align: right;">To <span class="text-danger">*</span></label>
+                                    <label style="text-align: right;">To</label>
                                 </div>
                                 <div class="col-md-11">
                                     <div class="form-group">
-                                        <div class="controls">
-                                            <input class="form-control" placeholder="To:" id="ForwardTo" name="ForwardTo" data-validation-regex-regex="((\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*)*([;])*)*" data-validation-regex-message="Format Email Address Invalid">
+                                        <div class="controls" style="display: flex; flex-direction: column; position: relative;">
+                                            <div class="data" style="display: flex; flex-wrap: wrap; margin-bottom: 5px;"></div>
+                                            <input type="text" id="ForwardTo" class="form-control" placeholder="To:" name="ForwardTo" style="width: 100%; font-size: 14px; box-sizing: border-box;">
+                                            <div class="autocomplete autocomplete-items" 
+                                                 style="position: absolute; top: 100%; width: 100%; border: 1px solid #ccc; background: #fff; max-height: 200px; overflow-y: auto;"></div>
                                         </div>
                                     </div>
-                                </div>
+                                </div>                                
                             </div>
                             <div class="row">
                                 <div class="col-md-1" style="text-align: right;">
@@ -532,8 +551,11 @@
                                 </div>
                                 <div class="col-md-11">
                                     <div class="form-group">
-                                        <div class="controls">
-                                            <input class="form-control" placeholder="CC:" type="text" id="ForwardECC" name="ForwardECC" data-validation-regex-regex="((\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*)*([;])*)*" data-validation-regex-message="Format Email Address Invalid">
+                                        <div class="controls" style="display: flex; flex-direction: column; position: relative;">
+                                            <div class="data" style="display: flex; flex-wrap: wrap; margin-bottom: 5px;"></div>
+                                            <input type="text" id="ForwardECC" class="form-control" placeholder="Cc:" name="ForwardECC" style="width: 100%; font-size: 14px; box-sizing: border-box;">
+                                            <div class="autocomplete autocomplete-items" 
+                                                 style="position: absolute; top: 100%; width: 100%; border: 1px solid #ccc; background: #fff; max-height: 200px; overflow-y: auto;"></div>
                                         </div>
                                     </div>
                                 </div>

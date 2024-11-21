@@ -47,11 +47,130 @@
             UIDESK_TrmCustomerCC($(this).val());
         }
     });
+
+    let _tag_input_suggestions_data = [];
+
+// Fungsi untuk menambahkan tag ke input
+function addTagToInput(container, data, email) {
+    let tagHTML = `
+    <span class="tag" _value="${data}" style="display: inline-flex; align-items: center; padding: 5px 10px; margin: 2px; background-color: #DB4437; color: #ffff; border-radius: 5px; font-size: 14px;">
+        ${email}
+        <span class="remove" style="margin-left: 10px; cursor: pointer; font-size: 17px; color: #ffff;">&times;</span>
+    </span>`;
+
+    $(container).append(tagHTML);
+
+    // Fungsi untuk menghapus tag
+    $(container).on("click", ".remove", function () {
+        $(this).parent().remove();
+    });
+}
+
+// Fungsi untuk menjalankan autocomplete
+function runAutocomplete(inputId) {
+    $(`#${inputId}`).on("keyup", function () {
+        let query = $(this).val();
+
+        if (query !== "") {
+            fetchSuggestions(query).then((suggestions) => {
+                displaySuggestions(inputId, suggestions);
+            });
+        } else {
+            $(`#${inputId}`).siblings('.autocomplete-items').html('');
+        }
+    });
+
+    $(document).on("click", `#${inputId} + .autocomplete-items div`, function () {
+        let index = $(this).index();
+        let data = _tag_input_suggestions_data[index];
+        let dataContainer = $(`#${inputId}`).siblings('.data');
+
+        addTagToInput(dataContainer, data.id, data.Email);
+
+        // Bersihkan nilai input setelah memilih suggestion
+        $(`#${inputId}`).val('');
+
+        $(`#${inputId}`).siblings('.autocomplete-items').html('');
+    });
+
+    $(`#${inputId}`).on("keydown", function (event) {
+        if (event.which === 13) {
+            let data = $(this).val();
+            if (data !== "") {
+                let dataContainer = $(this).siblings('.data');
+                addTagToInput(dataContainer, data, data);
+                $(this).val('');
+            }
+            return false;
+        }
+    });
+
+    $(`#${inputId}`).on("focusout", function () {
+        setTimeout(() => {
+            $(`#${inputId}`).siblings('.autocomplete-items').html('');
+        }, 200);
+    });
+}
+
+// Fungsi untuk mengambil data suggestions
+function fetchSuggestions(query) {
+    return $.ajax({
+        type: "POST",
+        url: "WebServiceGetDataMaster.asmx/UIDESK_TrmMasterCombo",
+        data: JSON.stringify({ TrxID: query, TrxUserName: $("#hd_sessionLogin").val(), TrxAction: 'DataEmail' }),
+        contentType: "application/json; charset=utf-8",
+        dataType: "json",
+    }).then((response) => {
+        let items = JSON.parse(response.d);
+        _tag_input_suggestions_data = items.map(item => ({ id: item.id, Email: item.Email }));
+        return _tag_input_suggestions_data;
+    });
+}
+
+function displaySuggestions(inputId, suggestions) {
+    let autocompleteDiv = $(`#${inputId}`).siblings('.autocomplete-items');
+    autocompleteDiv.html('');
+
+    // Pastikan elemen memiliki z-index tinggi dan position absolute
+    autocompleteDiv.css({
+        "z-index": 9999, // Pastikan ini lebih tinggi dari elemen lain
+        "position": "absolute", // Harus absolute atau relative
+    });
+
+    suggestions.forEach(function (suggestion) {
+        autocompleteDiv.append(`<div style="padding: 8px; color: black; border-bottom: 1px solid #ced4da;">${suggestion.Email}</div>`);
+    });
+}
+
+// Inisialisasi autocomplete untuk kedua input
+$(document).ready(function () {
+    runAutocomplete("ComposeETO");
+    runAutocomplete("ComposeECC");
+    runAutocomplete("ForwardTo");
+    runAutocomplete("ForwardECC");
+});
+
+
 });
 
 function GetDataEmail(emailNya) {
-    $('#tampungEmailSementara').append(emailNya+";");
-    $('#ComposeETO').val($('#tampungEmailSementara').text());
+    //alert(emailNya)
+    //$('#tampungEmailSementara').empty();
+    //$('#tampungEmailSementara').append(emailNya + ";");
+    const example1 = UseBootstrapTag(document.getElementById('example-methods'));
+    example1.addValue(emailNya);
+    //example.addValue(emailNya);
+    //document.getElementById('ComposeETO').removeClass()
+    //$('ComposeETO').tagsinput('remove', 'some tag');
+    //document.getElementById('ComposeETO').val = $('#tampungEmailSementara').text()
+    //$('#ComposeETO').val($('#tampungEmailSementara').text());
+    //alert("1 " + $('#tampungEmailSementara').text())
+    //alert("2 " + $('#ComposeETO').val())
+    //$('ComposeETO').tagsinput('add', 'some�tag');
+    //$('#ComposeETO').text('shafira.fatimah@kanmogroup.com;shafira.fatimah@kanmogroup.com');
+    //$('#ComposeETO').tagsinput('add');
+    //$('#ComposeETO').val($('#tampungEmailSementara').text());
+
 }
 function GetDataEmailCC(emailNya) {
     $('#tampungEmailSementaraCC').append(emailNya + ";");
