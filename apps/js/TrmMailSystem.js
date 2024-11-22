@@ -149,6 +149,7 @@ $(document).ready(function () {
     runAutocomplete("ForwardTo");
     runAutocomplete("ForwardECC");
     runAutocomplete("ReplyECC");
+
 });
 
 
@@ -985,6 +986,10 @@ function Compose_ActionButton() {
         });
         return false;
     }
+    const tags = document.querySelectorAll('.tag');
+    const emails = Array.from(tags).map(tag => tag.textContent.trim());
+    const result = emails.join('; ');
+    $("#ComposeETO").val(result);
     if ($("#ComposeETO").val() == '') {
         swal(
             '',
