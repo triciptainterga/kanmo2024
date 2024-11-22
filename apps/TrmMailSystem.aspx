@@ -429,8 +429,11 @@
                                 </div>
                                 <div class="col-md-11">
                                     <div class="form-group">
-                                        <div class="controls">
-                                            <input class="form-control" placeholder="CC:" type="text" id="ReplyECC" name="ReplyECC" data-validation-regex-regex="((\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*)*([;])*)*" data-validation-regex-message="Format Email Address Invalid">
+                                        <div class="controls" style="display: flex; flex-direction: column; position: relative;">
+                                            <div class="data" style="display: flex; flex-wrap: wrap; margin-bottom: 5px;"></div>
+                                            <input type="text" id="ReplyECC" class="form-control" placeholder="Cc:" name="ReplyECC" style="width: 100%; font-size: 14px; box-sizing: border-box;">
+                                            <div class="autocomplete autocomplete-items" 
+                                                 style="position: absolute; top: 100%; width: 100%; border: 1px solid #ccc; background: #fff; max-height: 200px; overflow-y: auto;"></div>
                                         </div>
                                     </div>
                                 </div>

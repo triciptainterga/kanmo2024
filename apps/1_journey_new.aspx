@@ -839,7 +839,7 @@
                                 <div class="form-group">
                                     <div class="controls" style="display: flex; flex-direction: column; position: relative;">
                                         <div class="data" style="display: flex; flex-wrap: wrap; margin-bottom: 5px;"></div>
-                                        <input type="text" id="ComposeECC" class="form-control" placeholder="To:" name="ComposeECC" style="width: 100%; font-size: 14px; box-sizing: border-box;">
+                                        <input type="text" id="ComposeECC" class="form-control" placeholder="Cc:" name="ComposeECC" style="width: 100%; font-size: 14px; box-sizing: border-box;">
                                         <div class="autocomplete autocomplete-items" 
                                              style="position: absolute; top: 100%; width: 100%; border: 1px solid #ccc; background: #fff; max-height: 200px; overflow-y: auto;"></div>
                                     </div>

@@ -148,6 +148,7 @@ $(document).ready(function () {
     runAutocomplete("ComposeECC");
     runAutocomplete("ForwardTo");
     runAutocomplete("ForwardECC");
+    runAutocomplete("ReplyECC");
 });
 
 
